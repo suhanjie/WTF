@@ -1,0 +1,10 @@
+VER 3 0100000000000002 "幽灵视觉" "INV_MISC_QUESTIONMARK"
+#showtooltips 幽灵视觉
+/cast 幽灵视觉
+/run local f=RbA or CreateFrame("Frame","RbA") f:SetScript("OnEvent",function(s,e,u,p) if u=="player" and p=="幽灵视觉" then PlaySoundFile("Sound\\我看到你们了.mp3") end end) f:RegisterEvent("UNIT_SPELLCAST_SUCCEEDED")
+END
+VER 3 0100000000000001 "恶魔变形" "INV_MISC_QUESTIONMARK"
+#showtooltips 恶魔变形
+/cast 恶魔变形
+/run local f=RbA or CreateFrame("Frame","RbA") f:SetScript("OnEvent",function(s,e,u,p) if u=="player" and p=="恶魔变形" then PlaySoundFile("Sound\\伊利丹.ogg") end end) f:RegisterEvent("UNIT_SPELLCAST_SUCCEEDED")
+END

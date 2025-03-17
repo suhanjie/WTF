@@ -1,0 +1,85 @@
+VER 3 0100000000000011 "jile" "INV_MISC_QUESTIONMARK"
+#showtooltip 极乐敕令
+/cast [@cursor] 极乐敕令
+END
+VER 3 0100000000000012 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000006 "不断" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence [nochanneling] 眼棱,刃舞
+END
+VER 3 0100000000000002 "单爆" "INV_MISC_QUESTIONMARK"
+#showtooltips 混乱之刃
+/cast 混乱之刃
+/use 13
+/use 14
+END
+VER 3 0100000000000005 "变身" "1247263"
+#showtooltip
+/cast [@cursor] 恶魔变形
+END
+VER 3 0100000000000007 "弹幕" "INV_MISC_QUESTIONMARK"
+#showtooltip 邪能弹幕
+/use 13
+/use 14
+/cast 邪能弹幕
+END
+VER 3 0100000000000004 "怒" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:1/3]恶魔之咬;[talent:1/2]邪能之刃
+END
+VER 3 0100000000000013 "怨咒" "134400"
+#showtooltip
+/cast [@cursor] 怨念咒符
+END
+VER 3 010000000000000C "悲苦" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 悲苦咒符
+END
+VER 3 0100000000000009 "打断" "INV_MISC_QUESTIONMARK"
+#showtooltip 瓦解 
+/cast [target=focus,exists] 瓦解;瓦解
+END
+VER 3 010000000000000D "极乐" "INV_MISC_QUESTIONMARK"
+#showtooltip 极乐敕令
+/cast [@cursor] 极乐敕令
+END
+VER 3 010000000000000B "沉默" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 沉默咒符
+END
+VER 3 010000000000000A "烈焰" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 烈焰咒符
+END
+VER 3 0100000000000003 "爆发" "SPELL_MAGIC_MANAGAIN"
+/cast 涅墨西斯
+/cast 混乱之刃
+/use 13
+/use 14
+END
+VER 3 0100000000000014 "破尖" "134400"
+#showtooltip 破裂
+/cast 恶魔尖刺
+/cast 破裂
+END
+VER 3 0100000000000001 "羽毛" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+END
+VER 3 0100000000000010 "锁链" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 锁链咒符
+END
+VER 3 010000000000000E "饰品1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 010000000000000F "饰品2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 0100000000000008 "驱散" "INV_MISC_QUESTIONMARK"
+#showtooltip 吞噬魔法 
+/cast [target=focus,exists] 吞噬魔法;吞噬魔法
+END

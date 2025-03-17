@@ -1,0 +1,12 @@
+VER 3 0100000000000003 "营" "134400"
+#showtooltip
+/cast [button:2] 扎营; 返回营地
+END
+VER 3 0100000000000004 "雪" "134400"
+#showtooltip
+/cast [@cursor] 暴风雪
+END
+VER 3 0100000000000005 "面包" "134400"
+#showtooltip 魔法汉堡
+/cast [button:2] 造餐术; 魔法汉堡
+END

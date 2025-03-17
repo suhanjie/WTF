@@ -1,0 +1,47 @@
+VER 3 0100000000000008 "吸取灵魂" "136163"
+#showtooltip 吸取灵魂
+/cast [@mouseover,harm,nodead] 吸取灵魂;吸取灵魂 
+END
+VER 3 0100000000000003 "宠物" "136103"
+/click PetActionButton5
+END
+VER 3 0100000000000001 "按键宏" "135833"
+/click ExtraActionButton1
+END
+VER 3 0100000000000007 "放逐术" "136135"
+#showtooltip 放逐术
+/cast [@mouseover,harm,nodead] 放逐术；放逐术
+END
+VER 3 0100000000000002 "灵魂收割" "463284"
+#showtooltip 灵魂收割
+/cast 灵魂收割
+/use 13
+END
+VER 3 0100000000000009 "生命虹吸" "136188"
+#showtooltip 生命虹吸
+/cast [@mouseover,harm,nodead] 生命虹吸;生命虹吸
+END
+VER 3 0100000000000004 "痛楚" "136139"
+#showtooltip 痛楚
+/cast [@mouseover,harm,nodead] 痛楚;痛楚 
+END
+VER 3 010000000000000A "痛苦无常" "136228"
+#showtooltip 痛苦无常
+/tar 瓦里玛萨斯之影
+/cast 痛苦无常
+END
+VER 3 0100000000000006 "痛苦无常" "136228"
+#showtooltip 痛苦无常
+/cast [@mouseover,harm,nodead] 痛苦无常;痛苦无常
+END
+VER 3 010000000000000B "目标宏" "136103"
+/tar 瓦里玛萨斯之影
+END
+VER 3 010000000000000E "糖" "134400"
+#showtooltip
+/cast [button:2] 制造灵魂之井; 制造治疗石
+END
+VER 3 0100000000000005 "腐蚀" "136118"
+#showtooltip 腐蚀术
+/cast [@mouseover,harm,nodead] 腐蚀术;腐蚀术
+END

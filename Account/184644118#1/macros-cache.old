@@ -1,0 +1,109 @@
+VER 3 0000000000000014 " 大招" "915740"
+/NN 3
+END
+VER 3 0000000000000012 " 暂停" "915744"
+/NN 1
+END
+VER 3 0000000000000013 " 模式" "915741"
+/NN 2
+END
+VER 3 0000000000000015 " 饰品" "915743"
+/NN 9
+END
+VER 3 000000000000000F "1炉石" "413582"
+#showtooltip 炉石
+/use [button:2] 达拉然炉石; [button:3] 要塞炉石; 黑暗之门
+END
+VER 3 0000000000000002 "1额外" "134400"
+#showtooltip ExtraActionButton1
+/click ExtraActionButton1
+/施放 投网
+/施放 黑龙军团的旗帜
+/施放 暗月工具包
+/施放 废弃的武器
+/施放 储备铁块
+/施放 马蹄铁
+/施放 调酒器
+/施放 爆炸棍
+/施放 预言墨水
+/施放 G-99疾飚飞车
+END
+VER 3 0000000000000016 "Decursive" "INV_MISC_QUESTIONMARK"
+/script DecursiveRootTable.Dcr:Println('没有相关技能')
+END
+VER 3 0000000000000011 "O-专业" "134400"
+#showtooltip
+/click ORLOpen CommonTrades
+END
+VER 3 000000000000001C "专业" "134400"
+#showtooltip
+/cast [known:工程学] 工程学; [known:制皮] 制皮; [known:珠宝加工] 珠宝加工;[known:裁缝] 裁缝; [known: 锻造] 锻造; [known:炼金术] 炼金术
+END
+VER 3 000000000000000E "取消保护" "INV_MISC_QUESTIONMARK"
+#showtooltip 保护祝福
+/cancelaura 保护祝福
+END
+VER 3 000000000000001A "坐骑" "134400"
+#showtooltip 战火梦魇兽
+/dismount
+/cast [button:3] 切换飞行模式
+/cast [known:战斗怒吼] 战斗怒吼
+/cast [known:奥术智慧] 奥术智慧
+/cast [known:真言术：韧] 真言术：韧
+/cast [button:2] 雄壮远足牦牛; [swimming] 乌龟坐骑; [nomounted, noflyable] G-99疾飙飞车; 冷焰风暴
+END
+VER 3 0000000000000018 "大米" "135741"
+/click ORLOpen x
+END
+VER 3 0000000000000019 "嫁祸" "134400"
+#showtooltips 嫁祸诀窍
+/click LWS_AutoMisdirect LeftButton 1
+/click LWS_AutoMisdirect LeftButton 0
+END
+VER 3 000000000000000B "屏蔽LUA" "INV_MISC_QUESTIONMARK"
+/run SetCVar("ScriptErrors","0")
+END
+VER 3 0000000000000001 "弹窗确定" "ACHIEVEMENT_GUILDPERK_GMAIL"
+/click StaticPopup1Button1
+END
+VER 3 0000000000000017 "断" "134400"
+#showtooltip 心灵冰冻
+/cleartarget [@focus,noexists]
+/targetenemy [@focus,noexists]
+/cast [target=focus,harm,exists][target=target,harm,exists]心灵冰冻
+/targetlasttarget [@focus,noexists]
+END
+VER 3 000000000000000D "月光蓓蕾" "INV_MISC_QUESTIONMARK"
+/tar 月光蓓蕾
+END
+VER 3 000000000000000C "标记" "INV_MISC_QUESTIONMARK"
+/click ORLOpen WorldMarkers
+END
+VER 3 000000000000001D "翻页1" "134400"
+/swapactionbar 1 2
+END
+VER 3 000000000000001E "翻页2" "134400"
+/swapactionbar 2
+END
+VER 3 0000000000000006 "过气药水" "INV_MISC_QUESTIONMARK"
+#showtooltip 延时之力药水
+/use 延时之力药水
+/use 上古战神药水
+END
+VER 3 000000000000001B "附魔" "134400"
+#showtooltip 附魔
+/cast [button:2] 附魔; 分解 
+END
+VER 3 0000000000000009 "饰1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 0000000000000008 "饰2" "INV_MISC_QUESTIONMARK"
+#showtooltip 14
+/use 14
+END
+VER 3 0000000000000003 "骷髅药水" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura 诺格弗格药剂
+/use 诺格弗格药剂
+END

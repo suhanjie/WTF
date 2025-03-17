@@ -1,0 +1,174 @@
+bind A STRAFELEFT
+bind LEFT NONE
+bind D STRAFERIGHT
+bind RIGHT NONE
+bind Q MULTIACTIONBAR1BUTTON3
+bind E MULTIACTIONBAR1BUTTON4
+bind NUMPAD0 CLICK PD_Targetbutton_1:LeftButton
+bind X MULTIACTIONBAR1BUTTON2
+bind Z MULTIACTIONBAR1BUTTON1
+bind BUTTON4 NONE
+bind NUMPADDIVIDE NONE
+bind R MULTIACTIONBAR2BUTTON5
+bind 7 CLICK PD_Spellbutton_1:LeftButton
+bind 8 CLICK PD_Spellbutton_2:LeftButton
+bind 9 CLICK PD_Spellbutton_3:LeftButton
+bind 0 ALTOHOLIC_TOGGLE
+bind - CLICK PD_Spellbutton_5:LeftButton
+bind = CLICK PD_Spellbutton_6:LeftButton
+bind CTRL-F8 CLICK PD_Targetbutton_41:LeftButton
+bind CTRL-F9 CLICK PD_Targetbutton_42:LeftButton
+bind CTRL-F10 CLICK PD_Targetbutton_43:LeftButton
+bind CTRL-1 ACTIONBUTTON11
+bind CTRL-2 MULTIACTIONBAR1BUTTON11
+bind CTRL-3 MULTIACTIONBAR2BUTTON11
+bind CTRL-4 NONE
+bind CTRL-5 NONE
+bind CTRL-6 NONE
+bind CTRL-TAB NONE
+bind F1 MULTIACTIONBAR3BUTTON1
+bind F2 ELVUIBAR2BUTTON2
+bind F3 ELVUIBAR2BUTTON3
+bind F4 ELVUIBAR2BUTTON4
+bind F5 NONE
+bind G MULTIACTIONBAR1BUTTON6
+bind F MULTIACTIONBAR1BUTTON5
+bind F8 CLICK PD_Spellbutton_33:LeftButton
+bind F9 CLICK PD_Spellbutton_34:LeftButton
+bind F10 CLICK PD_Spellbutton_35:LeftButton
+bind F12 STARTAUTORUN
+bind SHIFT-I CLICK PD_Spellbutton_25:LeftButton
+bind SHIFT-O CLICK PD_Spellbutton_23:LeftButton
+bind CTRL-S NONE
+bind ALT-Z MULTIACTIONBAR2BUTTON1
+bind MOUSEWHEELUP MULTIACTIONBAR4BUTTON12
+bind MOUSEWHEELDOWN INTERACTTARGET
+bind CTRL-R NONE
+bind CTRL-Q NONE
+bind CTRL-W NONE
+bind CTRL-E NONE
+bind CTRL-A NONE
+bind SHIFT-[ CLICK PD_Spellbutton_19:LeftButton
+bind NUMPAD5 CLICK PD_Targetbutton_6:LeftButton
+bind NUMPAD1 CLICK PD_Targetbutton_2:LeftButton
+bind NUMPAD3 CLICK PD_Targetbutton_4:LeftButton
+bind CTRL-MOUSEWHEELUP CAMERAZOOMIN
+bind CTRL-MOUSEWHEELDOWN CAMERAZOOMOUT
+bind SHIFT-J CLICK PD_Spellbutton_26:LeftButton
+bind T MULTIACTIONBAR2BUTTON6
+bind BUTTON5 TOGGLEAUTORUN
+bind ALT-X MULTIACTIONBAR2BUTTON2
+bind ALT-C MULTIACTIONBAR1BUTTON9
+bind ALT-1 ACTIONBUTTON12
+bind ALT-2 MULTIACTIONBAR1BUTTON12
+bind ALT-3 MULTIACTIONBAR2BUTTON12
+bind ALT-A ACTIONBUTTON7
+bind ALT-S ACTIONBUTTON8
+bind ALT-D ACTIONBUTTON9
+bind ALT-Q MULTIACTIONBAR2BUTTON3
+bind ALT-W MULTIACTIONBAR1BUTTON8
+bind ALT-E MULTIACTIONBAR2BUTTON4
+bind ` MULTIACTIONBAR2BUTTON8
+bind SHIFT-F NONE
+bind F6 CLICK PD_Spellbutton_31:LeftButton
+bind SHIFT-1 ACTIONBUTTON10
+bind SHIFT-2 MULTIACTIONBAR1BUTTON10
+bind SHIFT-3 MULTIACTIONBAR2BUTTON10
+bind SHIFT-4 NONE
+bind SHIFT-5 NONE
+bind SHIFT-6 CLICK PD_Spellbutton_12:LeftButton
+bind CTRL-H TOGGLERUN
+bind CTRL-D NONE
+bind CTRL-F NONE
+bind [ CLICK PD_Spellbutton_7:LeftButton
+bind ] CLICK PD_Spellbutton_8:LeftButton
+bind CTRL-` NONE
+bind CTRL-SPACE INTERACTTARGET
+bind SHIFT-Z NONE
+bind BACKSPACE NONE
+bind NUMPAD2 CLICK PD_Targetbutton_3:LeftButton
+bind NUMPAD4 CLICK PD_Targetbutton_5:LeftButton
+bind NUMPAD6 CLICK PD_Targetbutton_7:LeftButton
+bind NUMPAD7 CLICK PD_Targetbutton_8:LeftButton
+bind NUMPAD8 CLICK PD_Targetbutton_9:LeftButton
+bind NUMPAD9 CLICK PD_Targetbutton_10:LeftButton
+bind CTRL-NUMPAD0 CLICK PD_Targetbutton_11:LeftButton
+bind CTRL-NUMPAD1 CLICK PD_Targetbutton_12:LeftButton
+bind CTRL-NUMPAD2 CLICK PD_Targetbutton_13:LeftButton
+bind CTRL-NUMPAD3 CLICK PD_Targetbutton_14:LeftButton
+bind CTRL-NUMPAD4 CLICK PD_Targetbutton_15:LeftButton
+bind CTRL-NUMPAD5 CLICK PD_Targetbutton_16:LeftButton
+bind CTRL-NUMPAD6 CLICK PD_Targetbutton_17:LeftButton
+bind CTRL-NUMPAD7 CLICK PD_Targetbutton_18:LeftButton
+bind CTRL-NUMPAD8 CLICK PD_Targetbutton_19:LeftButton
+bind CTRL-NUMPAD9 CLICK PD_Targetbutton_20:LeftButton
+bind ALT-NUMPAD0 CLICK PD_Targetbutton_21:LeftButton
+bind ALT-NUMPAD1 CLICK PD_Targetbutton_22:LeftButton
+bind ALT-NUMPAD2 CLICK PD_Targetbutton_23:LeftButton
+bind ALT-NUMPAD3 CLICK PD_Targetbutton_24:LeftButton
+bind ALT-NUMPAD4 CLICK PD_Targetbutton_25:LeftButton
+bind ALT-NUMPAD5 CLICK PD_Targetbutton_26:LeftButton
+bind ALT-NUMPAD6 CLICK PD_Targetbutton_27:LeftButton
+bind ALT-NUMPAD7 CLICK PD_Targetbutton_28:LeftButton
+bind ALT-NUMPAD8 CLICK PD_Targetbutton_29:LeftButton
+bind ALT-NUMPAD9 CLICK PD_Targetbutton_30:LeftButton
+bind ALT-CTRL-NUMPAD0 CLICK PD_Targetbutton_31:LeftButton
+bind ALT-CTRL-NUMPAD1 CLICK PD_Targetbutton_32:LeftButton
+bind ALT-CTRL-NUMPAD2 CLICK PD_Targetbutton_33:LeftButton
+bind ALT-CTRL-NUMPAD3 CLICK PD_Targetbutton_34:LeftButton
+bind ALT-CTRL-NUMPAD4 CLICK PD_Targetbutton_35:LeftButton
+bind ALT-CTRL-NUMPAD5 CLICK PD_Targetbutton_36:LeftButton
+bind ALT-CTRL-NUMPAD6 CLICK PD_Targetbutton_37:LeftButton
+bind ALT-CTRL-NUMPAD7 CLICK PD_Targetbutton_38:LeftButton
+bind ALT-CTRL-NUMPAD8 CLICK PD_Targetbutton_39:LeftButton
+bind ALT-CTRL-NUMPAD9 CLICK PD_Targetbutton_40:LeftButton
+bind CTRL-F11 CLICK PD_Targetbutton_44:LeftButton
+bind CTRL-F12 CLICK PD_Targetbutton_45:LeftButton
+bind ALT-SHIFT-F7 CLICK PD_Targetbutton_46:LeftButton
+bind ALT-SHIFT-F8 CLICK PD_Targetbutton_47:LeftButton
+bind ALT-SHIFT-F9 CLICK PD_Targetbutton_48:LeftButton
+bind \ CLICK PD_Spellbutton_9:LeftButton
+bind ' CLICK PD_Spellbutton_10:LeftButton
+bind ; CLICK PD_Spellbutton_11:LeftButton
+bind SHIFT-7 CLICK PD_Spellbutton_13:LeftButton
+bind SHIFT-8 CLICK PD_Spellbutton_14:LeftButton
+bind SHIFT-9 CLICK PD_Spellbutton_15:LeftButton
+bind SHIFT-0 CLICK PD_Spellbutton_16:LeftButton
+bind SHIFT-n CLICK PD_Spellbutton_17:LeftButton
+bind SHIFT-= CLICK PD_Spellbutton_18:LeftButton
+bind SHIFT-] CLICK PD_Spellbutton_20:LeftButton
+bind SHIFT-\ CLICK PD_Spellbutton_21:LeftButton
+bind SHIFT-; CLICK PD_Spellbutton_22:LeftButton
+bind SHIFT-h CLICK PD_Spellbutton_24:LeftButton
+bind SHIFT-k CLICK PD_Spellbutton_27:LeftButton
+bind SHIFT-l CLICK PD_Spellbutton_28:LeftButton
+bind ALT-F7 CLICK PD_Spellbutton_29:LeftButton
+bind . CLICK PD_Spellbutton_30:LeftButton
+bind F7 CLICK PD_Spellbutton_32:LeftButton
+bind ALT-SHIFT-1 CLICK PD_Spellbutton_36:LeftButton
+bind ALT-SHIFT-2 CLICK PD_Spellbutton_37:LeftButton
+bind ALT-SHIFT-3 CLICK PD_Spellbutton_38:LeftButton
+bind ALT-SHIFT-4 CLICK PD_Spellbutton_39:LeftButton
+bind CTRL-ALT-5 CLICK PD_Spellbutton_40:LeftButton
+bind CTRL-ALT-6 CLICK PD_Spellbutton_41:LeftButton
+bind CTRL-ALT-7 CLICK PD_Spellbutton_42:LeftButton
+bind CTRL-ALT-8 CLICK PD_Spellbutton_43:LeftButton
+bind CTRL-ALT-9 CLICK PD_Spellbutton_44:LeftButton
+bind CTRL-ALT-o CLICK PD_Spellbutton_45:LeftButton
+bind CTRL-ALT-p CLICK PD_Spellbutton_46:LeftButton
+bind CTRL-ALT-j CLICK PD_Spellbutton_47:LeftButton
+bind CTRL-ALT-k CLICK PD_Spellbutton_48:LeftButton
+bind CTRL-ALT-l CLICK PD_Spellbutton_49:LeftButton
+bind CTRL-ALT-m CLICK PD_Spellbutton_50:LeftButton
+bind CTRL-ALT-[ CLICK PD_Spellbutton_51:LeftButton
+bind CTRL-ALT-] CLICK PD_Spellbutton_52:LeftButton
+bind CTRL-ALT-\ CLICK PD_Spellbutton_53:LeftButton
+bind CTRL-ALT-; CLICK PD_Spellbutton_54:LeftButton
+bind CTRL-ALT-' CLICK PD_Spellbutton_55:LeftButton
+bind CTRL-ALT-, CLICK PD_Spellbutton_56:LeftButton
+bind CTRL-ALT-. CLICK PD_Spellbutton_57:LeftButton
+bind SHIFT-MOUSEWHEELUP TOGGLEPINGLISTENER
+bind SHIFT-MOUSEWHEELDOWN PREVIOUSACTIONPAGE
+bind SHIFT-A NONE
+bind SHIFT-D NEXTACTIONPAGE
+bind ALT-MOUSEWHEELUP MULTIACTIONBAR3BUTTON12

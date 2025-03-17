@@ -1,0 +1,54 @@
+VER 3 010000000000000A "冰" "134400"
+#showtooltip 冰霜之柱
+/use 13
+/use 14
+/cast 冰霜之柱
+/cast 死神印记
+END
+VER 3 0100000000000002 "冰爆" "134400"
+#showtooltip 冰霜之柱
+/use 13
+/use 14
+/use 淬火药水
+/cast 冰霜之柱
+/cast 死神印记
+END
+VER 3 0100000000000001 "凋零" "134400"
+#showtooltip 枯萎凋零
+/cast [@player] 枯萎凋零
+END
+VER 3 0100000000000008 "握" "134400"
+#showtooltip
+/施放 [mod,@focus,exists,harm,nodead][nomod,@mouseover,exists,harm,nodead][]死亡之握
+END
+VER 3 0100000000000005 "断" "134400"
+#showtooltip 心灵冰冻
+/cleartarget [@focus,noexists]
+/targetenemy [@focus,noexists]
+/cast [target=focus,harm,exists][target=target,harm,exists]心灵冰冻
+/targetlasttarget [@focus,noexists]
+END
+VER 3 0100000000000007 "步" "237561"
+#showtooltip 死亡脚步
+/castsequence reset=3 死亡脚步,x
+END
+VER 3 0100000000000004 "死神" "134400"
+#showtooltip 死神印记
+/use 13
+/use 14
+/cast 死神印记
+END
+VER 3 0100000000000006 "罩" "134400"
+#showtooltip
+/cast [@player] 反魔法领域
+END
+VER 3 0100000000000009 "魂" "134400"
+#showtooltip
+/cast [know:灵魂收割] 灵魂收割; [know:幻影步] 幻影步
+END
+VER 3 0100000000000003 "龙喷" "134400"
+#showtooltip 冰龙吐息
+/cast 符文武器增效
+/cast 亡者复生
+/cast !冰龙吐息
+END

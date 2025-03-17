@@ -1,0 +1,52 @@
+VER 3 0100000000000011 "Dancing Rune" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Dancing Rune Weapon
+/use 14
+/cancelaura Hand of Protection
+END
+VER 3 010000000000000E "Death Coil" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@targettarget] Death Coil
+END
+VER 3 0100000000000006 "Gorefiend's Gras" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=player] Gorefiend's Grasp
+/cast Remorseless Winter
+END
+VER 3 0100000000000009 "Healthstone/Pot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Healthstone; [mod:shift] Master Healing Potion; [mod:alt] Potion of Mogu Power
+END
+VER 3 010000000000000C "Heart Boil" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Heart Strike; [mod:shift] Blood Boil
+END
+VER 3 010000000000000F "IBF" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Icebound Fortitude
+/cast Might of Ursoc
+END
+VER 3 0100000000000004 "Lichborne" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Hand of Protection
+/cast !Lichborne
+/cast [target=player] Death Coil
+END
+VER 3 0100000000000007 "Pillar of Frost" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Pillar of Frost
+/use 10
+/cast Raise Dead
+/cancelaura Hand of Protection
+END
+VER 3 010000000000000A "Raise Ally" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/script SendChatMessage("You've been Rezzed!", "WHISPER", nil, UnitName("mouseover"));
+/cast Raise Ally
+     
+END
+VER 3 0100000000000005 "Rocket Jump" "INV_MISC_QUESTIONMARK"
+#showtooltip Rocket Jump
+/cast Rocket Jump
+/use 15
+END

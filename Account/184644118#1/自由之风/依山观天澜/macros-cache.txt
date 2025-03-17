@@ -1,0 +1,60 @@
+VER 3 0100000000000011 "VuhDoDCShieldData" "Ability_Repair"
+P1NT1HM1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000012 "VuhDoDCShieldNames" "Ability_Repair"
+N化蝶丶海水扬暖阳乀[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]依山观[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000007 "原地" "INV_MISC_QUESTIONMARK"
+#show 破坏者
+/cast 战吼
+/cast [@player]破坏者
+END
+VER 3 0100000000000013 "取消" "INV_MISC_QUESTIONMARK"
+#showtooltip 剑刃风暴
+/cancelaura 剑刃风暴
+END
+VER 3 0100000000000002 "取消激怒" "INV_JEWELRY_TRINKET_04"
+/cancelAura 激怒
+END
+VER 3 0100000000000010 "天命" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2]天神下凡;[talent:6/3]致命平静
+/use 13
+/use 力量战斗药水
+END
+VER 3 0100000000000004 "天神" "134400"
+#showtooltips 天神下凡
+/use 13
+/use 14
+/cast 天神下凡
+END
+VER 3 0100000000000006 "战风车" "INV_MISC_QUESTIONMARK"
+#showtooltip 战吼
+/cast 天神下凡
+/cast [talent:7/2]战吼;[talent:7/1]战吼;[@player][talent:7/3]破坏者;
+/use 13
+/use 14
+/cast [talent:7/2]剑刃风暴;[talent:7/1]剑刃风暴;[talent:7/3]战吼;
+END
+VER 3 010000000000000F "打断" "INV_MISC_QUESTIONMARK"
+#showtooltips 拳击
+/stopcasting
+/cast [target=focus,exists] 拳击;拳击
+END
+VER 3 0100000000000001 "爆发" "INV_MISC_QUESTIONMARK"
+#showtooltips 鲁莽
+/startattack
+/cast 鲁莽
+END
+VER 3 0100000000000008 "猛击&旋风斩" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:3/1]旋风斩;[talent:3/2]猛击;[talent:3/3]猛击
+END
+VER 3 010000000000000E "转吼" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2]巨龙怒吼;[talent:6/3]剑刃风暴
+END
+VER 3 0100000000000009 "鼠破" "INV_MISC_QUESTIONMARK"
+#showtooltip 破坏者
+/cast [@cursor]破坏者
+END

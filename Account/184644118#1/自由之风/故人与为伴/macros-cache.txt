@@ -1,0 +1,16 @@
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+P1SH1WT1EM1HR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1MR[x][x]0__0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+N灬吥乖炎煌邪乄憨Yil[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]故人与[x][x]脊骨撕裂蹄牛[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "冰脉+SP" "INV_MISC_QUESTIONMARK"
+#showtooltip 冰冷血脉
+/cast 冰冷血脉
+/use 13
+/use 14
+END
+VER 3 0100000000000001 "暴风雪" "INV_MISC_QUESTIONMARK"
+#showtooltip 暴风雪
+/cast [@cursor] 暴风雪
+END

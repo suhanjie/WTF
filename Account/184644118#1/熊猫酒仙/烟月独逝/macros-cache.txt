@@ -1,0 +1,87 @@
+VER 3 010000000000000C "test" "134400"
+#showtooltips
+/castsequence reset=4 伏击,斩击
+END
+VER 3 0100000000000011 "冷-分" "134400"
+#showtooltip 影分身
+/施放 冷血
+/施放 影分身
+END
+VER 3 0100000000000013 "切割" "134400"
+#showtooltip 
+/cleartarget [nocombat]
+/cast 切割
+/targetlasttarget [nocombat]
+END
+VER 3 010000000000000F "剑刃-潜行" "132350"
+#showtooltip 剑刃乱舞
+/施放 剑刃乱舞
+/施放 !潜行
+END
+VER 3 0100000000000003 "嫁祸" "134400"
+#showtooltips 嫁祸诀窍
+/click LWS_AutoMisdirect LeftButton 1
+/click LWS_AutoMisdirect LeftButton 0
+END
+VER 3 0100000000000008 "影舞-伏击" "134400"
+#showtooltips
+/castsequence reset=4 暗影之舞,伏击,斩击
+END
+VER 3 0100000000000012 "影袭" "134400"
+#showtooltip 
+/startattack
+/施放 影袭
+END
+VER 3 0100000000000004 "手枪" "134400"
+#showtooltip 
+/startattack
+/施放 手枪射击
+END
+VER 3 0100000000000014 "断" "134400"
+#showtooltip
+/cleartarget [@focus,noexists]
+/targetenemy [@focus,noexists]
+/cast [@focus,harm,nodead] [@target,harm] 脚踢
+END
+VER 3 0100000000000006 "暗步-鼠" "132303"
+#showtooltip
+/cast [target=mouseover,exists][]暗影步
+/施放 闷棍
+/cast [nostance:1]潜行
+END
+VER 3 010000000000000D "毒刃-鼠" "134400"
+#showtooltip
+/cast [@mouseover,harm,nodead][]毒刃
+END
+VER 3 0100000000000007 "消失" "132331"
+#showtooltips
+/STOPATTACK
+/施放 消失
+END
+VER 3 0100000000000009 "潜行" "134400"
+#showtooltip 潜行
+/施放 !潜行
+END
+VER 3 0100000000000005 "眉心" "134400"
+#showtooltip 正中眉心
+/startattack
+/cast 鬼魅攻击
+/cast 正中眉心
+END
+VER 3 010000000000000B "致盲-鼠" "134400"
+#showtooltip
+/cast [@mouseover,harm,nodead][]致盲
+END
+VER 3 010000000000000A "遁-潜" "134400"
+#showtooltip
+/STOPATTACK
+/castsequence reset=4 影遁,!潜行
+END
+VER 3 010000000000000E "骰子" "1373910"
+#showtooltips 命运骨骰
+/施放 命运骨骰
+END
+VER 3 0100000000000010 "鼠-抓钩" "134400"
+#showtooltip
+/cast [@cursor]抓钩
+END

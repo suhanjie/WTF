@@ -1,0 +1,44 @@
+VER 3 0100000000000001 "伤害文字" "237446"
+/console floatingCombatTextCombatDamage 0
+END
+VER 3 0100000000000004 "净化邪恶" "236216"
+#showtooltip 净化邪恶
+/cast [@target,harm,nodead][@targettarget,harm,nodead][@targettargettarget,harm,nodead][@targettargettargettarget,harm,nodead] 净化邪恶;净化邪恶;净化邪恶;净化邪恶
+END
+VER 3 010000000000000A "吸血鬼之触" "135978"
+#showtooltip 吸血鬼之触
+/cast [@mouseover,harm,nodead] 吸血鬼之触;吸血鬼之触
+END
+VER 3 0100000000000007 "圣光之怒" "1271590"
+#showtooltip 圣光之怒(神器)
+/cast [@target,harm,nodead][@targettarget,harm,nodead][@targettargettarget,harm,nodead][@targettargettargettarget,harm,nodead] 圣光之怒(神器);圣光之怒(神器);圣光之怒(神器);圣光之怒(神器)
+END
+VER 3 0100000000000005 "天堂之羽" "642580"
+#showtooltip 天堂之羽
+/施放 [@player] 天堂之羽
+END
+VER 3 0100000000000006 "惩击" "135924"
+#showtooltip 惩击
+/cast [@target,harm,nodead][@targettarget,harm,nodead][@targettargettarget,harm,nodead][@targettargettargettarget,harm,nodead] 惩击;惩击;惩击;惩击
+END
+VER 3 0100000000000002 "按键宏" "135833"
+/click ExtraActionButton1
+END
+VER 3 0100000000000009 "摧心魔" "136214"
+#showtooltip 摧心魔
+/施放 摧心魔
+/use 14
+END
+VER 3 0100000000000008 "摧心魔" "136214"
+#showtooltip 摧心魔
+/cast [@target,harm,nodead][@targettarget,harm,nodead][@targettargettarget,harm,nodead][@targettargettargettarget,harm,nodead] 摧心魔;摧心魔;摧心魔;摧心魔
+END
+VER 3 0100000000000003 "消散" "237563"
+#showtooltip 消散
+/cast 消散
+/cancelaura 消散
+END
+VER 3 010000000000000B "痛" "136207"
+#showtooltip 暗言术：痛
+/cast [@mouseover,harm,nodead] 暗言术：痛;暗言术：痛
+END

@@ -1,0 +1,20 @@
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]再睡一[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "多重" "INV_MISC_QUESTIONMARK"
+#showtooltip 多重射击
+/cast [target=mouseover,harm,exists]  多重射击
+/cast [target=target,harm,exists]  多重射击
+/cast 多重射击
+END
+VER 3 0100000000000001 "误导" "INV_MISC_QUESTIONMARK"
+#showtooltip 误导
+/cast [target=focus, help]误导
+/cast [target=focustarget, help]误导
+/cast [target=target, help]误导
+/cast [target=targettarget, help]误导
+/cast [target=pet, nodead, exists]误导
+END

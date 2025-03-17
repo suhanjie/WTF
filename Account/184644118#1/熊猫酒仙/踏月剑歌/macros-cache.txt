@@ -1,0 +1,71 @@
+VER 3 0100000000000006 "BUF" "134400"
+#showtooltip
+/castsequence [@player, known:大地之盾] reset=5 大地之盾,天怒,闪电之盾,风怒武器,火舌武器; [@player] reset=5 天怒,闪电之盾,风怒武器,火舌武器
+END
+VER 3 0100000000000005 "切" "134400"
+#showtooltip [known:风切] 风切; 风暴打击
+/cast [@mouseover, harm, nodead, known: 风切] 风切; [known:风切] 风切; [] 风暴打击
+END
+VER 3 010000000000000D "投" "134400"
+#showtooltip
+/cast [@cursor] 图腾投射
+END
+VER 3 0100000000000008 "断" "134400"
+#showtooltip 风剪
+/cleartarget [@focus,noexists]
+/targetenemy [@focus,noexists]
+/cast [target=focus,harm,exists][target=target,harm,exists]风剪
+/targetlasttarget [@focus,noexists]
+END
+VER 3 0100000000000002 "晕" "134400"
+#showtooltip
+/cast [@player] 电能图腾
+END
+VER 3 010000000000000F "测链" "134400"
+#showtooltip
+/cast [@mouseover, harm, nodead] 闪电链
+/stopmacro [@mouseover, harm]
+/targetenemy
+/cast 闪电链
+/targetlasttarget
+END
+VER 3 0100000000000009 "涌" "134400"
+#showtooltip
+/cast [@mouseover,help,nodead] 治疗之涌; [@player] 治疗之涌
+END
+VER 3 010000000000000E "涌动" "134400"
+#showtooltip
+/cast [@cursor] 涌动图腾
+END
+VER 3 010000000000000C "清" "134400"
+/showtooltip
+/cast [known:清毒图腾] 清毒图腾; [@mouseover, help,  known:净化灵魂] 净化灵魂; [known:净化灵魂] 净化灵魂;  [known:战栗图腾] 战栗图腾
+ 
+END
+VER 3 010000000000000B "火" "134400"
+#showtooltip
+/cast [@mouseover, harm, nodead] 烈焰震击; [] 烈焰震击
+END
+VER 3 0100000000000001 "爆发" "134400"
+#showtooltip [known:升腾] 升腾; [known: 始源之潮] 始源之潮
+/use 13
+/use 14
+/cast [known:升腾] 升腾; [known: 始源之潮] 始源之潮
+END
+VER 3 0100000000000003 "狂风" "134400"
+#showtooltip
+/cast [@player] 狂风图腾
+END
+VER 3 010000000000000A "箭" "134400"
+#showtooltip
+/cast [@mouseover, harm, nodead] 闪电箭; [] 闪电箭
+END
+VER 3 0100000000000007 "链" "134400"
+#showtooltip
+/cast [@mouseover,harm,nodead] 闪电链;[] 闪电链
+END
+VER 3 0100000000000010 "驱" "134400"
+/showtooltip
+/cast [@mouseover, help,  known:净化灵魂] 净化灵魂; [@player, known:净化灵魂] 净化灵魂
+ 
+END

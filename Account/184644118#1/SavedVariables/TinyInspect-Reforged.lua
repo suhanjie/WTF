@@ -1,0 +1,107 @@
+
+TinyInspectReforgedDB = {
+["EnableItemLevelBag"] = true,
+["EnableItemLevelChat"] = false,
+["ShowPartySpecialization"] = true,
+["ShowInspectColoredLabel"] = true,
+["EnableItemLevelPaperDoll"] = true,
+["EnableRaidItemLevel"] = false,
+["SendPartyItemLevelToParty"] = false,
+["EnchantParts"] = {
+{
+false,
+"HEADSLOT",
+},
+{
+false,
+"NECKSLOT",
+},
+{
+false,
+"SHOULDERSLOT",
+},
+false,
+{
+true,
+"CHESTSLOT",
+},
+{
+false,
+"WAISTSLOT",
+},
+{
+false,
+"LEGSSLOT",
+},
+{
+true,
+"FEETSLOT",
+},
+{
+false,
+"WRISTSLOT",
+},
+{
+false,
+"HANDSSLOT",
+},
+{
+true,
+"FINGER0SLOT",
+},
+{
+true,
+"FINGER1SLOT",
+},
+{
+false,
+"TRINKET0SLOT",
+},
+{
+false,
+"TRINKET1SLOT",
+},
+{
+true,
+"BACKSLOT",
+},
+{
+true,
+"MAINHANDSLOT",
+},
+{
+false,
+"SECONDARYHANDSLOT",
+},
+},
+["ShowOwnFrameWhenInspecting"] = false,
+["EnableItemLevelGuildNews"] = true,
+["ShowCharacterItemSheet"] = true,
+["EnableItemLevelMerchant"] = true,
+["version"] = "12.0",
+["ShowCorruptedMark"] = false,
+["ShowItemSlotString"] = true,
+["ShowItemBorder"] = false,
+["EnableItemLevelGuildBank"] = true,
+["EnableItemLevelAuction"] = true,
+["HideOffHandEnchantIcon"] = true,
+["SendPartyItemLevelToSelf"] = true,
+["EnableItemLevelAltEquipment"] = true,
+["EnableItemLevelBank"] = true,
+["EnableItemLevel"] = true,
+["ShowColoredItemLevelString"] = false,
+["ShowPluginGreenState"] = false,
+["EnableItemLevelLoot"] = true,
+["ShowItemStats"] = false,
+["ShowInspectAngularBorder"] = false,
+["EnablePartyItemLevel"] = true,
+["EnableMouseItemLevel"] = true,
+["ShowInspectItemSheet"] = true,
+["EnableItemLevelOther"] = true,
+["EnableMouseSpecialization"] = true,
+["EnableMouseWeaponLevel"] = true,
+["PaperDollItemLevelOutsideString"] = false,
+["ItemLevelAnchorPoint"] = "TOP",
+["EnableItemLevelTrade"] = true,
+["ShowGemAndEnchant"] = true,
+}

@@ -1,0 +1,28 @@
+bind A STRAFELEFT
+bind D STRAFERIGHT
+bind Q CLICK BT4Button15:Keybind
+bind E CLICK BT4Button16:Keybind
+bind X CLICK BT4Button14:Keybind
+bind Z CLICK BT4Button13:Keybind
+bind BUTTON4 NONE
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind 0 NONE
+bind - NONE
+bind = NONE
+bind G CLICK BT4Button18:Keybind
+bind F CLICK BT4Button17:Keybind
+bind ALT-Z CLICK BT4Button19:Keybind
+bind ALT-X CLICK BT4Button20:Keybind
+bind ALT-C CLICK BT4Button21:Keybind
+bind ALT-1 CLICK BT4Button22:Keybind
+bind ALT-2 CLICK BT4Button23:Keybind
+bind ALT-3 CLICK BT4Button24:Keybind
+bind ALT-A ACTIONBUTTON7
+bind ALT-S ACTIONBUTTON8
+bind ALT-D ACTIONBUTTON9
+bind ALT-Q ACTIONBUTTON10
+bind ALT-W ACTIONBUTTON11
+bind ALT-E ACTIONBUTTON12
+bind BUTTON5 TOGGLEAUTORUN
