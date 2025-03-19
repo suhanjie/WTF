@@ -15,24 +15,24 @@ BAGANATOR_CONFIG = {
 ["default_battlepet"] = true,
 ["default_food"] = true,
 ["default_reagent"] = true,
-["default_junk"] = true,
+["default_weapon"] = true,
 ["default_special_empty"] = true,
-["default_miscellaneous"] = true,
-["default_key"] = true,
+["default_recipe"] = true,
+["default_gem"] = true,
 ["default_consumable"] = true,
 ["default_tradegoods"] = true,
-["default_container"] = true,
-["default_keystone"] = true,
-["default_auto_equipment_sets"] = true,
-["default_profession"] = true,
 ["default_potion"] = true,
-["default_gem"] = true,
-["default_recipe"] = true,
-["default_weapon"] = true,
+["default_keystone"] = true,
+["default_profession"] = true,
+["default_auto_equipment_sets"] = true,
+["default_container"] = true,
+["default_key"] = true,
+["default_miscellaneous"] = true,
+["default_junk"] = true,
 },
 ["show_search_box"] = true,
 ["debug_categories_search"] = false,
-["bank_view_show_bag_slots"] = false,
+["bank_view_show_bag_slots"] = true,
 ["bank_view_width"] = 24,
 ["sort_method"] = "type",
 ["reverse_groups_sort_order"] = false,
@@ -41,7 +41,7 @@ BAGANATOR_CONFIG = {
 ["auction_house"] = true,
 ["void_storage"] = false,
 ["guild_bank"] = false,
-["forge_of_bonds"] = false,
+["trade_partner"] = false,
 ["tradeskill"] = false,
 ["item_upgrade"] = true,
 ["character_panel"] = false,
@@ -49,13 +49,13 @@ BAGANATOR_CONFIG = {
 ["item_interaction"] = true,
 ["mail"] = false,
 ["sockets"] = false,
-["trade_partner"] = false,
+["forge_of_bonds"] = false,
 ["bank"] = true,
 },
 ["icon_corners_auto_insert_applied"] = {
 ["battle_pet_level"] = true,
-["bag_type"] = true,
 ["keystone_level"] = true,
+["bag_type"] = true,
 },
 ["show_recents_tabs_main_view"] = false,
 ["bag_view_show_bag_slots"] = false,
@@ -68,7 +68,6 @@ BAGANATOR_CONFIG = {
 ["category_edit_search_mode"] = "visual",
 ["sort_ignore_bank_slots_count"] = {
 ["三妖五四-自由之风"] = 0,
-["Erudite-熊猫酒仙"] = 0,
 ["沁凉薄荷-自由之风"] = 0,
 },
 ["warband_current_tab"] = 0,
@@ -141,20 +140,12 @@ BAGANATOR_CONFIG = {
 ["category_horizontal_spacing_2"] = 0.2,
 ["category_default_import"] = 2,
 ["debug_categories"] = false,
-["icon_bottom_left_corner_array"] = {
-"bag_type",
-"equipment_set",
-},
-["custom_categories"] = {
-["1"] = {
-["name"] = "分解用",
-["search"] = "",
-},
+["icon_context_fading"] = true,
+["currency_headers_collapsed"] = {
 },
 ["saved_searches"] = {
 },
-["currencies_tracked_imported"] = {
-},
+["icon_mark_unusable"] = true,
 ["category_modifications"] = {
 ["default_potion"] = {
 ["addedItems"] = {
@@ -163,14 +154,14 @@ BAGANATOR_CONFIG = {
 },
 ["default_gem"] = {
 },
-["default_hearthstone"] = {
-},
 ["1"] = {
 ["showGroupPrefix"] = true,
 ["priority"] = 0,
 ["addedItems"] = {
 ["i:222840"] = true,
 },
+},
+["default_hearthstone"] = {
 },
 },
 ["warband_bank_view_width"] = 14,
@@ -183,11 +174,11 @@ BAGANATOR_CONFIG = {
 },
 ["Gaygenius-自由之风"] = {
 },
-["烟月独逝-熊猫酒仙"] = {
+["终末序曲-熊猫酒仙"] = {
 },
 ["踏月剑歌-熊猫酒仙"] = {
 },
-["再睡一夏-自由之风"] = {
+["烟月独逝-熊猫酒仙"] = {
 },
 ["三妖五四-自由之风"] = {
 },
@@ -203,39 +194,73 @@ BAGANATOR_CONFIG = {
 },
 ["灵眸初启-熊猫酒仙"] = {
 },
-["终末序曲-熊猫酒仙"] = {
+["再睡一夏-自由之风"] = {
 },
 },
-["category_group_empty_slots"] = true,
+["category_section_toggled"] = {
+["2"] = false,
+},
 ["icon_text_font_size"] = 20,
-["icon_equipment_set_border"] = true,
-["bag_view_width"] = 16,
-["disabled_skins"] = {
-},
+["lock_frames"] = false,
 ["sort_ignore_slots_count_2"] = {
 ["三妖五四-自由之风"] = 0,
-["Erudite-熊猫酒仙"] = 0,
 ["沁凉薄荷-自由之风"] = 0,
 },
-["bag_icon_size"] = 40,
-["category_migration"] = 5,
-["debug_keywords"] = false,
+["disabled_skins"] = {
+},
+["bag_view_width"] = 16,
+["guild_current_tab"] = 1,
+["bag_view_type"] = "category",
 ["recent_characters_main_view"] = {
-"Erudite-熊猫酒仙",
 "红尘如狱-熊猫酒仙",
+"再睡一夏-自由之风",
+"踏月剑歌-熊猫酒仙",
 "醉听箫鼓-冰风岗",
+"三妖五四-自由之风",
 "Gaygenius-自由之风",
+"Erudite-熊猫酒仙",
+"三十八年夏-熊猫酒仙",
 "依山观天澜-自由之风",
 "沁凉薄荷-自由之风",
-"再睡一夏-自由之风",
 "终末序曲-熊猫酒仙",
 "灵眸初启-熊猫酒仙",
-"三十八年夏-熊猫酒仙",
 "烟月独逝-熊猫酒仙",
-"踏月剑歌-熊猫酒仙",
-"三妖五四-自由之风",
 "叶五枝-熊猫酒仙",
 "就是试试插件-熊猫酒仙",
+},
+["debug_keywords"] = false,
+["character_select_position"] = {
+"RIGHT",
+"Baganator_CategoryViewBackpackViewFramedark",
+"LEFT",
+0,
+0,
+},
+["auto_sort_on_open"] = false,
+["category_sections"] = {
+["1"] = {
+["name"] = "EQUIPMENT",
+},
+["2"] = {
+["name"] = "CRAFTING",
+},
+},
+["setting_anchors"] = false,
+["bag_view_position"] = {
+"TOPLEFT",
+1364.833618164063,
+-228.5001220703125,
+},
+["show_buttons_on_alt"] = false,
+["guild_view_dialog_position"] = {
+"BOTTOM",
+"Baganator_GuildViewFrame",
+"TOP",
+0,
+0,
+},
+["icon_text_quality_colors"] = true,
+["upgrade_plugin_ignored"] = {
 },
 ["skins"] = {
 ["blizzard"] = {
@@ -250,42 +275,9 @@ BAGANATOR_CONFIG = {
 ["empty_slot_background"] = true,
 },
 },
-["auto_sort_on_open"] = false,
-["upgrade_plugin_ignored"] = {
-},
-["icon_text_quality_colors"] = true,
-["bag_view_position"] = {
-"TOPLEFT",
-1364.833618164063,
--228.5001220703125,
-},
-["show_buttons_on_alt"] = false,
-["guild_view_dialog_position"] = {
-"BOTTOM",
-"Baganator_GuildViewFrame",
-"TOP",
-0,
-0,
-},
-["setting_anchors"] = false,
-["category_sections"] = {
-["1"] = {
-["name"] = "EQUIPMENT",
-},
-["2"] = {
-["name"] = "CRAFTING",
-},
-},
-["character_select_position"] = {
-"RIGHT",
-"Baganator_CategoryViewBackpackViewFramedark",
-"LEFT",
-0,
-0,
-},
 ["show_sort_button_2"] = true,
-["bag_view_type"] = "category",
-["guild_current_tab"] = 1,
+["category_migration"] = 5,
+["bag_icon_size"] = 40,
 ["currency_panel_position"] = {
 "RIGHT",
 "Baganator_CategoryViewBackpackViewFramedark",
@@ -293,13 +285,19 @@ BAGANATOR_CONFIG = {
 0,
 0,
 },
-["lock_frames"] = false,
-["category_section_toggled"] = {
-["2"] = false,
+["icon_equipment_set_border"] = true,
+["category_group_empty_slots"] = true,
+["currencies_tracked_imported"] = {
 },
-["icon_mark_unusable"] = true,
-["currency_headers_collapsed"] = {
+["custom_categories"] = {
+["1"] = {
+["name"] = "分解",
+["search"] = "",
 },
-["icon_context_fading"] = true,
+},
+["icon_bottom_left_corner_array"] = {
+"bag_type",
+"equipment_set",
+},
 }
 BAGANATOR_DATA = nil

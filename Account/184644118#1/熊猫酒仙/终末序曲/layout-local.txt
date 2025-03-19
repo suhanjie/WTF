@@ -1,9 +1,9 @@
 Version: 1
 Frame: SettingsPanel
 FrameLevel: 1
-Anchor: CENTER
+Anchor: TOP
 X: 0
-Y: 62
+Y: -116
 W: 920
 H: 724
 Frame: ColorPickerFrame
@@ -125,10 +125,3 @@ X: 8
 Y: -8
 W: 730
 H: 302
-Frame: SavedInstancesDetachHeader
-FrameLevel: 100
-Anchor: CENTER
-X: 103
-Y: 1
-W: 1203
-H: 724

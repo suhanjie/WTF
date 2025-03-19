@@ -38,8 +38,11 @@ VER 3 010000000000000C "悲苦" "INV_MISC_QUESTIONMARK"
 /cast [@cursor] 悲苦咒符
 END
 VER 3 0100000000000009 "打断" "INV_MISC_QUESTIONMARK"
-#showtooltip 瓦解 
-/cast [target=focus,exists] 瓦解;瓦解
+#showtooltip 瓦解
+/cleartarget [@focus,noexists]
+/targetenemy [@focus,noexists]
+/cast [target=focus,harm,exists][target=target,harm,exists] 瓦解
+/targetlasttarget [@focus,noexists]
 END
 VER 3 010000000000000D "极乐" "INV_MISC_QUESTIONMARK"
 #showtooltip 极乐敕令
@@ -66,6 +69,10 @@ VER 3 0100000000000014 "破尖" "134400"
 END
 VER 3 0100000000000001 "羽毛" "INV_MISC_QUESTIONMARK"
 /click ExtraActionButton1
+END
+VER 3 0100000000000015 "跳" "134400"
+#showtooltip 地狱火撞击
+/cast [@player, mod] 地狱火撞击 ; [@cursor] 地狱火撞击
 END
 VER 3 0100000000000010 "锁链" "INV_MISC_QUESTIONMARK"
 #showtooltip

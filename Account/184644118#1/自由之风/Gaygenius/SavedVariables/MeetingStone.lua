@@ -8,6 +8,19 @@ MEETINGSTONE_CHARACTER_DB = {
 ["minimap"] = {
 ["minimapPos"] = 164.6898779157085,
 },
+["lastSearchCode"] = "6-0-0-0",
+["version"] = "20240309",
+["settings"] = {
+["storage"] = {
+["y"] = 0,
+["x"] = -348.8815307617188,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["searchHistoryList"] = {
+"6-0-0-0",
+},
 ["recent"] = {
 ["3-0-1289-0"] = {
 {
@@ -448,148 +461,7 @@ MEETINGSTONE_CHARACTER_DB = {
 ["time"] = 1741793753,
 ["class"] = 4,
 },
-{
-["role"] = "DAMAGER",
-["name"] = "阿瑞斯暗箭-罗宁",
-["time"] = 1742092909,
-["class"] = 3,
 },
-{
-["role"] = "DAMAGER",
-["name"] = "干饭能手-白银之手",
-["time"] = 1742092909,
-["class"] = 9,
-},
-{
-["role"] = "HEALER",
-["name"] = "谪仙丨唐尧-白银之手",
-["time"] = 1742092835,
-["class"] = 7,
-["leader"] = true,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "吉祥盼盼-诺兹多姆",
-["time"] = 1742092835,
-["class"] = 10,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "暗雪孤城-熊猫酒仙",
-["time"] = 1742092835,
-["class"] = 12,
-},
-{
-["role"] = "HEALER",
-["name"] = "水晶哈密瓜-霜之哀伤",
-["time"] = 1742092909,
-["class"] = 10,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "述里朵-世界之树",
-["time"] = 1742092816,
-["class"] = 1,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "此女已审核-埃德萨拉",
-["time"] = 1742092835,
-["class"] = 8,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "双证在手-戈古纳斯",
-["time"] = 1742092816,
-["class"] = 9,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "芬尼尔-卡德加",
-["time"] = 1742092835,
-["class"] = 4,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "圣光在咆哮-主宰之剑",
-["time"] = 1742092835,
-["class"] = 2,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "寂寞的贝壳-奥特兰克",
-["time"] = 1742092835,
-["class"] = 3,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "莫提斯-罗宁",
-["time"] = 1742092835,
-["class"] = 5,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "巴巴托斯-麦迪文",
-["time"] = 1742092909,
-["class"] = 9,
-["leader"] = true,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "慕青-安威玛尔",
-["time"] = 1742092909,
-["class"] = 1,
-},
-{
-["role"] = "TANK",
-["name"] = "美国华萊士-安苏",
-["time"] = 1742092909,
-["class"] = 6,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "深蓝野望-熊猫酒仙",
-["time"] = 1742092909,
-["class"] = 3,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "Evleakss-白银之手",
-["time"] = 1742092909,
-["class"] = 7,
-},
-{
-["role"] = "TANK",
-["name"] = "毛毛虫的泡芙-索拉丁",
-["time"] = 1742092909,
-["class"] = 1,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "丨嘿嘿丨丶-安苏",
-["time"] = 1742092909,
-["class"] = 11,
-},
-{
-["role"] = "DAMAGER",
-["name"] = "黑猫的野望-国王之谷",
-["time"] = 1742092855,
-["class"] = 7,
-},
-},
-},
-["version"] = "20240309",
-["settings"] = {
-["storage"] = {
-["y"] = 0,
-["x"] = -348.8815307617188,
-["point"] = "BOTTOM",
-["scale"] = 1,
-},
-},
-["lastSearchCode"] = "6-0-0-0",
-["searchHistoryList"] = {
-"6-0-0-0",
 },
 },
 },

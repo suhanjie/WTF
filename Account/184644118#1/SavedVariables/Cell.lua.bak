@@ -6,16 +6,9 @@ CellDB = {
 ["hideTooltipsInCombat"] = true,
 ["menuPosition"] = "top_bottom",
 ["enableTooltips"] = false,
-["tooltipsPosition"] = {
-"BOTTOMLEFT",
-"Default",
-"TOPLEFT",
-0,
-15,
-},
+["translit"] = false,
 ["showParty"] = true,
 ["alwaysUpdateAuras"] = true,
-["hideBlizzardParty"] = true,
 ["framePriority"] = {
 {
 "Main",
@@ -30,42 +23,38 @@ false,
 false,
 },
 },
-["showRaid"] = true,
+["hideBlizzardParty"] = true,
 ["locked"] = false,
+["showRaid"] = true,
 ["useCleuHealthUpdater"] = false,
 ["hideBlizzardRaid"] = true,
-["translit"] = false,
+["tooltipsPosition"] = {
+"BOTTOMLEFT",
+"Default",
+"TOPLEFT",
+0,
+15,
 },
-["debuffBlacklist"] = {
-8326,
-160029,
-255234,
-225080,
-57723,
-57724,
-80354,
-264689,
-390435,
-206151,
-195776,
-352562,
-356419,
-387847,
-213213,
 },
-["customTextures"] = {
-},
-["aoeHealings"] = {
+["crowdControls"] = {
 ["disabled"] = {
 },
 ["custom"] = {
+},
+},
+["customTextures"] = {
+},
+["snippets"] = {
+[0] = {
+["autorun"] = true,
+["code"] = "-- snippets can be found at https://github.com/enderneko/Cell/tree/master/.snippets\n-- use \"/run CellDB['snippets'][0]=nil ReloadUI()\" to reset this snippet\n\n-- cooldown style for icon/block indicators (\"VERTICAL\", \"CLOCK\")\nCELL_COOLDOWN_STYLE = \"VERTICAL\"\n\n-- fade out unit button if hp percent > (number: 0-1)\nCELL_FADE_OUT_HEALTH_PERCENT = nil\n\n-- add summon icons to Status Icon indicator (boolean, retail only)\nCELL_SUMMON_ICONS_ENABLED = false\n\n-- use separate width and height for custom indicator icons (boolean)\nCELL_RECTANGULAR_CUSTOM_INDICATOR_ICONS = false\n\n-- Use nicknames from Details! Damage Meter (boolean, NickTag-1.0 library)\nCELL_NICKTAG_ENABLED = false\n\n-- remove raid setup details from the tooltip of the Raid button (boolean)\nCELL_TOOLTIP_REMOVE_RAID_SETUP_DETAILS = false\n\n-- border thickness: unit button and icon (number)\nCELL_BORDER_SIZE = 1\n\n-- unit button border color ({r, g, b, a}, number: 0-1)\nCELL_BORDER_COLOR = {0, 0, 0, 1}\n\n-- show group pet owner name (\"VEHICLE\", \"NAME\", nil)\nCELL_SHOW_GROUP_PET_OWNER_NAME = nil\n\n-- use LibHealComm (boolean, non-retail)\nCELL_USE_LIBHEALCOMM = false",
 },
 },
 ["quickAssist"] = {
 },
 ["clickCastings"] = {
 ["HUNTER"] = {
-["common"] = {
+[1448] = {
 {
 "type1",
 "target",
@@ -92,7 +81,7 @@ false,
 "togglemenu",
 },
 },
-[1448] = {
+["common"] = {
 {
 "type1",
 "target",
@@ -187,7 +176,7 @@ false,
 ["smartResurrection"] = "disabled",
 },
 ["PALADIN"] = {
-[70] = {
+["common"] = {
 {
 "type1",
 "target",
@@ -234,7 +223,7 @@ false,
 7328,
 },
 },
-["common"] = {
+[70] = {
 {
 "type1",
 "target",
@@ -315,7 +304,7 @@ false,
 [63] = "disabled",
 [1449] = "disabled",
 },
-[1449] = {
+[62] = {
 {
 "type1",
 "target",
@@ -335,7 +324,8 @@ false,
 "togglemenu",
 },
 },
-[62] = {
+["useCommon"] = true,
+[1449] = {
 {
 "type1",
 "target",
@@ -345,7 +335,6 @@ false,
 "togglemenu",
 },
 },
-["useCommon"] = true,
 [63] = {
 {
 "type1",
@@ -359,7 +348,7 @@ false,
 ["smartResurrection"] = "disabled",
 },
 ["PRIEST"] = {
-[258] = {
+["common"] = {
 {
 "type1",
 "target",
@@ -396,7 +385,7 @@ false,
 2006,
 },
 },
-["common"] = {
+[258] = {
 {
 "type1",
 "target",
@@ -444,8 +433,8 @@ false,
 },
 ["smartResurrection"] = "disabled",
 },
-["DEATHKNIGHT"] = {
-[252] = {
+["ROGUE"] = {
+[260] = {
 {
 "type1",
 "target",
@@ -453,21 +442,16 @@ false,
 {
 "type2",
 "togglemenu",
-},
-{
-"type-altR",
-"spell",
-61999,
 },
 },
 ["alwaysTargeting"] = {
-[252] = "disabled",
 ["common"] = "disabled",
-[251] = "disabled",
-[1455] = "disabled",
-[250] = "disabled",
+[259] = "disabled",
+[260] = "disabled",
+[261] = "disabled",
+[1453] = "disabled",
 },
-[1455] = {
+[1453] = {
 {
 "type1",
 "target",
@@ -475,11 +459,6 @@ false,
 {
 "type2",
 "togglemenu",
-},
-{
-"type-altR",
-"spell",
-61999,
 },
 },
 ["common"] = {
@@ -491,13 +470,8 @@ false,
 "type2",
 "togglemenu",
 },
-{
-"type-altR",
-"spell",
-61999,
 },
-},
-[251] = {
+[259] = {
 {
 "type1",
 "target",
@@ -505,15 +479,10 @@ false,
 {
 "type2",
 "togglemenu",
-},
-{
-"type-altR",
-"spell",
-61999,
 },
 },
 ["useCommon"] = true,
-[250] = {
+[261] = {
 {
 "type1",
 "target",
@@ -521,24 +490,34 @@ false,
 {
 "type2",
 "togglemenu",
-},
-{
-"type-altR",
-"spell",
-61999,
 },
 },
 ["smartResurrection"] = "disabled",
 },
-["EVOKER"] = {
+["MONK"] = {
+[269] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+115178,
+},
+},
 ["alwaysTargeting"] = {
-[1468] = "disabled",
-[1465] = "disabled",
+[269] = "disabled",
+[270] = "disabled",
 ["common"] = "disabled",
-[1473] = "disabled",
-[1467] = "disabled",
+[268] = "disabled",
+[1450] = "disabled",
 },
-[1468] = {
+[1450] = {
 {
 "type1",
 "target",
@@ -550,22 +529,7 @@ false,
 {
 "type-shiftR",
 "spell",
-361227,
-},
-},
-[1465] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-361227,
+115178,
 },
 },
 ["common"] = {
@@ -580,10 +544,10 @@ false,
 {
 "type-shiftR",
 "spell",
-361227,
+115178,
 },
 },
-[1473] = {
+[270] = {
 {
 "type1",
 "target",
@@ -595,11 +559,11 @@ false,
 {
 "type-shiftR",
 "spell",
-361227,
+115178,
 },
 },
 ["useCommon"] = true,
-[1467] = {
+[268] = {
 {
 "type1",
 "target",
@@ -611,12 +575,19 @@ false,
 {
 "type-shiftR",
 "spell",
-361227,
+115178,
 },
 },
 ["smartResurrection"] = "disabled",
 },
 ["WARLOCK"] = {
+["alwaysTargeting"] = {
+[1454] = "disabled",
+["common"] = "disabled",
+[266] = "disabled",
+[267] = "disabled",
+[265] = "disabled",
+},
 [1454] = {
 {
 "type1",
@@ -632,14 +603,21 @@ false,
 20707,
 },
 },
-["alwaysTargeting"] = {
-[1454] = "disabled",
-["common"] = "disabled",
-[266] = "disabled",
-[267] = "disabled",
-[265] = "disabled",
+["common"] = {
+{
+"type1",
+"target",
 },
-["useCommon"] = true,
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20707,
+},
+},
 [265] = {
 {
 "type1",
@@ -670,22 +648,8 @@ false,
 20707,
 },
 },
+["useCommon"] = true,
 [267] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-altR",
-"spell",
-20707,
-},
-},
-["common"] = {
 {
 "type1",
 "target",
@@ -729,6 +693,7 @@ false,
 "togglemenu",
 },
 },
+["useCommon"] = true,
 [1456] = {
 {
 "type1",
@@ -739,7 +704,6 @@ false,
 "togglemenu",
 },
 },
-["useCommon"] = true,
 [577] = {
 {
 "type1",
@@ -970,8 +934,8 @@ false,
 },
 ["useCommon"] = true,
 },
-["MONK"] = {
-[269] = {
+["EVOKER"] = {
+[1468] = {
 {
 "type1",
 "target",
@@ -983,17 +947,17 @@ false,
 {
 "type-shiftR",
 "spell",
-115178,
+361227,
 },
 },
 ["alwaysTargeting"] = {
-[269] = "disabled",
-[270] = "disabled",
+[1468] = "disabled",
+[1465] = "disabled",
 ["common"] = "disabled",
-[268] = "disabled",
-[1450] = "disabled",
+[1473] = "disabled",
+[1467] = "disabled",
 },
-[1450] = {
+[1465] = {
 {
 "type1",
 "target",
@@ -1005,7 +969,7 @@ false,
 {
 "type-shiftR",
 "spell",
-115178,
+361227,
 },
 },
 ["common"] = {
@@ -1020,10 +984,10 @@ false,
 {
 "type-shiftR",
 "spell",
-115178,
+361227,
 },
 },
-[270] = {
+[1473] = {
 {
 "type1",
 "target",
@@ -1035,11 +999,11 @@ false,
 {
 "type-shiftR",
 "spell",
-115178,
+361227,
 },
 },
 ["useCommon"] = true,
-[268] = {
+[1467] = {
 {
 "type1",
 "target",
@@ -1051,21 +1015,13 @@ false,
 {
 "type-shiftR",
 "spell",
-115178,
+361227,
 },
 },
 ["smartResurrection"] = "disabled",
 },
-["ROGUE"] = {
-["useCommon"] = true,
-["alwaysTargeting"] = {
-["common"] = "disabled",
-[259] = "disabled",
-[260] = "disabled",
-[261] = "disabled",
-[1453] = "disabled",
-},
-[261] = {
+["DEATHKNIGHT"] = {
+[252] = {
 {
 "type1",
 "target",
@@ -1074,6 +1030,18 @@ false,
 "type2",
 "togglemenu",
 },
+{
+"type-altR",
+"spell",
+61999,
+},
+},
+["alwaysTargeting"] = {
+[252] = "disabled",
+["common"] = "disabled",
+[251] = "disabled",
+[250] = "disabled",
+[1455] = "disabled",
 },
 ["common"] = {
 {
@@ -1084,8 +1052,13 @@ false,
 "type2",
 "togglemenu",
 },
+{
+"type-altR",
+"spell",
+61999,
 },
-[259] = {
+},
+[1455] = {
 {
 "type1",
 "target",
@@ -1094,8 +1067,13 @@ false,
 "type2",
 "togglemenu",
 },
+{
+"type-altR",
+"spell",
+61999,
 },
-[260] = {
+},
+[250] = {
 {
 "type1",
 "target",
@@ -1104,8 +1082,13 @@ false,
 "type2",
 "togglemenu",
 },
+{
+"type-altR",
+"spell",
+61999,
 },
-[1453] = {
+},
+[251] = {
 {
 "type1",
 "target",
@@ -1114,25 +1097,74 @@ false,
 "type2",
 "togglemenu",
 },
+{
+"type-altR",
+"spell",
+61999,
 },
+},
+["useCommon"] = true,
 ["smartResurrection"] = "disabled",
 },
 },
-["crowdControls"] = {
-["disabled"] = {
-},
-["custom"] = {
-},
-},
-["snippets"] = {
-[0] = {
-["autorun"] = true,
-["code"] = "-- snippets can be found at https://github.com/enderneko/Cell/tree/master/.snippets\n-- use \"/run CellDB['snippets'][0]=nil ReloadUI()\" to reset this snippet\n\n-- cooldown style for icon/block indicators (\"VERTICAL\", \"CLOCK\")\nCELL_COOLDOWN_STYLE = \"VERTICAL\"\n\n-- fade out unit button if hp percent > (number: 0-1)\nCELL_FADE_OUT_HEALTH_PERCENT = nil\n\n-- add summon icons to Status Icon indicator (boolean, retail only)\nCELL_SUMMON_ICONS_ENABLED = false\n\n-- use separate width and height for custom indicator icons (boolean)\nCELL_RECTANGULAR_CUSTOM_INDICATOR_ICONS = false\n\n-- Use nicknames from Details! Damage Meter (boolean, NickTag-1.0 library)\nCELL_NICKTAG_ENABLED = false\n\n-- remove raid setup details from the tooltip of the Raid button (boolean)\nCELL_TOOLTIP_REMOVE_RAID_SETUP_DETAILS = false\n\n-- border thickness: unit button and icon (number)\nCELL_BORDER_SIZE = 1\n\n-- unit button border color ({r, g, b, a}, number: 0-1)\nCELL_BORDER_COLOR = {0, 0, 0, 1}\n\n-- show group pet owner name (\"VEHICLE\", \"NAME\", nil)\nCELL_SHOW_GROUP_PET_OWNER_NAME = nil\n\n-- use LibHealComm (boolean, non-retail)\nCELL_USE_LIBHEALCOMM = false",
-},
+["debuffBlacklist"] = {
+8326,
+160029,
+255234,
+225080,
+57723,
+57724,
+80354,
+264689,
+390435,
+206151,
+195776,
+352562,
+356419,
+387847,
+213213,
 },
 ["quickCast"] = {
 },
-["changelogsViewed"] = "r250-release",
+["indicatorPreview"] = {
+["scale"] = 2,
+["showAll"] = false,
+},
+["actions"] = {
+{
+6262,
+{
+"A",
+{
+0.4,
+1,
+0,
+},
+},
+},
+{
+431416,
+{
+"A",
+{
+1,
+0.1,
+0.1,
+},
+},
+},
+{
+431932,
+{
+"C3",
+{
+1,
+1,
+0,
+},
+},
+},
+},
 ["tools"] = {
 ["battleResTimer"] = {
 true,
@@ -1170,345 +1202,434 @@ false,
 },
 },
 },
-["indicatorPreview"] = {
-["scale"] = 2,
-["showAll"] = false,
+["aoeHealings"] = {
+["disabled"] = {
 },
-["spellRequest"] = {
+["custom"] = {
+},
+},
+["changelogsViewed"] = "r250-release",
+["targetedSpellsGlow"] = {
+"Pixel",
+{
+0.95,
+0.95,
+0.32,
+1,
+},
+9,
+0.25,
+8,
+2,
+},
+["layoutAutoSwitch"] = {
+["HUNTER"] = {
+},
+["WARRIOR"] = {
+},
+["PALADIN"] = {
+},
+["MAGE"] = {
+},
+["ROGUE"] = {
+},
+["PRIEST"] = {
+},
+["EVOKER"] = {
+},
+["role"] = {
+["DAMAGER"] = {
+["raid_instance"] = "default",
+["party"] = "default",
+["solo"] = "default",
+["raid_outdoor"] = "团队",
+["raid_mythic"] = "default",
+["arena"] = "default",
+["battleground15"] = "default",
+["battleground40"] = "default",
+},
+["TANK"] = {
+["raid_instance"] = "default",
+["party"] = "default",
+["solo"] = "default",
+["raid_outdoor"] = "团队",
+["raid_mythic"] = "default",
+["arena"] = "default",
+["battleground15"] = "default",
+["battleground40"] = "default",
+},
+["HEALER"] = {
+["raid_instance"] = "default",
+["party"] = "default",
+["solo"] = "default",
+["raid_outdoor"] = "default",
+["raid_mythic"] = "default",
+["arena"] = "default",
+["battleground15"] = "default",
+["battleground40"] = "default",
+},
+},
+["WARLOCK"] = {
+},
+["DEMONHUNTER"] = {
+},
+["SHAMAN"] = {
+},
+["DRUID"] = {
+},
+["MONK"] = {
+},
+["DEATHKNIGHT"] = {
+},
+},
+["dispelRequest"] = {
 ["enabled"] = false,
+["debuffs"] = {
+},
 ["timeout"] = 10,
-["checkIfExists"] = true,
-["spells"] = {
-{
+["responseType"] = "all",
 ["glowOptions"] = {
-"pixel",
+"shine",
 {
 {
-1,
 1,
 0,
+0.4,
 1,
 },
 0,
 0,
 9,
-0.25,
-8,
+0.5,
 2,
 },
 },
-["type"] = "icon",
-["spellId"] = 10060,
-["isBuiltIn"] = true,
-["iconColor"] = {
+["textOptions"] = {
+"A",
+{
 1,
-1,
+0,
 0,
 1,
 },
-["buffId"] = 10060,
-["icon"] = 135939,
-["keywords"] = "能量灌注",
+32,
+"TOPLEFT",
+"TOPLEFT",
+-1,
+5,
+},
+["type"] = "text",
+["dispellableByMe"] = true,
+},
+["optionsFramePosition"] = {
+628,
+805,
+},
+["dispelBlacklist"] = {
+},
+["externals"] = {
+["disabled"] = {
+},
+["custom"] = {
+},
+},
+["defensives"] = {
+["disabled"] = {
+},
+["custom"] = {
+},
+},
+["debuffTypeColor"] = {
+[""] = {
+["r"] = 0.8,
+["g"] = 0,
+["b"] = 0,
+},
+["Disease"] = {
+["r"] = 0.6,
+["g"] = 0.4,
+["b"] = 0,
+},
+["Bleed"] = {
+["b"] = 0.6,
+["g"] = 0.2,
+["r"] = 1,
+},
+["Curse"] = {
+["r"] = 0.6,
+["g"] = 0,
+["b"] = 1,
+},
+["Poison"] = {
+["r"] = 0,
+["g"] = 0.6,
+["b"] = 0,
+},
+["Magic"] = {
+["r"] = 0.2,
+["g"] = 0.6,
+["b"] = 1,
+},
+["none"] = {
+["r"] = 0.8,
+["g"] = 0,
+["b"] = 0,
+},
+},
+["bigDebuffs"] = {
+46392,
+240443,
+209858,
+240559,
+},
+["raidDebuffs"] = {
+},
+["appearance"] = {
+["optionsFontSizeOffset"] = 0,
+["strata"] = "MEDIUM",
+["auraIconOptions"] = {
+["durationColorEnabled"] = false,
+["durationDecimal"] = 0,
+["animation"] = "duration",
+["durationRoundUp"] = false,
+["durationColors"] = {
+{
+0,
+1,
+0,
 },
 {
-["glowOptions"] = {
-"pixel",
+1,
+1,
+0,
+0.5,
+},
 {
+1,
+0,
+0,
+3,
+},
+},
+},
+["bgAlpha"] = 1,
+["scale"] = 1,
+["targetColor"] = {
+1,
+0.31,
+0.31,
+1,
+},
+["powerColor"] = {
+"power_color",
 {
-0,
+0.7,
+0.7,
+0.7,
+},
+},
+["fullColor"] = {
+false,
+{
+0.2,
+0.2,
+0.2,
+},
+},
+["overshieldReverseFill"] = false,
+["overshield"] = {
+true,
+{
 1,
 1,
 1,
-},
-0,
-0,
-9,
-0.25,
-8,
-2,
+1,
 },
 },
-["type"] = "icon",
-["spellId"] = 29166,
-["isBuiltIn"] = true,
-["iconColor"] = {
-0,
+["barAnimation"] = "Flash",
+["texture"] = "Cell 默认",
+["shield"] = {
+true,
+{
 1,
 1,
 1,
-},
-["buffId"] = 29166,
-["icon"] = 136048,
-["keywords"] = "激活",
+0.4,
 },
 },
-["sharedIconOptions"] = {
-"beat",
-27,
-"BOTTOMRIGHT",
-"BOTTOMRIGHT",
+["lossColor"] = {
+"class_color_dark",
+{
+0.667,
 0,
 0,
 },
-["knownSpellsOnly"] = true,
-["responseType"] = "me",
-["replyCooldown"] = true,
-["freeCooldownOnly"] = true,
+},
+["colorThresholds"] = {
+{
+1,
+0,
+0,
+},
+{
+1,
+0.7,
+0,
+},
+{
+0.7,
+1,
+0,
+},
+0.05,
+0.95,
+true,
+},
+["barColor"] = {
+"class_color",
+{
+0.2,
+0.2,
+0.2,
+},
+},
+["highlightSize"] = 1,
+["healPrediction"] = {
+true,
+false,
+{
+1,
+1,
+1,
+0.4,
+},
+},
+["mouseoverColor"] = {
+1,
+1,
+1,
+0.6,
+},
+["useGameFont"] = true,
+["lossAlpha"] = 1,
+["deathColor"] = {
+false,
+{
+0.545,
+0,
+0,
+},
+},
+["accentColor"] = {
+"class_color",
+{
+1,
+0.26667,
+0.4,
+},
+},
+["healAbsorbInvertColor"] = false,
+["colorThresholdsLoss"] = {
+{
+1,
+0,
+0,
+},
+{
+1,
+0.7,
+0,
+},
+{
+0.7,
+1,
+0,
+},
+0.05,
+0.95,
+true,
+},
+["healAbsorb"] = {
+true,
+{
+1,
+0.1,
+0.1,
+1,
+},
+},
+["barAlpha"] = 1,
+["outOfRangeAlpha"] = 0.45,
 },
 ["layouts"] = {
 ["default"] = {
+["npc"] = {
+["sameArrangementAsMain"] = true,
+["spacingY"] = 3,
+["separate"] = false,
+["spacingX"] = 3,
+["enabled"] = true,
+["orientation"] = "vertical",
+["sameSizeAsMain"] = true,
+["anchor"] = "TOPLEFT",
+["position"] = {
+},
+["powerSize"] = 2,
+["size"] = {
+66,
+46,
+},
+},
+["pet"] = {
+["sameArrangementAsMain"] = true,
+["spacingY"] = 3,
+["spacingX"] = 3,
+["soloEnabled"] = true,
+["partyEnabled"] = true,
+["raidEnabled"] = false,
+["position"] = {
+},
+["sameSizeAsMain"] = true,
+["anchor"] = "TOPLEFT",
+["orientation"] = "vertical",
+["powerSize"] = 2,
+["size"] = {
+66,
+46,
+},
+},
 ["main"] = {
 ["spacingY"] = 0,
-["size"] = {
-150,
-45,
-},
+["hideSelf"] = false,
 ["spacingX"] = 0,
 ["unitsPerColumn"] = 5,
-["combineGroups"] = false,
-["groupSpacing"] = 0,
 ["maxColumns"] = 8,
+["orientation"] = "vertical",
+["combineGroups"] = false,
 ["roleOrder"] = {
 "TANK",
 "HEALER",
 "DAMAGER",
 },
+["sortByRole"] = false,
+["groupSpacing"] = 0,
 ["anchor"] = "TOPLEFT",
 ["position"] = {
 "TOPLEFT",
-402.5,
--529.2,
+436.7,
+-347.5,
 },
-["sortByRole"] = false,
-["orientation"] = "vertical",
 ["powerSize"] = 2,
-["hideSelf"] = false,
-},
-["groupFilter"] = {
-true,
-true,
-true,
-true,
-true,
-true,
-true,
-true,
-},
-["indicators"] = {
-{
-["enabled"] = true,
-["type"] = "built-in",
-["frameLevel"] = 1,
-["color"] = {
-"custom_color",
-{
-1,
-1,
-1,
+["size"] = {
+150,
+45,
 },
 },
-["vehicleNamePosition"] = {
-"TOP",
-0,
+["barOrientation"] = {
+"horizontal",
+false,
 },
-["font"] = {
-"Cell 默认",
-13,
-"None",
-true,
-},
-["name"] = "Name Text",
-["position"] = {
-"CENTER",
-"healthBar",
-"CENTER",
-0,
-0,
-},
-["indicatorName"] = "nameText",
-["showGroupNumber"] = false,
-["textWidth"] = {
-"percentage",
-0.75,
-},
-},
-{
-["enabled"] = true,
-["type"] = "built-in",
-["frameLevel"] = 30,
-["font"] = {
-"Cell 默认",
-11,
-"None",
-true,
-},
-["name"] = "Status Text",
-["position"] = {
-"BOTTOM",
-0,
-"justify",
-},
-["indicatorName"] = "statusText",
-["showBackground"] = true,
-["colors"] = {
-["OFFLINE"] = {
-1,
-0.19,
-0.19,
-1,
-},
-["GHOST"] = {
-1,
-0.19,
-0.19,
-1,
-},
-["DECLINED"] = {
-1,
-0.19,
-0.19,
-1,
-},
-["ACCEPTED"] = {
-0.12,
-1,
-0.12,
-1,
-},
-["DEAD"] = {
-1,
-0.19,
-0.19,
-1,
-},
-["DRINKING"] = {
-0.12,
-0.75,
-1,
-1,
-},
-["FEIGN"] = {
-1,
-1,
-0.12,
-1,
-},
-["PENDING"] = {
-1,
-1,
-0.12,
-1,
-},
-["AFK"] = {
-1,
-0.19,
-0.19,
-1,
-},
-},
-["showTimer"] = true,
-},
-{
-["enabled"] = false,
-["type"] = "built-in",
-["name"] = "Health Text",
-["position"] = {
-"TOP",
-"button",
-"CENTER",
-0,
--6,
-},
-["indicatorName"] = "healthText",
-["format"] = {
-["health1"] = {
-["color"] = {
-"custom_color",
-{
-1,
-1,
-1,
-},
-},
-["format"] = "effective_percent",
-["hideIfEmptyOrFull"] = false,
-},
-["health2"] = {
-["color"] = {
-"custom_color",
-{
-1,
-1,
-1,
-},
-},
-["format"] = "none",
-["hideIfEmptyOrFull"] = false,
-["delimiter"] = " ",
-},
-["shields"] = {
-["color"] = {
-"custom_color",
-{
-0,
-1,
-0,
-},
-},
-["format"] = "none",
-["delimiter"] = "+",
-},
-["healAbsorbs"] = {
-["color"] = {
-"custom_color",
-{
-1,
-0,
-0,
-},
-},
-["format"] = "none",
-["delimiter"] = "-",
-},
-},
-["frameLevel"] = 2,
-["font"] = {
-"Cell 默认",
-10,
-"None",
-true,
-},
-},
-{
-["enabled"] = false,
-["type"] = "built-in",
-["frameLevel"] = 2,
-["color"] = {
-"custom_color",
-{
-1,
-1,
-1,
-},
-},
-["font"] = {
-"Cell 默认",
-10,
-"None",
-true,
-},
-["name"] = "Power Text",
-["position"] = {
-"BOTTOMRIGHT",
-"button",
-"BOTTOMRIGHT",
-0,
-3,
-},
-["indicatorName"] = "powerText",
-["format"] = "number",
-["hideIfEmptyOrFull"] = true,
-["filters"] = {
+["powerFilters"] = {
 ["DEATHKNIGHT"] = {
 ["DAMAGER"] = true,
 ["TANK"] = true,
@@ -1556,12 +1677,304 @@ true,
 },
 ["ROGUE"] = true,
 },
+["spotlight"] = {
+["sameArrangementAsMain"] = true,
+["spacingY"] = 3,
+["spacingX"] = 3,
+["units"] = {
+},
+["enabled"] = false,
+["hidePlaceholder"] = false,
+["sameSizeAsMain"] = true,
+["position"] = {
+},
+["anchor"] = "TOPLEFT",
+["orientation"] = "vertical",
+["powerSize"] = 2,
+["size"] = {
+66,
+46,
+},
+},
+["groupFilter"] = {
+true,
+true,
+true,
+true,
+true,
+true,
+true,
+true,
+},
+["indicators"] = {
+{
+["enabled"] = true,
+["type"] = "built-in",
+["frameLevel"] = 1,
+["color"] = {
+"custom_color",
+{
+1,
+1,
+1,
+},
+},
+["vehicleNamePosition"] = {
+"TOP",
+0,
+},
+["font"] = {
+"Cell 默认",
+13,
+"None",
+true,
+},
+["name"] = "Name Text",
+["position"] = {
+"CENTER",
+"healthBar",
+"CENTER",
+0,
+0,
+},
+["indicatorName"] = "nameText",
+["textWidth"] = {
+"percentage",
+0.75,
+},
+["showGroupNumber"] = false,
+},
+{
+["enabled"] = true,
+["type"] = "built-in",
+["frameLevel"] = 30,
+["font"] = {
+"Cell 默认",
+11,
+"None",
+true,
+},
+["name"] = "Status Text",
+["position"] = {
+"BOTTOM",
+0,
+"justify",
+},
+["indicatorName"] = "statusText",
+["showBackground"] = true,
+["showTimer"] = true,
+["colors"] = {
+["OFFLINE"] = {
+1,
+0.19,
+0.19,
+1,
+},
+["GHOST"] = {
+1,
+0.19,
+0.19,
+1,
+},
+["AFK"] = {
+1,
+0.19,
+0.19,
+1,
+},
+["ACCEPTED"] = {
+0.12,
+1,
+0.12,
+1,
+},
+["DEAD"] = {
+1,
+0.19,
+0.19,
+1,
+},
+["DRINKING"] = {
+0.12,
+0.75,
+1,
+1,
+},
+["FEIGN"] = {
+1,
+1,
+0.12,
+1,
+},
+["PENDING"] = {
+1,
+1,
+0.12,
+1,
+},
+["DECLINED"] = {
+1,
+0.19,
+0.19,
+1,
+},
+},
+},
+{
+["enabled"] = false,
+["type"] = "built-in",
+["name"] = "Health Text",
+["position"] = {
+"TOP",
+"button",
+"CENTER",
+0,
+-6,
+},
+["indicatorName"] = "healthText",
+["format"] = {
+["health1"] = {
+["color"] = {
+"custom_color",
+{
+1,
+1,
+1,
+},
+},
+["format"] = "effective_percent",
+["hideIfEmptyOrFull"] = false,
+},
+["health2"] = {
+["color"] = {
+"custom_color",
+{
+1,
+1,
+1,
+},
+},
+["format"] = "none",
+["delimiter"] = " ",
+["hideIfEmptyOrFull"] = false,
+},
+["shields"] = {
+["color"] = {
+"custom_color",
+{
+0,
+1,
+0,
+},
+},
+["format"] = "none",
+["delimiter"] = "+",
+},
+["healAbsorbs"] = {
+["color"] = {
+"custom_color",
+{
+1,
+0,
+0,
+},
+},
+["format"] = "none",
+["delimiter"] = "-",
+},
+},
+["font"] = {
+"Cell 默认",
+10,
+"None",
+true,
+},
+["frameLevel"] = 2,
+},
+{
+["enabled"] = false,
+["type"] = "built-in",
+["frameLevel"] = 2,
+["color"] = {
+"custom_color",
+{
+1,
+1,
+1,
+},
+},
+["font"] = {
+"Cell 默认",
+10,
+"None",
+true,
+},
+["name"] = "Power Text",
+["position"] = {
+"BOTTOMRIGHT",
+"button",
+"BOTTOMRIGHT",
+0,
+3,
+},
+["indicatorName"] = "powerText",
+["format"] = "number",
+["hideIfEmptyOrFull"] = true,
+["filters"] = {
+["DEATHKNIGHT"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+},
+["WARRIOR"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+},
+["ROGUE"] = true,
+["PALADIN"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+["HEALER"] = true,
+},
+["MAGE"] = true,
+["MONK"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+["HEALER"] = true,
+},
+["VEHICLE"] = true,
+["PRIEST"] = {
+["DAMAGER"] = true,
+["HEALER"] = true,
+},
+["SHAMAN"] = {
+["DAMAGER"] = true,
+["HEALER"] = true,
+},
+["NPC"] = true,
+["WARLOCK"] = true,
+["DEMONHUNTER"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+},
+["PET"] = true,
+["DRUID"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+["HEALER"] = true,
+},
+["EVOKER"] = {
+["DAMAGER"] = true,
+["HEALER"] = true,
+},
+["HUNTER"] = true,
+},
 },
 {
 ["enabled"] = false,
 ["type"] = "built-in",
 ["name"] = "Health Thresholds",
 ["indicatorName"] = "healthThresholds",
+["thickness"] = 1,
 ["thresholds"] = {
 {
 0.35,
@@ -1573,7 +1986,6 @@ true,
 },
 },
 },
-["thickness"] = 1,
 },
 {
 ["enabled"] = true,
@@ -1606,16 +2018,16 @@ true,
 0,
 },
 ["indicatorName"] = "roleIcon",
+["size"] = {
+11,
+11,
+},
+["type"] = "built-in",
 ["roleTexture"] = {
 "default",
 "Interface\\AddOns\\ElvUI\\Core\\Media\\Textures\\Tank.tga",
 "Interface\\AddOns\\ElvUI\\Core\\Media\\Textures\\Healer.tga",
 "Interface\\AddOns\\ElvUI\\Core\\Media\\Textures\\DPS.tga",
-},
-["type"] = "built-in",
-["size"] = {
-11,
-11,
 },
 },
 {
@@ -1752,8 +2164,8 @@ true,
 ["type"] = "built-in",
 ["name"] = "Aggro (border)",
 ["indicatorName"] = "aggroBorder",
-["thickness"] = 2,
 ["frameLevel"] = 3,
+["thickness"] = 2,
 },
 {
 ["enabled"] = false,
@@ -1774,20 +2186,20 @@ nil,
 0,
 },
 ["indicatorName"] = "shieldBar",
-["onlyShowOvershields"] = false,
 ["height"] = 4,
+["onlyShowOvershields"] = false,
 },
 {
 ["enabled"] = true,
 ["type"] = "built-in",
 ["name"] = "AoE Healing",
 ["indicatorName"] = "aoeHealing",
+["height"] = 10,
 ["color"] = {
 1,
 1,
 0,
 },
-["height"] = 10,
 },
 {
 ["enabled"] = true,
@@ -1802,7 +2214,7 @@ nil,
 1,
 },
 },
-["orientation"] = "right-to-left",
+["showDuration"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -1842,9 +2254,9 @@ false,
 2,
 5,
 },
-["indicatorName"] = "externalCooldowns",
+["orientation"] = "right-to-left",
 ["num"] = 2,
-["showDuration"] = false,
+["indicatorName"] = "externalCooldowns",
 ["size"] = {
 12,
 20,
@@ -1863,7 +2275,7 @@ false,
 1,
 },
 },
-["orientation"] = "left-to-right",
+["showDuration"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -1903,9 +2315,9 @@ false,
 -2,
 5,
 },
-["indicatorName"] = "defensiveCooldowns",
+["orientation"] = "left-to-right",
 ["num"] = 2,
-["showDuration"] = false,
+["indicatorName"] = "defensiveCooldowns",
 ["size"] = {
 12,
 20,
@@ -1924,7 +2336,7 @@ false,
 1,
 },
 },
-["orientation"] = "left-to-right",
+["showDuration"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -1964,9 +2376,9 @@ false,
 -2,
 5,
 },
-["indicatorName"] = "allCooldowns",
+["orientation"] = "left-to-right",
 ["num"] = 2,
-["showDuration"] = false,
+["indicatorName"] = "allCooldowns",
 ["size"] = {
 12,
 20,
@@ -2002,15 +2414,11 @@ false,
 ["enabled"] = true,
 ["type"] = "built-in",
 ["frameLevel"] = 15,
-["filters"] = {
-["dispellableByMe"] = true,
-["Disease"] = true,
-["Bleed"] = true,
-["Curse"] = true,
-["Magic"] = true,
-["Poison"] = true,
+["size"] = {
+12,
+12,
 },
-["indicatorName"] = "dispels",
+["orientation"] = "right-to-left",
 ["name"] = "Dispels",
 ["position"] = {
 "BOTTOMRIGHT",
@@ -2019,12 +2427,16 @@ false,
 0,
 4,
 },
-["iconStyle"] = "blizzard",
+["indicatorName"] = "dispels",
 ["highlightType"] = "gradient-half",
-["orientation"] = "right-to-left",
-["size"] = {
-12,
-12,
+["iconStyle"] = "blizzard",
+["filters"] = {
+["dispellableByMe"] = true,
+["Disease"] = true,
+["Bleed"] = true,
+["Curse"] = true,
+["Magic"] = true,
+["Poison"] = true,
 },
 },
 {
@@ -2033,8 +2445,8 @@ false,
 ["frameLevel"] = 5,
 ["type"] = "built-in",
 ["enableBlacklistShortcut"] = false,
-["enabled"] = true,
-["orientation"] = "left-to-right",
+["showDuration"] = false,
+["showTooltip"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -2074,9 +2486,9 @@ false,
 1,
 4,
 },
+["orientation"] = "left-to-right",
 ["indicatorName"] = "debuffs",
-["showTooltip"] = false,
-["showDuration"] = false,
+["enabled"] = true,
 ["size"] = {
 {
 13,
@@ -2095,7 +2507,13 @@ false,
 ["type"] = "built-in",
 ["border"] = 2,
 ["showDuration"] = true,
-["orientation"] = "left-to-right",
+["position"] = {
+"CENTER",
+"button",
+"CENTER",
+0,
+3,
+},
 ["font"] = {
 {
 "Cell 默认",
@@ -2128,14 +2546,8 @@ false,
 },
 ["name"] = "Raid Debuffs",
 ["showTooltip"] = false,
+["orientation"] = "left-to-right",
 ["indicatorName"] = "raidDebuffs",
-["position"] = {
-"CENTER",
-"button",
-"CENTER",
-0,
-3,
-},
 ["onlyShowTopGlow"] = true,
 ["size"] = {
 22,
@@ -2169,7 +2581,7 @@ false,
 ["type"] = "built-in",
 ["frameLevel"] = 50,
 ["border"] = 2,
-["orientation"] = "left-to-right",
+["indicatorName"] = "targetedSpells",
 ["font"] = {
 "Cell 默认",
 12,
@@ -2192,9 +2604,9 @@ false,
 -4,
 4,
 },
-["indicatorName"] = "targetedSpells",
-["num"] = 1,
+["orientation"] = "left-to-right",
 ["showAllSpells"] = false,
+["num"] = 1,
 ["size"] = {
 20,
 20,
@@ -2226,8 +2638,8 @@ false,
 ["indicatorName"] = "targetCounter",
 ["filters"] = {
 ["pve"] = false,
-["pvp"] = true,
 ["outdoor"] = false,
+["pvp"] = true,
 },
 },
 {
@@ -2236,7 +2648,7 @@ false,
 ["frameLevel"] = 20,
 ["border"] = 2,
 ["enabled"] = false,
-["orientation"] = "left-to-right",
+["num"] = 3,
 ["font"] = {
 {
 "Cell 默认",
@@ -2275,9 +2687,9 @@ false,
 0,
 0,
 },
-["indicatorName"] = "crowdControls",
+["orientation"] = "left-to-right",
 ["showDuration"] = true,
-["num"] = 3,
+["indicatorName"] = "crowdControls",
 ["size"] = {
 22,
 22,
@@ -2294,9 +2706,14 @@ false,
 ["enabled"] = false,
 ["num"] = 3,
 ["frameLevel"] = 10,
-["size"] = {
-13,
-13,
+["filters"] = {
+["SF"] = true,
+["AB"] = true,
+["MotW"] = true,
+["PWF"] = true,
+["buffByMe"] = true,
+["BotB"] = true,
+["BS"] = true,
 },
 ["name"] = "Missing Buffs",
 ["position"] = {
@@ -2307,16 +2724,11 @@ false,
 4,
 },
 ["indicatorName"] = "missingBuffs",
-["type"] = "built-in",
 ["orientation"] = "right-to-left",
-["filters"] = {
-["SF"] = true,
-["AB"] = true,
-["MotW"] = true,
-["PWF"] = true,
-["buffByMe"] = true,
-["BotB"] = true,
-["BS"] = true,
+["type"] = "built-in",
+["size"] = {
+13,
+13,
 },
 },
 {
@@ -2385,8 +2797,6 @@ false,
 3,
 },
 ["orientation"] = "right-to-left",
-["num"] = 5,
-["numPerLine"] = 5,
 ["auras"] = {
 8936,
 774,
@@ -2452,92 +2862,25 @@ false,
 375986,
 444490,
 },
+["numPerLine"] = 5,
+["num"] = 5,
 },
 },
-["powerFilters"] = {
-["DEATHKNIGHT"] = {
-["DAMAGER"] = true,
-["TANK"] = true,
 },
-["WARRIOR"] = {
-["DAMAGER"] = true,
-["TANK"] = true,
-},
-["PALADIN"] = {
-["DAMAGER"] = true,
-["TANK"] = true,
-["HEALER"] = true,
-},
-["ROGUE"] = true,
-["MAGE"] = true,
-["MONK"] = {
-["DAMAGER"] = true,
-["TANK"] = true,
-["HEALER"] = true,
-},
-["VEHICLE"] = true,
-["PRIEST"] = {
-["DAMAGER"] = true,
-["HEALER"] = true,
-},
-["SHAMAN"] = {
-["DAMAGER"] = true,
-["HEALER"] = true,
-},
-["NPC"] = true,
-["WARLOCK"] = true,
-["DEMONHUNTER"] = {
-["DAMAGER"] = true,
-["TANK"] = true,
-},
-["PET"] = true,
-["DRUID"] = {
-["DAMAGER"] = true,
-["TANK"] = true,
-["HEALER"] = true,
-},
-["EVOKER"] = {
-["DAMAGER"] = true,
-["HEALER"] = true,
-},
-["HUNTER"] = true,
-},
-["spotlight"] = {
-["sameArrangementAsMain"] = true,
-["spacingY"] = 3,
-["spacingX"] = 3,
-["units"] = {
-},
-["enabled"] = false,
-["position"] = {
-},
-["anchor"] = "TOPLEFT",
-["hidePlaceholder"] = false,
-["orientation"] = "vertical",
-["sameSizeAsMain"] = true,
-["powerSize"] = 2,
-["size"] = {
-66,
-46,
-},
-},
-["barOrientation"] = {
-"horizontal",
-false,
-},
+["团队"] = {
 ["pet"] = {
 ["sameArrangementAsMain"] = true,
 ["spacingY"] = 3,
 ["spacingX"] = 3,
 ["soloEnabled"] = true,
 ["partyEnabled"] = true,
-["powerSize"] = 2,
-["anchor"] = "TOPLEFT",
-["sameSizeAsMain"] = true,
-["orientation"] = "vertical",
+["raidEnabled"] = false,
 ["position"] = {
 },
-["raidEnabled"] = false,
+["sameSizeAsMain"] = true,
+["anchor"] = "TOPLEFT",
+["orientation"] = "vertical",
+["powerSize"] = 2,
 ["size"] = {
 66,
 46,
@@ -2549,9 +2892,9 @@ false,
 ["separate"] = false,
 ["spacingX"] = 3,
 ["enabled"] = true,
-["anchor"] = "TOPLEFT",
-["sameSizeAsMain"] = true,
 ["orientation"] = "vertical",
+["sameSizeAsMain"] = true,
+["anchor"] = "TOPLEFT",
 ["position"] = {
 },
 ["powerSize"] = 2,
@@ -2560,8 +2903,6 @@ false,
 46,
 },
 },
-},
-["团队"] = {
 ["indicators"] = {
 {
 ["enabled"] = true,
@@ -2594,11 +2935,11 @@ true,
 0,
 },
 ["indicatorName"] = "nameText",
-["showGroupNumber"] = false,
 ["textWidth"] = {
 "percentage",
 0.75,
 },
+["showGroupNumber"] = false,
 },
 {
 ["enabled"] = true,
@@ -2618,6 +2959,7 @@ true,
 },
 ["indicatorName"] = "statusText",
 ["showBackground"] = true,
+["showTimer"] = true,
 ["colors"] = {
 ["OFFLINE"] = {
 1,
@@ -2631,7 +2973,7 @@ true,
 0.19,
 1,
 },
-["DECLINED"] = {
+["AFK"] = {
 1,
 0.19,
 0.19,
@@ -2667,14 +3009,13 @@ true,
 0.12,
 1,
 },
-["AFK"] = {
+["DECLINED"] = {
 1,
 0.19,
 0.19,
 1,
 },
 },
-["showTimer"] = true,
 },
 {
 ["enabled"] = false,
@@ -2711,8 +3052,8 @@ true,
 },
 },
 ["format"] = "none",
-["hideIfEmptyOrFull"] = false,
 ["delimiter"] = " ",
+["hideIfEmptyOrFull"] = false,
 },
 ["shields"] = {
 ["color"] = {
@@ -2739,13 +3080,13 @@ true,
 ["delimiter"] = "-",
 },
 },
-["frameLevel"] = 2,
 ["font"] = {
 "Cell 默认",
 10,
 "None",
 true,
 },
+["frameLevel"] = 2,
 },
 {
 ["enabled"] = false,
@@ -2785,15 +3126,16 @@ true,
 ["DAMAGER"] = true,
 ["TANK"] = true,
 },
-["HUNTER"] = true,
+["ROGUE"] = true,
 ["PALADIN"] = {
 ["DAMAGER"] = true,
 ["TANK"] = true,
 ["HEALER"] = true,
 },
 ["MAGE"] = true,
-["EVOKER"] = {
+["MONK"] = {
 ["DAMAGER"] = true,
+["TANK"] = true,
 ["HEALER"] = true,
 },
 ["VEHICLE"] = true,
@@ -2805,24 +3147,23 @@ true,
 ["DAMAGER"] = true,
 ["HEALER"] = true,
 },
-["PET"] = true,
+["NPC"] = true,
 ["WARLOCK"] = true,
 ["DEMONHUNTER"] = {
 ["DAMAGER"] = true,
 ["TANK"] = true,
 },
-["NPC"] = true,
+["PET"] = true,
 ["DRUID"] = {
 ["DAMAGER"] = true,
 ["TANK"] = true,
 ["HEALER"] = true,
 },
-["MONK"] = {
+["EVOKER"] = {
 ["DAMAGER"] = true,
-["TANK"] = true,
 ["HEALER"] = true,
 },
-["ROGUE"] = true,
+["HUNTER"] = true,
 },
 },
 {
@@ -2830,6 +3171,7 @@ true,
 ["type"] = "built-in",
 ["name"] = "Health Thresholds",
 ["indicatorName"] = "healthThresholds",
+["thickness"] = 1,
 ["thresholds"] = {
 {
 0.35,
@@ -2841,7 +3183,6 @@ true,
 },
 },
 },
-["thickness"] = 1,
 },
 {
 ["enabled"] = true,
@@ -2874,16 +3215,16 @@ true,
 0,
 },
 ["indicatorName"] = "roleIcon",
+["size"] = {
+11,
+11,
+},
+["type"] = "built-in",
 ["roleTexture"] = {
 "default",
 "Interface\\AddOns\\ElvUI\\Core\\Media\\Textures\\Tank.tga",
 "Interface\\AddOns\\ElvUI\\Core\\Media\\Textures\\Healer.tga",
 "Interface\\AddOns\\ElvUI\\Core\\Media\\Textures\\DPS.tga",
-},
-["type"] = "built-in",
-["size"] = {
-11,
-11,
 },
 },
 {
@@ -3020,8 +3361,8 @@ true,
 ["type"] = "built-in",
 ["name"] = "Aggro (border)",
 ["indicatorName"] = "aggroBorder",
-["thickness"] = 2,
 ["frameLevel"] = 3,
+["thickness"] = 2,
 },
 {
 ["enabled"] = false,
@@ -3042,20 +3383,20 @@ nil,
 0,
 },
 ["indicatorName"] = "shieldBar",
-["onlyShowOvershields"] = false,
 ["height"] = 4,
+["onlyShowOvershields"] = false,
 },
 {
 ["enabled"] = true,
 ["type"] = "built-in",
 ["name"] = "AoE Healing",
 ["indicatorName"] = "aoeHealing",
+["height"] = 10,
 ["color"] = {
 1,
 1,
 0,
 },
-["height"] = 10,
 },
 {
 ["enabled"] = true,
@@ -3070,7 +3411,7 @@ nil,
 1,
 },
 },
-["orientation"] = "right-to-left",
+["showDuration"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -3110,9 +3451,9 @@ false,
 2,
 5,
 },
-["indicatorName"] = "externalCooldowns",
+["orientation"] = "right-to-left",
 ["num"] = 2,
-["showDuration"] = false,
+["indicatorName"] = "externalCooldowns",
 ["size"] = {
 12,
 20,
@@ -3131,7 +3472,7 @@ false,
 1,
 },
 },
-["orientation"] = "left-to-right",
+["showDuration"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -3171,9 +3512,9 @@ false,
 -2,
 5,
 },
-["indicatorName"] = "defensiveCooldowns",
+["orientation"] = "left-to-right",
 ["num"] = 2,
-["showDuration"] = false,
+["indicatorName"] = "defensiveCooldowns",
 ["size"] = {
 12,
 20,
@@ -3192,7 +3533,7 @@ false,
 1,
 },
 },
-["orientation"] = "left-to-right",
+["showDuration"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -3232,9 +3573,9 @@ false,
 -2,
 5,
 },
-["indicatorName"] = "allCooldowns",
+["orientation"] = "left-to-right",
 ["num"] = 2,
-["showDuration"] = false,
+["indicatorName"] = "allCooldowns",
 ["size"] = {
 12,
 20,
@@ -3270,15 +3611,11 @@ false,
 ["enabled"] = true,
 ["type"] = "built-in",
 ["frameLevel"] = 15,
-["filters"] = {
-["dispellableByMe"] = true,
-["Disease"] = true,
-["Bleed"] = true,
-["Curse"] = true,
-["Magic"] = true,
-["Poison"] = true,
+["size"] = {
+12,
+12,
 },
-["orientation"] = "right-to-left",
+["iconStyle"] = "blizzard",
 ["name"] = "Dispels",
 ["position"] = {
 "BOTTOMRIGHT",
@@ -3287,12 +3624,16 @@ false,
 0,
 4,
 },
-["indicatorName"] = "dispels",
+["orientation"] = "right-to-left",
 ["highlightType"] = "gradient-half",
-["iconStyle"] = "blizzard",
-["size"] = {
-12,
-12,
+["indicatorName"] = "dispels",
+["filters"] = {
+["dispellableByMe"] = true,
+["Disease"] = true,
+["Bleed"] = true,
+["Curse"] = true,
+["Magic"] = true,
+["Poison"] = true,
 },
 },
 {
@@ -3301,8 +3642,14 @@ false,
 ["frameLevel"] = 5,
 ["type"] = "built-in",
 ["enableBlacklistShortcut"] = false,
-["enabled"] = true,
-["indicatorName"] = "debuffs",
+["showDuration"] = false,
+["position"] = {
+"BOTTOMLEFT",
+"button",
+"BOTTOMLEFT",
+1,
+4,
+},
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -3336,15 +3683,9 @@ false,
 },
 ["name"] = "Debuffs",
 ["showTooltip"] = false,
+["indicatorName"] = "debuffs",
 ["orientation"] = "left-to-right",
-["position"] = {
-"BOTTOMLEFT",
-"button",
-"BOTTOMLEFT",
-1,
-4,
-},
-["showDuration"] = false,
+["enabled"] = true,
 ["size"] = {
 {
 13,
@@ -3363,7 +3704,7 @@ false,
 ["type"] = "built-in",
 ["border"] = 2,
 ["showDuration"] = true,
-["indicatorName"] = "raidDebuffs",
+["showTooltip"] = false,
 ["font"] = {
 {
 "Cell 默认",
@@ -3402,8 +3743,8 @@ false,
 0,
 3,
 },
+["indicatorName"] = "raidDebuffs",
 ["orientation"] = "left-to-right",
-["showTooltip"] = false,
 ["onlyShowTopGlow"] = true,
 ["size"] = {
 22,
@@ -3437,7 +3778,7 @@ false,
 ["type"] = "built-in",
 ["frameLevel"] = 50,
 ["border"] = 2,
-["orientation"] = "left-to-right",
+["indicatorName"] = "targetedSpells",
 ["font"] = {
 "Cell 默认",
 12,
@@ -3460,9 +3801,9 @@ false,
 -4,
 4,
 },
-["indicatorName"] = "targetedSpells",
-["num"] = 1,
+["orientation"] = "left-to-right",
 ["showAllSpells"] = false,
+["num"] = 1,
 ["size"] = {
 20,
 20,
@@ -3494,8 +3835,8 @@ false,
 ["indicatorName"] = "targetCounter",
 ["filters"] = {
 ["pve"] = false,
-["pvp"] = true,
 ["outdoor"] = false,
+["pvp"] = true,
 },
 },
 {
@@ -3504,7 +3845,7 @@ false,
 ["frameLevel"] = 20,
 ["border"] = 2,
 ["enabled"] = false,
-["indicatorName"] = "crowdControls",
+["num"] = 3,
 ["font"] = {
 {
 "Cell 默认",
@@ -3543,9 +3884,9 @@ false,
 0,
 0,
 },
-["orientation"] = "left-to-right",
+["indicatorName"] = "crowdControls",
 ["showDuration"] = true,
-["num"] = 3,
+["orientation"] = "left-to-right",
 ["size"] = {
 22,
 22,
@@ -3562,9 +3903,14 @@ false,
 ["enabled"] = false,
 ["num"] = 3,
 ["frameLevel"] = 10,
-["size"] = {
-13,
-13,
+["filters"] = {
+["SF"] = true,
+["AB"] = true,
+["MotW"] = true,
+["PWF"] = true,
+["buffByMe"] = true,
+["BotB"] = true,
+["BS"] = true,
 },
 ["name"] = "Missing Buffs",
 ["position"] = {
@@ -3575,54 +3921,17 @@ false,
 4,
 },
 ["indicatorName"] = "missingBuffs",
-["type"] = "built-in",
 ["orientation"] = "right-to-left",
-["filters"] = {
-["SF"] = true,
-["AB"] = true,
-["MotW"] = true,
-["PWF"] = true,
-["buffByMe"] = true,
-["BotB"] = true,
-["BS"] = true,
-},
-},
-},
-["groupFilter"] = {
-true,
-true,
-true,
-true,
-true,
-true,
-true,
-true,
-},
-["main"] = {
-["spacingY"] = 0,
+["type"] = "built-in",
 ["size"] = {
-50,
-30,
+13,
+13,
 },
-["spacingX"] = 0,
-["unitsPerColumn"] = 5,
-["combineGroups"] = false,
-["position"] = {
-2,
-569,
 },
-["maxColumns"] = 8,
-["roleOrder"] = {
-"TANK",
-"HEALER",
-"DAMAGER",
 },
-["anchor"] = "TOPLEFT",
-["groupSpacing"] = 0,
-["orientation"] = "vertical",
-["sortByRole"] = false,
-["powerSize"] = 2,
-["hideSelf"] = false,
+["barOrientation"] = {
+"horizontal",
+false,
 },
 ["spotlight"] = {
 ["sameArrangementAsMain"] = true,
@@ -3631,12 +3940,12 @@ true,
 ["units"] = {
 },
 ["enabled"] = false,
-["sameSizeAsMain"] = true,
-["orientation"] = "vertical",
 ["hidePlaceholder"] = false,
-["anchor"] = "TOPLEFT",
 ["position"] = {
 },
+["sameSizeAsMain"] = true,
+["orientation"] = "vertical",
+["anchor"] = "TOPLEFT",
 ["powerSize"] = 2,
 ["size"] = {
 66,
@@ -3652,16 +3961,11 @@ true,
 ["DAMAGER"] = false,
 ["TANK"] = false,
 },
+["HUNTER"] = false,
 ["ROGUE"] = false,
-["PALADIN"] = {
-["DAMAGER"] = false,
-["TANK"] = false,
-["HEALER"] = false,
-},
 ["MAGE"] = false,
-["MONK"] = {
+["EVOKER"] = {
 ["DAMAGER"] = false,
-["TANK"] = false,
 ["HEALER"] = false,
 },
 ["VEHICLE"] = false,
@@ -3673,451 +3977,147 @@ true,
 ["DAMAGER"] = false,
 ["HEALER"] = false,
 },
-["NPC"] = false,
+["PET"] = false,
 ["WARLOCK"] = false,
 ["DEMONHUNTER"] = {
 ["DAMAGER"] = false,
 ["TANK"] = false,
 },
-["PET"] = false,
+["NPC"] = false,
 ["DRUID"] = {
 ["DAMAGER"] = false,
 ["TANK"] = false,
 ["HEALER"] = false,
 },
-["EVOKER"] = {
+["MONK"] = {
 ["DAMAGER"] = false,
+["TANK"] = false,
 ["HEALER"] = false,
 },
-["HUNTER"] = false,
-},
-["barOrientation"] = {
-"horizontal",
-false,
-},
-["npc"] = {
-["sameArrangementAsMain"] = true,
-["spacingY"] = 3,
-["separate"] = false,
-["spacingX"] = 3,
-["enabled"] = true,
-["anchor"] = "TOPLEFT",
-["sameSizeAsMain"] = true,
-["orientation"] = "vertical",
-["position"] = {
-},
-["powerSize"] = 2,
-["size"] = {
-66,
-46,
-},
-},
-["pet"] = {
-["sameArrangementAsMain"] = true,
-["spacingY"] = 3,
-["spacingX"] = 3,
-["soloEnabled"] = true,
-["partyEnabled"] = true,
-["powerSize"] = 2,
-["anchor"] = "TOPLEFT",
-["sameSizeAsMain"] = true,
-["orientation"] = "vertical",
-["position"] = {
-},
-["raidEnabled"] = false,
-["size"] = {
-66,
-46,
-},
-},
-},
-},
-["layoutAutoSwitch"] = {
-["HUNTER"] = {
-},
-["WARRIOR"] = {
-},
 ["PALADIN"] = {
-},
-["MAGE"] = {
-},
-["DEATHKNIGHT"] = {
-},
-["PRIEST"] = {
-},
-["MONK"] = {
-},
-["role"] = {
-["DAMAGER"] = {
-["raid_instance"] = "default",
-["party"] = "default",
-["solo"] = "default",
-["battleground40"] = "default",
-["battleground15"] = "default",
-["arena"] = "default",
-["raid_mythic"] = "default",
-["raid_outdoor"] = "团队",
-},
-["TANK"] = {
-["raid_instance"] = "default",
-["party"] = "default",
-["solo"] = "default",
-["battleground40"] = "default",
-["battleground15"] = "default",
-["arena"] = "default",
-["raid_mythic"] = "default",
-["raid_outdoor"] = "团队",
-},
-["HEALER"] = {
-["raid_instance"] = "default",
-["party"] = "default",
-["solo"] = "default",
-["battleground40"] = "default",
-["battleground15"] = "default",
-["arena"] = "default",
-["raid_mythic"] = "default",
-["raid_outdoor"] = "default",
+["DAMAGER"] = false,
+["TANK"] = false,
+["HEALER"] = false,
 },
 },
-["WARLOCK"] = {
-},
-["DEMONHUNTER"] = {
-},
-["SHAMAN"] = {
-},
-["DRUID"] = {
-},
-["EVOKER"] = {
-},
-["ROGUE"] = {
-},
-},
-["optionsFramePosition"] = {
-628,
-805,
-},
-["appearance"] = {
-["optionsFontSizeOffset"] = 0,
-["strata"] = "MEDIUM",
-["auraIconOptions"] = {
-["durationColorEnabled"] = false,
-["durationDecimal"] = 0,
-["animation"] = "duration",
-["durationRoundUp"] = false,
-["durationColors"] = {
-{
-0,
-1,
-0,
-},
-{
-1,
-1,
-0,
-0.5,
-},
-{
-1,
-0,
-0,
-3,
-},
-},
-},
-["bgAlpha"] = 1,
-["scale"] = 1,
-["targetColor"] = {
-1,
-0.31,
-0.31,
-1,
-},
-["fullColor"] = {
-false,
-{
-0.2,
-0.2,
-0.2,
-},
-},
-["outOfRangeAlpha"] = 0.45,
-["overshieldReverseFill"] = false,
-["overshield"] = {
+["groupFilter"] = {
 true,
-{
-1,
-1,
-1,
-1,
-},
-},
-["barAnimation"] = "Flash",
-["texture"] = "Cell 默认",
-["shield"] = {
 true,
-{
-1,
-1,
-1,
-0.4,
-},
-},
-["healPrediction"] = {
 true,
-false,
-{
-1,
-1,
-1,
-0.4,
-},
-},
-["colorThresholds"] = {
-{
-1,
-0,
-0,
-},
-{
-1,
-0.7,
-0,
-},
-{
-0.7,
-1,
-0,
-},
-0.05,
-0.95,
+true,
+true,
+true,
+true,
 true,
 },
-["mouseoverColor"] = {
-1,
-1,
-1,
-0.6,
+["main"] = {
+["spacingY"] = 0,
+["hideSelf"] = false,
+["spacingX"] = 0,
+["unitsPerColumn"] = 5,
+["maxColumns"] = 8,
+["sortByRole"] = false,
+["combineGroups"] = false,
+["roleOrder"] = {
+"TANK",
+"HEALER",
+"DAMAGER",
 },
-["highlightSize"] = 1,
-["lossColor"] = {
-"class_color_dark",
-{
-0.667,
-0,
-0,
-},
-},
-["barColor"] = {
-"class_color",
-{
-0.2,
-0.2,
-0.2,
-},
-},
-["useGameFont"] = true,
-["lossAlpha"] = 1,
-["deathColor"] = {
-false,
-{
-0.545,
-0,
-0,
-},
-},
-["accentColor"] = {
-"class_color",
-{
-1,
-0.26667,
-0.4,
-},
-},
-["healAbsorbInvertColor"] = false,
-["colorThresholdsLoss"] = {
-{
-1,
-0,
-0,
-},
-{
-1,
-0.7,
-0,
-},
-{
-0.7,
-1,
-0,
-},
-0.05,
-0.95,
-true,
-},
-["healAbsorb"] = {
-true,
-{
-1,
-0.1,
-0.1,
-1,
-},
-},
-["barAlpha"] = 1,
-["powerColor"] = {
-"power_color",
-{
-0.7,
-0.7,
-0.7,
-},
-},
-},
-["dispelBlacklist"] = {
-},
-["bigDebuffs"] = {
-46392,
-240443,
-209858,
-240559,
-},
-["debuffTypeColor"] = {
-[""] = {
-["b"] = 0,
-["g"] = 0,
-["r"] = 0.8,
-},
-["Disease"] = {
-["b"] = 0,
-["g"] = 0.4,
-["r"] = 0.6,
-},
-["Bleed"] = {
-["r"] = 1,
-["g"] = 0.2,
-["b"] = 0.6,
-},
-["Poison"] = {
-["b"] = 0,
-["g"] = 0.6,
-["r"] = 0,
-},
-["Curse"] = {
-["b"] = 1,
-["g"] = 0,
-["r"] = 0.6,
-},
-["Magic"] = {
-["b"] = 1,
-["g"] = 0.6,
-["r"] = 0.2,
-},
-["none"] = {
-["b"] = 0,
-["g"] = 0,
-["r"] = 0.8,
-},
-},
-["defensives"] = {
-["disabled"] = {
-},
-["custom"] = {
-},
-},
-["externals"] = {
-["disabled"] = {
-},
-["custom"] = {
-},
-},
-["raidDebuffs"] = {
-},
-["dispelRequest"] = {
-["enabled"] = false,
-["debuffs"] = {
-},
-["timeout"] = 10,
-["responseType"] = "all",
-["dispellableByMe"] = true,
-["textOptions"] = {
-"A",
-{
-1,
-0,
-0,
-1,
-},
-32,
-"TOPLEFT",
-"TOPLEFT",
--1,
-5,
-},
-["type"] = "text",
-["glowOptions"] = {
-"shine",
-{
-{
-1,
-0,
-0.4,
-1,
-},
-0,
-0,
-9,
-0.5,
+["orientation"] = "vertical",
+["position"] = {
 2,
+569,
+},
+["anchor"] = "TOPLEFT",
+["groupSpacing"] = 0,
+["powerSize"] = 2,
+["size"] = {
+50,
+30,
 },
 },
 },
-["targetedSpellsGlow"] = {
-"Pixel",
+},
+["spellRequest"] = {
+["enabled"] = false,
+["timeout"] = 10,
+["checkIfExists"] = true,
+["spells"] = {
 {
-0.95,
-0.95,
-0.32,
+["glowOptions"] = {
+"pixel",
+{
+{
+1,
+1,
+0,
 1,
 },
+0,
+0,
 9,
 0.25,
 8,
 2,
 },
-["actions"] = {
-{
-6262,
-{
-"A",
-{
-0.4,
-1,
-0,
 },
-},
-},
-{
-431416,
-{
-"A",
-{
-1,
-0.1,
-0.1,
-},
-},
-},
-{
-431932,
-{
-"C3",
-{
+["type"] = "icon",
+["spellId"] = 10060,
+["isBuiltIn"] = true,
+["keywords"] = "能量灌注",
+["iconColor"] = {
 1,
 1,
 0,
+1,
+},
+["icon"] = 135939,
+["buffId"] = 10060,
+},
+{
+["glowOptions"] = {
+"pixel",
+{
+{
+0,
+1,
+1,
+1,
+},
+0,
+0,
+9,
+0.25,
+8,
+2,
 },
 },
+["type"] = "icon",
+["spellId"] = 29166,
+["isBuiltIn"] = true,
+["keywords"] = "激活",
+["iconColor"] = {
+0,
+1,
+1,
+1,
 },
+["icon"] = 136048,
+["buffId"] = 29166,
+},
+},
+["sharedIconOptions"] = {
+"beat",
+27,
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+0,
+},
+["knownSpellsOnly"] = true,
+["responseType"] = "me",
+["replyCooldown"] = true,
+["freeCooldownOnly"] = true,
 },
 ["revise"] = "r250-release",
 ["targetedSpellsList"] = {

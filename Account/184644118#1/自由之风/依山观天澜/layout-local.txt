@@ -125,10 +125,3 @@ X: 8
 Y: -8
 W: 730
 H: 302
-Frame: SavedInstancesDetachHeader
-FrameLevel: 100
-Anchor: CENTER
-X: 103
-Y: 1
-W: 1203
-H: 724

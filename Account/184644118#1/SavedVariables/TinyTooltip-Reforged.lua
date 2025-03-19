@@ -49,24 +49,24 @@ TinyTooltipReforgedDB = {
 0,
 0.7,
 },
-["bodyFontFlag"] = "default",
+["statusbarFont"] = "default",
 ["statusbarPosition"] = "default",
 ["statusbarOffsetX"] = 0,
-["bodyFont"] = "default",
+["statusbarText"] = true,
 ["bodyFontSize"] = "default",
-["statusbarTexture"] = "Blizzard",
-["headerFontSize"] = "default",
+["statusbarColor"] = "auto",
+["borderCorner"] = "None",
 ["statusbarOffsetY"] = 0,
 ["alwaysShowIdInfo"] = true,
-["statusbarTextFormat"] = "health/max (percent)",
-["skinMoreFrames"] = true,
-["statusbarHeight"] = 12,
 ["statusbarFontFlag"] = "THINOUTLINE",
+["statusbarHeight"] = 12,
+["skinMoreFrames"] = true,
+["statusbarTextFormat"] = "health/max (percent)",
 ["headerFontFlag"] = "default",
-["borderCorner"] = "None",
-["statusbarColor"] = "auto",
-["statusbarText"] = true,
-["statusbarFont"] = "default",
+["headerFontSize"] = "default",
+["statusbarTexture"] = "Blizzard",
+["bodyFont"] = "default",
+["bodyFontFlag"] = "default",
 },
 ["variables"] = {
 },
@@ -82,6 +82,8 @@ TinyTooltipReforgedDB = {
 },
 ["unit"] = {
 ["npc"] = {
+["coloredBorder"] = "reaction",
+["showModel"] = false,
 ["elements"] = {
 {
 "raidIcon",
@@ -170,16 +172,14 @@ TinyTooltipReforgedDB = {
 },
 },
 ["showTarget"] = true,
-["coloredBorder"] = "reaction",
 ["anchor"] = {
 ["p"] = "BOTTOMRIGHT",
 ["position"] = "inherit",
 ["hiddenInCombat"] = false,
 ["defaultOnUnitFrame"] = false,
-["cp"] = "BOTTOM",
 ["defaultInCombat"] = false,
+["cp"] = "BOTTOM",
 },
-["showModel"] = false,
 ["background"] = {
 ["colorfunc"] = "default",
 ["alpha"] = 0.9,
@@ -324,6 +324,14 @@ TinyTooltipReforgedDB = {
 ["wildcard"] = "(%s)",
 ["filter"] = "none",
 },
+["factionIcon"] = {
+["enable"] = false,
+["filter"] = "none",
+},
+["friendIcon"] = {
+["enable"] = false,
+["filter"] = "none",
+},
 ["factionBig"] = {
 ["enable"] = false,
 ["filter"] = "none",
@@ -334,9 +342,9 @@ TinyTooltipReforgedDB = {
 ["wildcard"] = "<%s>",
 ["filter"] = "none",
 },
-["name"] = {
-["enable"] = true,
-["color"] = "class",
+["title"] = {
+["enable"] = false,
+["color"] = "ccffff",
 ["wildcard"] = "%s",
 ["filter"] = "none",
 },
@@ -346,18 +354,10 @@ TinyTooltipReforgedDB = {
 ["wildcard"] = "%s",
 ["filter"] = "none",
 },
-["title"] = {
-["enable"] = false,
-["color"] = "ccffff",
+["name"] = {
+["enable"] = true,
+["color"] = "class",
 ["wildcard"] = "%s",
-["filter"] = "none",
-},
-["friendIcon"] = {
-["enable"] = false,
-["filter"] = "none",
-},
-["factionIcon"] = {
-["enable"] = false,
 ["filter"] = "none",
 },
 ["classIcon"] = {
@@ -368,15 +368,15 @@ TinyTooltipReforgedDB = {
 ["showModel"] = false,
 ["showTargetBy"] = true,
 ["coloredBorder"] = "class",
-["showTarget"] = true,
 ["anchor"] = {
 ["p"] = "BOTTOMRIGHT",
 ["position"] = "inherit",
 ["hiddenInCombat"] = false,
 ["defaultOnUnitFrame"] = false,
-["cp"] = "BOTTOM",
 ["defaultInCombat"] = false,
+["cp"] = "BOTTOM",
 },
+["showTarget"] = true,
 ["background"] = {
 ["colorfunc"] = "class",
 ["alpha"] = 0.9,

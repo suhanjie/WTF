@@ -49,24 +49,24 @@ TinyTooltipReforgedDB = {
 0,
 0.7,
 },
-["statusbarFont"] = "default",
+["bodyFontFlag"] = "default",
 ["statusbarPosition"] = "default",
 ["statusbarOffsetX"] = 0,
-["statusbarText"] = true,
-["bodyFontSize"] = "default",
-["statusbarColor"] = "auto",
-["statusbarOffsetY"] = 0,
-["borderCorner"] = "None",
-["alwaysShowIdInfo"] = true,
-["statusbarFontFlag"] = "THINOUTLINE",
-["statusbarHeight"] = 12,
-["skinMoreFrames"] = true,
-["statusbarTextFormat"] = "health/max (percent)",
-["headerFontFlag"] = "default",
-["headerFontSize"] = "default",
-["statusbarTexture"] = "Blizzard",
 ["bodyFont"] = "default",
-["bodyFontFlag"] = "default",
+["bodyFontSize"] = "default",
+["statusbarTexture"] = "Blizzard",
+["headerFontSize"] = "default",
+["statusbarOffsetY"] = 0,
+["alwaysShowIdInfo"] = true,
+["statusbarTextFormat"] = "health/max (percent)",
+["skinMoreFrames"] = true,
+["statusbarHeight"] = 12,
+["statusbarFontFlag"] = "THINOUTLINE",
+["headerFontFlag"] = "default",
+["borderCorner"] = "None",
+["statusbarColor"] = "auto",
+["statusbarText"] = true,
+["statusbarFont"] = "default",
 },
 ["variables"] = {
 },
@@ -82,8 +82,6 @@ TinyTooltipReforgedDB = {
 },
 ["unit"] = {
 ["npc"] = {
-["coloredBorder"] = "reaction",
-["showModel"] = false,
 ["elements"] = {
 {
 "raidIcon",
@@ -171,15 +169,17 @@ TinyTooltipReforgedDB = {
 ["filter"] = "none",
 },
 },
-["showTarget"] = true,
 ["anchor"] = {
 ["p"] = "BOTTOMRIGHT",
 ["position"] = "inherit",
 ["hiddenInCombat"] = false,
 ["defaultOnUnitFrame"] = false,
-["defaultInCombat"] = false,
 ["cp"] = "BOTTOM",
+["defaultInCombat"] = false,
 },
+["coloredBorder"] = "reaction",
+["showModel"] = false,
+["showTarget"] = true,
 ["background"] = {
 ["colorfunc"] = "default",
 ["alpha"] = 0.9,
@@ -324,12 +324,14 @@ TinyTooltipReforgedDB = {
 ["wildcard"] = "(%s)",
 ["filter"] = "none",
 },
-["factionIcon"] = {
+["factionBig"] = {
 ["enable"] = false,
 ["filter"] = "none",
 },
-["friendIcon"] = {
-["enable"] = false,
+["guildName"] = {
+["enable"] = true,
+["color"] = "ff00ff",
+["wildcard"] = "<%s>",
 ["filter"] = "none",
 },
 ["name"] = {
@@ -350,13 +352,11 @@ TinyTooltipReforgedDB = {
 ["wildcard"] = "%s",
 ["filter"] = "none",
 },
-["guildName"] = {
-["enable"] = true,
-["color"] = "ff00ff",
-["wildcard"] = "<%s>",
+["friendIcon"] = {
+["enable"] = false,
 ["filter"] = "none",
 },
-["factionBig"] = {
+["factionIcon"] = {
 ["enable"] = false,
 ["filter"] = "none",
 },
@@ -368,15 +368,15 @@ TinyTooltipReforgedDB = {
 ["showModel"] = false,
 ["showTargetBy"] = true,
 ["coloredBorder"] = "class",
+["showTarget"] = true,
 ["anchor"] = {
 ["p"] = "BOTTOMRIGHT",
 ["position"] = "inherit",
 ["hiddenInCombat"] = false,
 ["defaultOnUnitFrame"] = false,
-["defaultInCombat"] = false,
 ["cp"] = "BOTTOM",
+["defaultInCombat"] = false,
 },
-["showTarget"] = true,
 ["background"] = {
 ["colorfunc"] = "class",
 ["alpha"] = 0.9,

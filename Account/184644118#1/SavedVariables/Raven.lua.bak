@@ -1,0 +1,70 @@
+
+RavenDB = {
+["profileKeys"] = {
+["灵眸初启 - 熊猫酒仙"] = "灵眸初启 - 熊猫酒仙",
+["Erudite - 熊猫酒仙"] = "Erudite - 熊猫酒仙",
+["终末序曲 - 熊猫酒仙"] = "终末序曲 - 熊猫酒仙",
+},
+["global"] = {
+["userDefinedMessage"] = "User-defined function not valid",
+["Version"] = "7",
+["SpellTypes"] = {
+[10060] = "Magic",
+[21562] = "Magic",
+},
+},
+["profiles"] = {
+["灵眸初启 - 熊猫酒仙"] = {
+["version"] = 1,
+["Durations"] = {
+[445798] = 440.425,
+},
+},
+["Erudite - 熊猫酒仙"] = {
+["hideBlizz"] = false,
+["BarGroups"] = {
+["Buffs"] = {
+["spacingY"] = 15,
+["spacingX"] = 2,
+["barHeight"] = 5,
+["configuration"] = 9,
+["showNoDuration"] = true,
+["hideLabel"] = true,
+["pointH"] = 25.00000762939453,
+["locked"] = false,
+["growDirection"] = false,
+["sor"] = "T",
+["detectBuffs"] = true,
+["auto"] = true,
+["detectBuffsCastBy"] = "anyone",
+["useDefaultTimeFormat"] = true,
+["pointX"] = 0.2699218734800817,
+["pointY"] = 0.3145833079020182,
+["pointW"] = 25.00000762939453,
+["disableBGSFX"] = true,
+["name"] = "Buffs",
+["hideBar"] = true,
+["pointYT"] = 0.6645833524068196,
+["iconSize"] = 25,
+["bars"] = {
+},
+["pointXR"] = 0.7183593738377095,
+["barWidth"] = 20,
+},
+},
+["Durations"] = {
+[10060] = 15,
+[21562] = 3600,
+},
+["version"] = 1,
+},
+["终末序曲 - 熊猫酒仙"] = {
+["hideBlizz"] = false,
+["version"] = 1,
+["Durations"] = {
+[445798] = 670.69,
+[388367] = 1.5,
+},
+},
+},
+}

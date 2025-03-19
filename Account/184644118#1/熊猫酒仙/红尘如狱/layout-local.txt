@@ -1,9 +1,9 @@
 Version: 1
 Frame: SettingsPanel
 FrameLevel: 1
-Anchor: CENTER
+Anchor: TOP
 X: 0
-Y: 64
+Y: -116
 W: 920
 H: 720
 Frame: ColorPickerFrame

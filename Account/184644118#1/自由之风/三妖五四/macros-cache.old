@@ -38,8 +38,11 @@ VER 3 010000000000000C "悲苦" "INV_MISC_QUESTIONMARK"
 /cast [@cursor] 悲苦咒符
 END
 VER 3 0100000000000009 "打断" "INV_MISC_QUESTIONMARK"
-#showtooltip 瓦解 
-/cast [target=focus,exists] 瓦解;瓦解
+#showtooltip 瓦解
+/cleartarget [@focus,noexists]
+/targetenemy [@focus,noexists]
+/cast [target=focus,harm,exists][target=target,harm,exists] 瓦解
+/targetlasttarget [@focus,noexists]
 END
 VER 3 010000000000000D "极乐" "INV_MISC_QUESTIONMARK"
 #showtooltip 极乐敕令
@@ -58,6 +61,11 @@ VER 3 0100000000000003 "爆发" "SPELL_MAGIC_MANAGAIN"
 /cast 混乱之刃
 /use 13
 /use 14
+END
+VER 3 0100000000000014 "破尖" "134400"
+#showtooltip 破裂
+/cast 恶魔尖刺
+/cast 破裂
 END
 VER 3 0100000000000001 "羽毛" "INV_MISC_QUESTIONMARK"
 /click ExtraActionButton1
