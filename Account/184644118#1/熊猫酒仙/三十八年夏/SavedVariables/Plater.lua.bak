@@ -3,9 +3,9 @@ PlaterDBChr = {
 ["spellRangeCheckRangeFriendly"] = {
 [269] = 40,
 [270] = 40,
-[268] = 30,
-[62] = 40,
 [63] = 40,
+[62] = 40,
+[268] = 30,
 [64] = 40,
 },
 ["buffsBanned"] = {
@@ -22,9 +22,9 @@ PlaterDBChr = {
 ["spellRangeCheckRangeEnemy"] = {
 [269] = 40,
 [270] = 40,
-[268] = 30,
-[62] = 40,
 [63] = 40,
+[62] = 40,
+[268] = 30,
 [64] = 40,
 },
 }

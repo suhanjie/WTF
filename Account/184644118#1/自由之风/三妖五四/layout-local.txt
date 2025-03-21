@@ -20,6 +20,13 @@ X: 341
 Y: -89
 W: 261
 H: 590
+Frame: CharacterFrame
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 16
+Y: -116
+W: 338
+H: 424
 Frame: QuestFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -118,10 +125,3 @@ X: 8
 Y: -8
 W: 730
 H: 302
-Frame: CharacterFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 16
-Y: -116
-W: 338
-H: 424

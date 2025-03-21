@@ -17,6 +17,7 @@ END
 VER 3 0000000000000002 "1额外" "134400"
 #showtooltip ExtraActionButton1
 /click ExtraActionButton1
+/施放 [@cursor] 试用药水
 /施放 投网
 /施放 黑龙军团的旗帜
 /施放 暗月工具包
@@ -50,7 +51,8 @@ VER 3 000000000000001A "坐骑" "134400"
 /cast [known:战斗怒吼] 战斗怒吼
 /cast [known:奥术智慧] 奥术智慧
 /cast [known:真言术：韧] 真言术：韧
-/cast [button:2] 雄壮远足牦牛; [swimming] 乌龟坐骑; [nomounted, noflyable] G-99疾飙飞车; 冷焰风暴
+/cast [button:2] 雄壮远足牦牛; [swimming] 乌龟坐骑; [nomounted, noflyable] G-99疾飙飞车; [known:旅行形态] 旅行形态; 冷焰风暴
+/cast 滑翔
 END
 VER 3 0000000000000018 "大米" "135741"
 /click ORLOpen x

@@ -91,54 +91,54 @@ HandyNotesDB = {
 ["Yfmage - 冰风岗"] = "Semage - 冰风岗",
 ["Sgg - 伊森利恩"] = "Semage - 冰风岗",
 ["Sehunt - 凤凰之神"] = "Semage - 白银之手",
-["诸子百家 - 自由之风"] = "诸子百家 - 自由之风",
+["大漠孤烟 - 自由之风"] = "Semage - 冰风岗",
 ["Semage - 台灣傳奇地城"] = "Semagê - 白银之手",
 ["Sejiong - 白银之手"] = "Semage - 白银之手",
 ["依山观天澜 - 自由之风"] = "Semage - 冰风岗",
 ["Sedemo - CN史诗地下城"] = "Sedemo - CN史诗地下城",
 ["丶贵族 - 伊森利恩"] = "Semage - 冰风岗",
-["Dsfahfkjsd - 冰风岗"] = "Dsfahfkjsd - 冰风岗",
-["踏月剑歌 - 自由之风"] = "Semage - 冰风岗",
-["Sgg - 冰风岗"] = "Semage - 冰风岗",
+["Semage - 夜空之歌"] = "Semagê - 白银之手",
+["Sedk - 暗影之月"] = "Sedk - 暗影之月",
+["Semage - CN史诗地下城"] = "Semage - 白银之手",
 ["揉蛋超人丶 - 伊森利恩"] = "Semage - 冰风岗",
 ["Sedidi - 冰风岗"] = "Semage - 冰风岗",
 ["丶雨天 - 伊森利恩"] = "Semage - 冰风岗",
-["丶青火 - 冰风岗"] = "Semage - 冰风岗",
+["Sedk - 伊森利恩"] = "Sedk - 伊森利恩",
 ["大晴冥 - 伊森利恩"] = "Semage - 冰风岗",
 ["晴冥 - 伊森利恩"] = "Semage - 冰风岗",
 ["Sefushou - 白银之手"] = "Semage - 白银之手",
 ["Segege - 布兰卡德"] = "Segege - 布兰卡德",
 ["唐三打 - 熊猫酒仙"] = "Semage - 冰风岗",
-["Semimi - 伊森利恩"] = "Semage - 冰风岗",
-["灵眸天启 - 自由之风"] = "Semage - 冰风岗",
-["Segg - 伊森利恩"] = "Semage - 冰风岗",
-["Yufan - 伊森利恩"] = "Semage - 冰风岗",
+["Sepala - 夜空之歌"] = "Sepala - 夜空之歌",
+["糖天天 - 冰风岗"] = "Semage - 冰风岗",
+["景宇 - 天空之墙"] = "Semagê - 白银之手",
+["Sema - 夜空之歌"] = "Sema - 夜空之歌",
 ["Cyanfires - 伊森利恩"] = "Semage - 冰风岗",
 ["小心刀 - 伊森利恩"] = "Semage - 冰风岗",
-["野原丶美冴 - 伊森利恩"] = "Semage - 冰风岗",
+["Sema - CN史诗地下城"] = "Sema - CN史诗地下城",
 ["Semagewe - CN史诗地下城"] = "Semage - 白银之手",
 ["Serun - 白银之手"] = "Semage - 白银之手",
 ["灵眸初启 - 自由之风"] = "Semage - 冰风岗",
 ["丶晴冥 - 伊森利恩"] = "Semage - 冰风岗",
 ["Sehunt - CN史诗地下城"] = "Semage - 白银之手",
-["Sema - CN史诗地下城"] = "Sema - CN史诗地下城",
+["野原丶美冴 - 伊森利恩"] = "Semage - 冰风岗",
 ["丶刺刀 - 伊森利恩"] = "Semage - 冰风岗",
 ["灵眸天启 - 熊猫酒仙"] = "Semage - 冰风岗",
-["Sema - 夜空之歌"] = "Sema - 夜空之歌",
-["景宇 - 天空之墙"] = "Semagê - 白银之手",
-["糖天天 - 冰风岗"] = "Semage - 冰风岗",
-["Sepala - 夜空之歌"] = "Sepala - 夜空之歌",
+["Yufan - 伊森利恩"] = "Semage - 冰风岗",
+["Segg - 伊森利恩"] = "Semage - 冰风岗",
+["灵眸天启 - 自由之风"] = "Semage - 冰风岗",
+["Semimi - 伊森利恩"] = "Semage - 冰风岗",
 ["再睡一夏 - 熊猫酒仙"] = "Semage - 冰风岗",
 ["丶青火 - 伊森利恩"] = "Semage - 冰风岗",
-["Sedk - 伊森利恩"] = "Sedk - 伊森利恩",
+["丶青火 - 冰风岗"] = "Semage - 冰风岗",
 ["故人与为伴 - 自由之风"] = "Semage - 冰风岗",
 ["烟月独逝 - 自由之风"] = "Semage - 冰风岗",
 ["Sedidi - 伊森利恩"] = "Semage - 冰风岗",
-["Semage - CN史诗地下城"] = "Semage - 白银之手",
-["Sedk - 暗影之月"] = "Sedk - 暗影之月",
-["Semage - 夜空之歌"] = "Semagê - 白银之手",
+["Sgg - 冰风岗"] = "Semage - 冰风岗",
+["踏月剑歌 - 自由之风"] = "Semage - 冰风岗",
+["Dsfahfkjsd - 冰风岗"] = "Dsfahfkjsd - 冰风岗",
 ["Vapaus - 冰风岗"] = "Vapaus - 冰风岗",
-["大漠孤烟 - 自由之风"] = "Semage - 冰风岗",
+["诸子百家 - 自由之风"] = "诸子百家 - 自由之风",
 },
 ["profiles"] = {
 ["Yufan - 布兰卡德"] = {
@@ -197,7 +197,7 @@ HandyNotesDB = {
 },
 ["Sehunt - CN史诗地下城"] = {
 },
-["呵哒呵呵哒 - 无尽之海"] = {
+["三妖五四 - 克尔苏加德"] = {
 },
 ["Semagekr - CN史诗地下城"] = {
 },
@@ -205,15 +205,15 @@ HandyNotesDB = {
 },
 ["Sedk - 伊森利恩"] = {
 },
-["Sema - 夜空之歌"] = {
+["Sepala - 伊森利恩"] = {
 },
 ["Semageo - CN史诗地下城"] = {
 },
-["Dsfahfkjsd - 冰风岗"] = {
+["Sepala - 夜空之歌"] = {
 },
-["Yufan - 暗影之月"] = {
+["Segege - 阿格拉玛"] = {
 },
-["Semagee - CN史诗地下城"] = {
+["Semage - 冰风岗"] = {
 },
 ["Sepriest - 白银之手"] = {
 },
@@ -221,17 +221,17 @@ HandyNotesDB = {
 },
 ["Sedh - 白银之手"] = {
 },
-["Semage - 冰风岗"] = {
+["Semagee - CN史诗地下城"] = {
 },
-["Segege - 阿格拉玛"] = {
+["Yufan - 暗影之月"] = {
 },
-["Sepala - 夜空之歌"] = {
+["Dsfahfkjsd - 冰风岗"] = {
 },
-["Sepala - 伊森利恩"] = {
+["Sema - 夜空之歌"] = {
 },
 ["Vapaus - 冰风岗"] = {
 },
-["三妖五四 - 克尔苏加德"] = {
+["呵哒呵呵哒 - 无尽之海"] = {
 },
 },
 }
@@ -327,54 +327,54 @@ HandyNotes_HandyNotesDB = {
 ["Yfmage - 冰风岗"] = "Semage - 冰风岗",
 ["Sgg - 伊森利恩"] = "Semage - 冰风岗",
 ["Sehunt - 凤凰之神"] = "Semage - 白银之手",
-["诸子百家 - 自由之风"] = "诸子百家 - 自由之风",
+["大漠孤烟 - 自由之风"] = "Semage - 冰风岗",
 ["Semage - 台灣傳奇地城"] = "Semagê - 白银之手",
 ["Sejiong - 白银之手"] = "Semage - 白银之手",
 ["依山观天澜 - 自由之风"] = "Semage - 冰风岗",
 ["Sedemo - CN史诗地下城"] = "Sedemo - CN史诗地下城",
 ["丶贵族 - 伊森利恩"] = "Semage - 冰风岗",
-["Dsfahfkjsd - 冰风岗"] = "Dsfahfkjsd - 冰风岗",
-["踏月剑歌 - 自由之风"] = "Semage - 冰风岗",
-["Sgg - 冰风岗"] = "Semage - 冰风岗",
+["Sedk - 暗影之月"] = "Sedk - 暗影之月",
+["Sema - CN史诗地下城"] = "Sema - CN史诗地下城",
+["Semage - CN史诗地下城"] = "Semage - 白银之手",
 ["揉蛋超人丶 - 伊森利恩"] = "Semage - 冰风岗",
 ["Sedidi - 冰风岗"] = "Semage - 冰风岗",
 ["丶雨天 - 伊森利恩"] = "Semage - 冰风岗",
-["丶青火 - 冰风岗"] = "Semage - 冰风岗",
+["Sedk - 伊森利恩"] = "Sedk - 伊森利恩",
 ["大晴冥 - 伊森利恩"] = "Semage - 冰风岗",
 ["晴冥 - 伊森利恩"] = "Semage - 冰风岗",
 ["Sefushou - 白银之手"] = "Semage - 白银之手",
 ["Segege - 布兰卡德"] = "Segege - 布兰卡德",
 ["唐三打 - 熊猫酒仙"] = "Semage - 冰风岗",
-["Semimi - 伊森利恩"] = "Semage - 冰风岗",
-["灵眸天启 - 自由之风"] = "Semage - 冰风岗",
-["Segg - 伊森利恩"] = "Semage - 冰风岗",
-["Yufan - 伊森利恩"] = "Semage - 冰风岗",
+["Sepala - 夜空之歌"] = "Sepala - 夜空之歌",
+["糖天天 - 冰风岗"] = "Semage - 冰风岗",
+["Benjidunn - 伊森利恩"] = "Semage - 冰风岗",
+["Sema - 夜空之歌"] = "Sema - 夜空之歌",
 ["Cyanfires - 伊森利恩"] = "Semage - 冰风岗",
 ["小心刀 - 伊森利恩"] = "Semage - 冰风岗",
-["野原丶美冴 - 伊森利恩"] = "Semage - 冰风岗",
+["Semage - 夜空之歌"] = "Semagê - 白银之手",
 ["Semagewe - CN史诗地下城"] = "Semage - 白银之手",
 ["Serun - 白银之手"] = "Semage - 白银之手",
 ["灵眸初启 - 自由之风"] = "Semage - 冰风岗",
 ["丶晴冥 - 伊森利恩"] = "Semage - 冰风岗",
 ["Sehunt - CN史诗地下城"] = "Semage - 白银之手",
-["Semage - 夜空之歌"] = "Semagê - 白银之手",
+["野原丶美冴 - 伊森利恩"] = "Semage - 冰风岗",
 ["丶刺刀 - 伊森利恩"] = "Semage - 冰风岗",
 ["灵眸天启 - 熊猫酒仙"] = "Semage - 冰风岗",
-["Sema - 夜空之歌"] = "Sema - 夜空之歌",
-["Benjidunn - 伊森利恩"] = "Semage - 冰风岗",
-["糖天天 - 冰风岗"] = "Semage - 冰风岗",
-["Sepala - 夜空之歌"] = "Sepala - 夜空之歌",
+["Yufan - 伊森利恩"] = "Semage - 冰风岗",
+["Segg - 伊森利恩"] = "Semage - 冰风岗",
+["灵眸天启 - 自由之风"] = "Semage - 冰风岗",
+["Semimi - 伊森利恩"] = "Semage - 冰风岗",
 ["再睡一夏 - 熊猫酒仙"] = "Semage - 冰风岗",
 ["丶青火 - 伊森利恩"] = "Semage - 冰风岗",
-["Sedk - 伊森利恩"] = "Sedk - 伊森利恩",
+["丶青火 - 冰风岗"] = "Semage - 冰风岗",
 ["故人与为伴 - 自由之风"] = "Semage - 冰风岗",
 ["烟月独逝 - 自由之风"] = "Semage - 冰风岗",
 ["Sedidi - 伊森利恩"] = "Semage - 冰风岗",
-["Semage - CN史诗地下城"] = "Semage - 白银之手",
-["Sema - CN史诗地下城"] = "Sema - CN史诗地下城",
-["Sedk - 暗影之月"] = "Sedk - 暗影之月",
+["Sgg - 冰风岗"] = "Semage - 冰风岗",
+["踏月剑歌 - 自由之风"] = "Semage - 冰风岗",
+["Dsfahfkjsd - 冰风岗"] = "Dsfahfkjsd - 冰风岗",
 ["Vapaus - 冰风岗"] = "Vapaus - 冰风岗",
-["大漠孤烟 - 自由之风"] = "Semage - 冰风岗",
+["诸子百家 - 自由之风"] = "诸子百家 - 自由之风",
 },
 ["profiles"] = {
 ["Yufan - 布兰卡德"] = {
@@ -433,7 +433,7 @@ HandyNotes_HandyNotesDB = {
 },
 ["Sehunt - CN史诗地下城"] = {
 },
-["呵哒呵呵哒 - 无尽之海"] = {
+["三妖五四 - 克尔苏加德"] = {
 },
 ["Semagekr - CN史诗地下城"] = {
 },
@@ -441,15 +441,15 @@ HandyNotes_HandyNotesDB = {
 },
 ["Sedk - 伊森利恩"] = {
 },
-["Sema - 夜空之歌"] = {
+["Sepala - 伊森利恩"] = {
 },
 ["Semageo - CN史诗地下城"] = {
 },
-["Sepriest - 白银之手"] = {
+["Sepala - 夜空之歌"] = {
 },
-["Dsfahfkjsd - 冰风岗"] = {
+["Yufan - 白银之手"] = {
 },
-["Semagew - CN史诗地下城"] = {
+["Yufane - CN史诗地下城"] = {
 },
 ["Semage - 夜空之歌"] = {
 },
@@ -457,17 +457,17 @@ HandyNotes_HandyNotesDB = {
 },
 ["Sedh - 白银之手"] = {
 },
-["Yufane - CN史诗地下城"] = {
+["Semagew - CN史诗地下城"] = {
 },
-["Yufan - 白银之手"] = {
+["Dsfahfkjsd - 冰风岗"] = {
 },
-["Sepala - 夜空之歌"] = {
+["Sepriest - 白银之手"] = {
 },
-["Sepala - 伊森利恩"] = {
+["Sema - 夜空之歌"] = {
 },
 ["Vapaus - 冰风岗"] = {
 },
-["三妖五四 - 克尔苏加德"] = {
+["呵哒呵呵哒 - 无尽之海"] = {
 },
 },
 }

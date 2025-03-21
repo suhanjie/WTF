@@ -15,20 +15,20 @@ BAGANATOR_CONFIG = {
 ["default_battlepet"] = true,
 ["default_food"] = true,
 ["default_reagent"] = true,
-["default_weapon"] = true,
+["default_junk"] = true,
 ["default_special_empty"] = true,
-["default_recipe"] = true,
-["default_gem"] = true,
+["default_miscellaneous"] = true,
+["default_key"] = true,
 ["default_consumable"] = true,
 ["default_tradegoods"] = true,
-["default_potion"] = true,
-["default_keystone"] = true,
-["default_profession"] = true,
-["default_auto_equipment_sets"] = true,
 ["default_container"] = true,
-["default_key"] = true,
-["default_miscellaneous"] = true,
-["default_junk"] = true,
+["default_keystone"] = true,
+["default_auto_equipment_sets"] = true,
+["default_profession"] = true,
+["default_potion"] = true,
+["default_gem"] = true,
+["default_recipe"] = true,
+["default_weapon"] = true,
 },
 ["show_search_box"] = true,
 ["debug_categories_search"] = false,
@@ -41,7 +41,7 @@ BAGANATOR_CONFIG = {
 ["auction_house"] = true,
 ["void_storage"] = false,
 ["guild_bank"] = false,
-["trade_partner"] = false,
+["forge_of_bonds"] = false,
 ["tradeskill"] = false,
 ["item_upgrade"] = true,
 ["character_panel"] = false,
@@ -49,13 +49,13 @@ BAGANATOR_CONFIG = {
 ["item_interaction"] = true,
 ["mail"] = false,
 ["sockets"] = false,
-["forge_of_bonds"] = false,
+["trade_partner"] = false,
 ["bank"] = true,
 },
 ["icon_corners_auto_insert_applied"] = {
 ["battle_pet_level"] = true,
-["keystone_level"] = true,
 ["bag_type"] = true,
+["keystone_level"] = true,
 },
 ["show_recents_tabs_main_view"] = false,
 ["bag_view_show_bag_slots"] = false,
@@ -124,8 +124,8 @@ BAGANATOR_CONFIG = {
 },
 ["bank_view_position"] = {
 "TOPRIGHT",
--813.633544921875,
--229.16650390625,
+-822.8001708984375,
+-127.6666259765625,
 },
 ["guild_view_position_2"] = {
 "TOPLEFT",
@@ -140,19 +140,34 @@ BAGANATOR_CONFIG = {
 ["category_horizontal_spacing_2"] = 0.2,
 ["category_default_import"] = 2,
 ["debug_categories"] = false,
-["icon_context_fading"] = true,
-["currency_headers_collapsed"] = {
+["icon_bottom_left_corner_array"] = {
+"bag_type",
+"equipment_set",
+},
+["custom_categories"] = {
+["1"] = {
+["name"] = "分解",
+["search"] = "",
+},
 },
 ["saved_searches"] = {
 },
-["icon_mark_unusable"] = true,
+["currencies_tracked_imported"] = {
+},
 ["category_modifications"] = {
+["default_food"] = {
+},
+["default_gem"] = {
+},
 ["default_potion"] = {
 ["addedItems"] = {
 ["i:212738"] = true,
+["i:212741"] = true,
 },
 },
-["default_gem"] = {
+["default_armor"] = {
+},
+["default_hearthstone"] = {
 },
 ["1"] = {
 ["showGroupPrefix"] = true,
@@ -161,7 +176,10 @@ BAGANATOR_CONFIG = {
 ["i:222840"] = true,
 },
 },
-["default_hearthstone"] = {
+["default_keystone"] = {
+["addedItems"] = {
+["i:233186"] = true,
+},
 },
 },
 ["warband_bank_view_width"] = 14,
@@ -174,7 +192,7 @@ BAGANATOR_CONFIG = {
 },
 ["Gaygenius-自由之风"] = {
 },
-["终末序曲-熊猫酒仙"] = {
+["再睡一夏-自由之风"] = {
 },
 ["踏月剑歌-熊猫酒仙"] = {
 },
@@ -182,7 +200,7 @@ BAGANATOR_CONFIG = {
 },
 ["三妖五四-自由之风"] = {
 },
-["红尘如狱-熊猫酒仙"] = {
+["终末序曲-熊猫酒仙"] = {
 },
 ["醉听箫鼓-冰风岗"] = {
 },
@@ -194,73 +212,38 @@ BAGANATOR_CONFIG = {
 },
 ["灵眸初启-熊猫酒仙"] = {
 },
-["再睡一夏-自由之风"] = {
+["红尘如狱-熊猫酒仙"] = {
 },
 },
-["category_section_toggled"] = {
-["2"] = false,
-},
+["category_group_empty_slots"] = true,
 ["icon_text_font_size"] = 20,
-["lock_frames"] = false,
+["icon_equipment_set_border"] = true,
+["bag_view_width"] = 16,
+["disabled_skins"] = {
+},
 ["sort_ignore_slots_count_2"] = {
 ["三妖五四-自由之风"] = 0,
 ["沁凉薄荷-自由之风"] = 0,
 },
-["disabled_skins"] = {
-},
-["bag_view_width"] = 16,
-["guild_current_tab"] = 1,
-["bag_view_type"] = "category",
+["bag_icon_size"] = 40,
+["category_migration"] = 5,
+["debug_keywords"] = false,
 ["recent_characters_main_view"] = {
-"红尘如狱-熊猫酒仙",
-"再睡一夏-自由之风",
-"踏月剑歌-熊猫酒仙",
-"醉听箫鼓-冰风岗",
 "三妖五四-自由之风",
+"再睡一夏-自由之风",
 "Gaygenius-自由之风",
-"Erudite-熊猫酒仙",
-"三十八年夏-熊猫酒仙",
-"依山观天澜-自由之风",
-"沁凉薄荷-自由之风",
+"醉听箫鼓-冰风岗",
 "终末序曲-熊猫酒仙",
+"依山观天澜-自由之风",
 "灵眸初启-熊猫酒仙",
+"沁凉薄荷-自由之风",
 "烟月独逝-熊猫酒仙",
+"踏月剑歌-熊猫酒仙",
+"三十八年夏-熊猫酒仙",
+"Erudite-熊猫酒仙",
+"红尘如狱-熊猫酒仙",
 "叶五枝-熊猫酒仙",
 "就是试试插件-熊猫酒仙",
-},
-["debug_keywords"] = false,
-["character_select_position"] = {
-"RIGHT",
-"Baganator_CategoryViewBackpackViewFramedark",
-"LEFT",
-0,
-0,
-},
-["auto_sort_on_open"] = false,
-["category_sections"] = {
-["1"] = {
-["name"] = "EQUIPMENT",
-},
-["2"] = {
-["name"] = "CRAFTING",
-},
-},
-["setting_anchors"] = false,
-["bag_view_position"] = {
-"TOPLEFT",
-1364.833618164063,
--228.5001220703125,
-},
-["show_buttons_on_alt"] = false,
-["guild_view_dialog_position"] = {
-"BOTTOM",
-"Baganator_GuildViewFrame",
-"TOP",
-0,
-0,
-},
-["icon_text_quality_colors"] = true,
-["upgrade_plugin_ignored"] = {
 },
 ["skins"] = {
 ["blizzard"] = {
@@ -275,9 +258,42 @@ BAGANATOR_CONFIG = {
 ["empty_slot_background"] = true,
 },
 },
+["auto_sort_on_open"] = false,
+["upgrade_plugin_ignored"] = {
+},
+["icon_text_quality_colors"] = true,
+["bag_view_position"] = {
+"TOPLEFT",
+1364.833618164063,
+-228.5001220703125,
+},
+["show_buttons_on_alt"] = false,
+["guild_view_dialog_position"] = {
+"BOTTOM",
+"Baganator_GuildViewFrame",
+"TOP",
+0,
+0,
+},
+["setting_anchors"] = false,
+["category_sections"] = {
+["1"] = {
+["name"] = "EQUIPMENT",
+},
+["2"] = {
+["name"] = "CRAFTING",
+},
+},
+["character_select_position"] = {
+"RIGHT",
+"Baganator_CategoryViewBackpackViewFramedark",
+"LEFT",
+0,
+0,
+},
 ["show_sort_button_2"] = true,
-["category_migration"] = 5,
-["bag_icon_size"] = 40,
+["bag_view_type"] = "category",
+["guild_current_tab"] = 1,
 ["currency_panel_position"] = {
 "RIGHT",
 "Baganator_CategoryViewBackpackViewFramedark",
@@ -285,19 +301,13 @@ BAGANATOR_CONFIG = {
 0,
 0,
 },
-["icon_equipment_set_border"] = true,
-["category_group_empty_slots"] = true,
-["currencies_tracked_imported"] = {
+["lock_frames"] = false,
+["category_section_toggled"] = {
+["2"] = false,
 },
-["custom_categories"] = {
-["1"] = {
-["name"] = "分解",
-["search"] = "",
+["icon_mark_unusable"] = true,
+["currency_headers_collapsed"] = {
 },
-},
-["icon_bottom_left_corner_array"] = {
-"bag_type",
-"equipment_set",
-},
+["icon_context_fading"] = true,
 }
 BAGANATOR_DATA = nil

@@ -25,14 +25,14 @@ VER 3 0100000000000004 "痛楚" "136139"
 #showtooltip 痛楚
 /cast [@mouseover,harm,nodead] 痛楚;痛楚 
 END
-VER 3 0100000000000006 "痛苦无常" "136228"
-#showtooltip 痛苦无常
-/cast [@mouseover,harm,nodead] 痛苦无常;痛苦无常
-END
 VER 3 010000000000000A "痛苦无常" "136228"
 #showtooltip 痛苦无常
 /tar 瓦里玛萨斯之影
 /cast 痛苦无常
+END
+VER 3 0100000000000006 "痛苦无常" "136228"
+#showtooltip 痛苦无常
+/cast [@mouseover,harm,nodead] 痛苦无常;痛苦无常
 END
 VER 3 010000000000000B "目标宏" "136103"
 /tar 瓦里玛萨斯之影

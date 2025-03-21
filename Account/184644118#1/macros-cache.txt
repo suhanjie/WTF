@@ -17,6 +17,7 @@ END
 VER 3 0000000000000002 "1额外" "134400"
 #showtooltip ExtraActionButton1
 /click ExtraActionButton1
+/施放 [@cursor] 试用药水
 /施放 投网
 /施放 黑龙军团的旗帜
 /施放 暗月工具包

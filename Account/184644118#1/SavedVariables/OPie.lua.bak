@@ -5,7 +5,7 @@ OPie_SavedData = {
 },
 ["_OPieVersion"] = "Ånd 4 (4.133)",
 ["_StoreVersion"] = 122,
-["_GameVersion"] = "11.1.0",
+["_GameLocale"] = "zhCN",
 ["_StoreVersion2"] = 122,
 ["ProfileStorage"] = {
 ["default"] = {
@@ -51,8 +51,8 @@ OPie_SavedData = {
 ["sliceToken"] = "ABueW1y=DAe",
 },
 ["save"] = true,
-["limit"] = "红尘如狱-熊猫酒仙",
 ["name"] = "大米传送",
+["limit"] = "红尘如狱-熊猫酒仙",
 },
 ["OPieFlagStore"] = {
 ["StoreVersion"] = 3,
@@ -156,5 +156,5 @@ OPie_SavedData = {
 },
 },
 },
-["_GameLocale"] = "zhCN",
+["_GameVersion"] = "11.1.0",
 }

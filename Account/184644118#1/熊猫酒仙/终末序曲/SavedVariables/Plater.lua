@@ -14,6 +14,11 @@ PlaterDBChr = {
 ["Player-940-055E7D57"] = true,
 ["Player-838-05A18809"] = true,
 },
+["minimap"] = {
+},
+["resources_on_target"] = false,
+["debuffsBanned"] = {
+},
 ["spellRangeCheckRangeEnemy"] = {
 [64] = 40,
 [1468] = 25,
@@ -21,10 +26,5 @@ PlaterDBChr = {
 [62] = 40,
 [1467] = 25,
 [63] = 40,
-},
-["resources_on_target"] = false,
-["debuffsBanned"] = {
-},
-["minimap"] = {
 },
 }

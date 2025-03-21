@@ -22,8 +22,8 @@ W: 261
 H: 590
 Frame: CharacterFrame
 FrameLevel: 1
-Anchor: TOP
-X: 71
+Anchor: TOPLEFT
+X: 16
 Y: -116
 W: 338
 H: 424

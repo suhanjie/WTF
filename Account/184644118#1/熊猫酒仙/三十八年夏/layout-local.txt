@@ -125,3 +125,10 @@ X: 8
 Y: -8
 W: 730
 H: 302
+Frame: TipTac
+FrameLevel: 1
+Anchor: BOTTOMRIGHT
+X: 0
+Y: 118
+W: 114
+H: 24

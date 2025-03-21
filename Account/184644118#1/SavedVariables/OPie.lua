@@ -5,7 +5,7 @@ OPie_SavedData = {
 },
 ["_OPieVersion"] = "Ånd 4 (4.133)",
 ["_StoreVersion"] = 122,
-["_GameLocale"] = "zhCN",
+["_GameVersion"] = "11.1.0",
 ["_StoreVersion2"] = 122,
 ["ProfileStorage"] = {
 ["default"] = {
@@ -19,40 +19,40 @@ OPie_SavedData = {
 ["RingKeeper"] = {
 ["x"] = {
 {
-["sliceToken"] = "ABueWrNkN/w",
 ["id"] = 445417,
+["sliceToken"] = "ABueWrNkN/w",
 },
 {
-["sliceToken"] = "ABueWrNkN/e",
 ["id"] = 445418,
+["sliceToken"] = "ABueWrNkN/e",
 },
 {
-["sliceToken"] = "ABueWrNkN/r",
 ["id"] = 354464,
+["sliceToken"] = "ABueWrNkN/r",
 },
 {
-["sliceToken"] = "ABueWrNkN/1",
 ["id"] = 445414,
+["sliceToken"] = "ABueWrNkN/1",
 },
 {
-["sliceToken"] = "ABueWrNkN/t",
 ["id"] = 445416,
+["sliceToken"] = "ABueWrNkN/t",
 },
 {
-["sliceToken"] = "ABueWrNkN/y",
 ["id"] = 445269,
+["sliceToken"] = "ABueWrNkN/y",
 },
 {
-["sliceToken"] = "ABueW1y=DAw",
 ["id"] = 354462,
+["sliceToken"] = "ABueW1y=DAw",
 },
 {
-["sliceToken"] = "ABueW1y=DAe",
 ["id"] = 445424,
+["sliceToken"] = "ABueW1y=DAe",
 },
-["name"] = "大米传送",
 ["save"] = true,
 ["limit"] = "红尘如狱-熊猫酒仙",
+["name"] = "大米传送",
 },
 ["OPieFlagStore"] = {
 ["StoreVersion"] = 3,
@@ -156,5 +156,5 @@ OPie_SavedData = {
 },
 },
 },
-["_GameVersion"] = "11.1.0",
+["_GameLocale"] = "zhCN",
 }
