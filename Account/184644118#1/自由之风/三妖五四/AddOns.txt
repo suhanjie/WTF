@@ -100,7 +100,7 @@ MeetingStone: enabled
 MeetingStoneEX: enabled
 TomTom: disabled
 WhisperPop: disabled
-alaChat: disabled
+alaChat: enabled
 FastWhisper: disabled
 LittleWigs_Dragonflight: enabled
 TinyInspect: enabled
@@ -141,7 +141,7 @@ ShadowedUF_Options: enabled
 Syndicator: enabled
 TinyInspect-Reforged: enabled
 TinyTooltip-Reforged: enabled
-WagoAppCompanion: disabled
+WagoAppCompanion: enabled
 WeeklyKnowledge: enabled
 WorldQuestTracker: enabled
 XIV_Databar_Continued: enabled

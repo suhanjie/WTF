@@ -116,6 +116,7 @@ BAGANATOR_CONFIG = {
 ["hide_boe_on_common"] = false,
 ["bank_view_type"] = "category",
 ["icon_grey_junk"] = true,
+["category_sort_method"] = "type",
 ["sort_start_at_bottom"] = false,
 ["icon_top_right_corner_array"] = {
 },
@@ -124,8 +125,8 @@ BAGANATOR_CONFIG = {
 },
 ["bank_view_position"] = {
 "TOPRIGHT",
--813.633544921875,
--229.16650390625,
+-822.8001708984375,
+-127.6666259765625,
 },
 ["guild_view_position_2"] = {
 "TOPLEFT",
@@ -143,29 +144,45 @@ BAGANATOR_CONFIG = {
 ["icon_context_fading"] = true,
 ["currency_headers_collapsed"] = {
 },
+["icon_mark_unusable"] = true,
 ["saved_searches"] = {
 },
-["icon_mark_unusable"] = true,
+["sort_ignore_slots_at_end"] = false,
 ["category_modifications"] = {
+["default_food"] = {
+},
+["default_gem"] = {
+},
+["default_armor"] = {
+},
 ["default_potion"] = {
 ["addedItems"] = {
 ["i:212738"] = true,
+["i:212741"] = true,
 },
 },
-["default_gem"] = {
+["default_hearthstone"] = {
 },
 ["1"] = {
 ["showGroupPrefix"] = true,
 ["priority"] = 0,
 ["addedItems"] = {
 ["i:222840"] = true,
+["i:222839"] = true,
 },
 },
-["default_hearthstone"] = {
+["default_keystone"] = {
+["addedItems"] = {
+["i:212274"] = true,
+["i:233186"] = true,
+["i:233071"] = true,
+},
 },
 },
 ["warband_bank_view_width"] = 14,
-["sort_ignore_slots_at_end"] = false,
+["category_section_toggled"] = {
+["2"] = false,
+},
 ["add_to_category_buttons_2"] = "drag",
 ["view_type"] = "unset",
 ["bank_current_tab"] = 2,
@@ -175,6 +192,8 @@ BAGANATOR_CONFIG = {
 ["Gaygenius-自由之风"] = {
 },
 ["终末序曲-熊猫酒仙"] = {
+},
+["沁凉薄荷-自由之风"] = {
 },
 ["踏月剑歌-熊猫酒仙"] = {
 },
@@ -186,7 +205,7 @@ BAGANATOR_CONFIG = {
 },
 ["醉听箫鼓-冰风岗"] = {
 },
-["沁凉薄荷-自由之风"] = {
+["上去逛逛-白银之手"] = {
 },
 ["Erudite-熊猫酒仙"] = {
 },
@@ -197,38 +216,18 @@ BAGANATOR_CONFIG = {
 ["再睡一夏-自由之风"] = {
 },
 },
-["category_section_toggled"] = {
-["2"] = false,
-},
-["icon_text_font_size"] = 20,
 ["lock_frames"] = false,
+["icon_text_font_size"] = 20,
+["category_group_empty_slots"] = true,
+["guild_current_tab"] = 1,
+["disabled_skins"] = {
+},
 ["sort_ignore_slots_count_2"] = {
 ["三妖五四-自由之风"] = 0,
 ["沁凉薄荷-自由之风"] = 0,
 },
-["disabled_skins"] = {
-},
-["bag_view_width"] = 16,
-["guild_current_tab"] = 1,
 ["bag_view_type"] = "category",
-["recent_characters_main_view"] = {
-"红尘如狱-熊猫酒仙",
-"再睡一夏-自由之风",
-"踏月剑歌-熊猫酒仙",
-"醉听箫鼓-冰风岗",
-"三妖五四-自由之风",
-"Gaygenius-自由之风",
-"Erudite-熊猫酒仙",
-"三十八年夏-熊猫酒仙",
-"依山观天澜-自由之风",
-"沁凉薄荷-自由之风",
-"终末序曲-熊猫酒仙",
-"灵眸初启-熊猫酒仙",
-"烟月独逝-熊猫酒仙",
-"叶五枝-熊猫酒仙",
-"就是试试插件-熊猫酒仙",
-},
-["debug_keywords"] = false,
+["category_migration"] = 5,
 ["character_select_position"] = {
 "RIGHT",
 "Baganator_CategoryViewBackpackViewFramedark",
@@ -236,7 +235,24 @@ BAGANATOR_CONFIG = {
 0,
 0,
 },
-["auto_sort_on_open"] = false,
+["recent_characters_main_view"] = {
+"烟月独逝-熊猫酒仙",
+"红尘如狱-熊猫酒仙",
+"三十八年夏-熊猫酒仙",
+"Erudite-熊猫酒仙",
+"终末序曲-熊猫酒仙",
+"灵眸初启-熊猫酒仙",
+"依山观天澜-自由之风",
+"沁凉薄荷-自由之风",
+"Gaygenius-自由之风",
+"再睡一夏-自由之风",
+"三妖五四-自由之风",
+"踏月剑歌-熊猫酒仙",
+"醉听箫鼓-冰风岗",
+"上去逛逛-白银之手",
+"叶五枝-熊猫酒仙",
+"就是试试插件-熊猫酒仙",
+},
 ["category_sections"] = {
 ["1"] = {
 ["name"] = "EQUIPMENT",
@@ -245,13 +261,15 @@ BAGANATOR_CONFIG = {
 ["name"] = "CRAFTING",
 },
 },
+["auto_sort_on_open"] = false,
 ["setting_anchors"] = false,
+["icon_text_quality_colors"] = true,
+["show_buttons_on_alt"] = false,
 ["bag_view_position"] = {
 "TOPLEFT",
 1364.833618164063,
 -228.5001220703125,
 },
-["show_buttons_on_alt"] = false,
 ["guild_view_dialog_position"] = {
 "BOTTOM",
 "Baganator_GuildViewFrame",
@@ -259,7 +277,6 @@ BAGANATOR_CONFIG = {
 0,
 0,
 },
-["icon_text_quality_colors"] = true,
 ["upgrade_plugin_ignored"] = {
 },
 ["skins"] = {
@@ -275,9 +292,10 @@ BAGANATOR_CONFIG = {
 ["empty_slot_background"] = true,
 },
 },
+["debug_keywords"] = false,
 ["show_sort_button_2"] = true,
-["category_migration"] = 5,
 ["bag_icon_size"] = 40,
+["bag_view_width"] = 16,
 ["currency_panel_position"] = {
 "RIGHT",
 "Baganator_CategoryViewBackpackViewFramedark",
@@ -286,8 +304,11 @@ BAGANATOR_CONFIG = {
 0,
 },
 ["icon_equipment_set_border"] = true,
-["category_group_empty_slots"] = true,
 ["currencies_tracked_imported"] = {
+},
+["icon_bottom_left_corner_array"] = {
+"bag_type",
+"equipment_set",
 },
 ["custom_categories"] = {
 ["1"] = {
@@ -295,9 +316,6 @@ BAGANATOR_CONFIG = {
 ["search"] = "",
 },
 },
-["icon_bottom_left_corner_array"] = {
-"bag_type",
-"equipment_set",
-},
+["migrated_sort_method"] = true,
 }
 BAGANATOR_DATA = nil

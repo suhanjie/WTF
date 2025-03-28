@@ -12,6 +12,8 @@ BigWigs_Voice_JingJing: enabled
 BigWigs_KhazAlgar: enabled
 LittleWigs: enabled
 BigWigs_LiberationOfUndermine: enabled
-WagoAppCompanion: disabled
+WagoAppCompanion: enabled
 NewBeeBox: disabled
 LittleWigs_BattleForAzeroth: enabled
+LittleWigs_Shadowlands: enabled
+alaChat: enabled

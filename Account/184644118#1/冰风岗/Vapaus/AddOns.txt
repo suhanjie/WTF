@@ -65,7 +65,7 @@ ShadowedUnitFrames: enabled
 Syndicator: enabled
 TinyInspect-Reforged: enabled
 TinyTooltip-Reforged: enabled
-WagoAppCompanion: disabled
+WagoAppCompanion: enabled
 WeakAuras: enabled
 WeakAurasArchive: enabled
 WeakAurasModelPaths: enabled
@@ -79,3 +79,4 @@ Blizzard_CompactRaidFrames: enabled
 OPie_Classic: disabled
 WeakAurasCompanion: enabled
 Blizzard_CombatText: enabled
+alaChat: enabled

@@ -47,6 +47,15 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["enabled"] = true,
 ["version"] = 3,
@@ -56,7 +65,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -105,6 +114,13 @@ Bartender4DB = {
 ["x"] = -324,
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -324,
+},
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["version"] = 3,
 ["position"] = {
@@ -112,7 +128,7 @@ Bartender4DB = {
 ["x"] = -324,
 },
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -298,7 +314,23 @@ Bartender4DB = {
 ["Default"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
+["elements"] = {
+["macro"] = {
+["textOffsetY"] = 0,
+["textJustifyH"] = "LEFT",
+["textOffsetX"] = 5,
+},
+["hotkey"] = {
+["textOffsetY"] = -5,
+["textOffsetX"] = 2,
+["fontFlags"] = "THICKOUTLINE",
+},
+["count"] = {
+["textOffsetY"] = 3,
+["textOffsetX"] = 2,
+["fontFlags"] = "THICKOUTLINE",
+},
+},
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
@@ -319,24 +351,23 @@ Bartender4DB = {
 ["WoW10Layout"] = true,
 },
 {
-["flyoutDirection"] = "LEFT",
-["showgrid"] = true,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
-["x"] = -544,
+["x"] = -253,
 ["point"] = "BOTTOMRIGHT",
+["growHorizontal"] = "LEFT",
 },
 ["padding"] = 0,
 ["WoW10Layout"] = true,
 },
 {
-["showgrid"] = true,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 119,
-["x"] = -544,
+["x"] = -253,
 ["point"] = "BOTTOMRIGHT",
+["growHorizontal"] = "LEFT",
 },
 ["padding"] = 0,
 ["WoW10Layout"] = true,
@@ -344,11 +375,21 @@ Bartender4DB = {
 {
 ["elements"] = {
 ["macro"] = {
+["textOffsetY"] = 0,
+["textJustifyH"] = "LEFT",
+["textOffsetX"] = 5,
+},
+["hotkey"] = {
+["textOffsetY"] = -5,
+["textOffsetX"] = 2,
+["fontFlags"] = "THICKOUTLINE",
+},
+["count"] = {
 ["textOffsetY"] = 3,
-["textOffsetX"] = -4,
+["textOffsetX"] = 2,
+["fontFlags"] = "THICKOUTLINE",
 },
 },
-["showgrid"] = true,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 163,
@@ -359,7 +400,23 @@ Bartender4DB = {
 ["WoW10Layout"] = true,
 },
 {
-["showgrid"] = true,
+["elements"] = {
+["macro"] = {
+["textOffsetY"] = 0,
+["textJustifyH"] = "LEFT",
+["textOffsetX"] = 5,
+},
+["hotkey"] = {
+["textOffsetY"] = -5,
+["textOffsetX"] = 2,
+["fontFlags"] = "THICKOUTLINE",
+},
+["count"] = {
+["textOffsetY"] = 3,
+["textOffsetX"] = 2,
+["fontFlags"] = "THICKOUTLINE",
+},
+},
 ["version"] = 3,
 ["position"] = {
 ["y"] = 119,
@@ -385,14 +442,22 @@ Bartender4DB = {
 ["WoW10Layout"] = true,
 },
 [13] = {
+["showgrid"] = true,
+["enabled"] = true,
+["elements"] = {
+["hotkey"] = {
+["fontFlags"] = "THICKOUTLINE",
+},
+},
+["buttons"] = 5,
 ["version"] = 3,
 ["position"] = {
-["y"] = 33.93360673322604,
-["x"] = 309.4999570276996,
+["y"] = -246,
+["x"] = -420,
 ["point"] = "CENTER",
-["scale"] = 1.200000047683716,
+["scale"] = 0.96,
 },
-["padding"] = -5,
+["padding"] = 4,
 ["WoW10Layout"] = true,
 },
 [15] = {
@@ -572,6 +637,92 @@ Bartender4DB = {
 },
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -224,
+["x"] = -284.5000305175781,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["actionbars"] = {
 {
@@ -658,7 +809,7 @@ Bartender4DB = {
 },
 },
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["actionbars"] = {
 {
 ["position"] = {
@@ -772,11 +923,10 @@ Bartender4DB = {
 },
 },
 ["Default"] = {
-["enabled"] = false,
 ["position"] = {
-["y"] = -278.6124420166016,
-["x"] = -448.0315551757813,
-["point"] = "CENTER",
+["y"] = 251.8480682373047,
+["x"] = -435.2001342773438,
+["point"] = "BOTTOM",
 },
 ["version"] = 3,
 },
@@ -796,6 +946,14 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 287.0000305175781,
+["x"] = -63.4998779296875,
+["point"] = "BOTTOM",
+},
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["version"] = 3,
 ["position"] = {
@@ -804,7 +962,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287.0000305175781,
@@ -857,6 +1015,14 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = -284,
+["point"] = "BOTTOMRIGHT",
+},
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["version"] = 3,
 ["position"] = {
@@ -865,7 +1031,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -920,6 +1086,14 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 80,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["version"] = 3,
 ["position"] = {
@@ -928,7 +1102,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -989,6 +1163,16 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["enabled"] = true,
 ["position"] = {
@@ -999,7 +1183,7 @@ Bartender4DB = {
 ["version"] = 3,
 ["artLayout"] = "MODERN",
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -1056,6 +1240,14 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99997711181641,
+["x"] = -82.50003051757812,
+["point"] = "CENTER",
+},
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["version"] = 3,
 ["position"] = {
@@ -1064,7 +1256,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99997711181641,
@@ -1116,6 +1308,14 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["version"] = 3,
 ["position"] = {
@@ -1124,7 +1324,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -1177,6 +1377,14 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["version"] = 3,
 ["position"] = {
@@ -1185,7 +1393,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -1204,6 +1412,7 @@ Bartender4DB = {
 ["三妖五四 - 自由之风"] = "Default",
 ["醉听箫鼓 - 冰风岗"] = "Default",
 ["再睡一夏 - 自由之风"] = "Default",
+["上去逛逛 - 白银之手"] = "上去逛逛 - 白银之手",
 ["红尘如狱 - 熊猫酒仙"] = "Default",
 ["踏月剑歌 - 熊猫酒仙"] = "Default",
 ["沁凉薄荷 - 自由之风"] = "Default",
@@ -1224,7 +1433,6 @@ Bartender4DB = {
 },
 ["Default"] = {
 ["focuscastmodifier"] = false,
-["buttonlock"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
@@ -1238,12 +1446,17 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
+["踏月剑歌 - 熊猫酒仙"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
 ["醉听箫鼓 - 冰风岗"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["踏月剑歌 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",

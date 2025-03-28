@@ -19,6 +19,11 @@ VER 3 0100000000000005 "变身" "1247263"
 #showtooltip
 /cast [@cursor] 恶魔变形
 END
+VER 3 0100000000000016 "尖刺献祭" "134400"
+#showtooltip 献祭光环
+/cast 献祭光环
+/cast 恶魔尖刺
+END
 VER 3 0100000000000007 "弹幕" "INV_MISC_QUESTIONMARK"
 #showtooltip 邪能弹幕
 /use 13
@@ -64,15 +69,34 @@ VER 3 0100000000000003 "爆发" "SPELL_MAGIC_MANAGAIN"
 END
 VER 3 0100000000000014 "破尖" "134400"
 #showtooltip 破裂
-/cast 恶魔尖刺
 /cast 破裂
 END
 VER 3 0100000000000001 "羽毛" "INV_MISC_QUESTIONMARK"
 /click ExtraActionButton1
 END
+VER 3 0100000000000017 "裂劈" "134400"
+#showtooltip 灵魂裂劈
+/cleartarget
+/targetenemy [noharm][dead][noexists][help]
+/script SetCVar("targetNearestDistance",5)
+/cast [nocombat] 灵魂裂劈
+/stopmacro [channeling]
+/startattack
+/cast [harm]灵魂裂劈
+/targetlasttarget
+END
+VER 3 0100000000000015 "跳" "134400"
+#showtooltip 地狱火撞击
+/cast [@player, mod] 地狱火撞击 ; [@cursor] 地狱火撞击
+END
 VER 3 0100000000000010 "锁链" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor] 锁链咒符
+END
+VER 3 0100000000000018 "飞刀" "134400"
+#showtooltip 投掷利刃
+/stopcasting
+/cast 投掷利刃
 END
 VER 3 010000000000000E "饰品1" "INV_MISC_QUESTIONMARK"
 #showtooltip

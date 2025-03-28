@@ -100,7 +100,7 @@ MeetingStone: enabled
 MeetingStoneEX: enabled
 TomTom: disabled
 WhisperPop: disabled
-alaChat: disabled
+alaChat: enabled
 FastWhisper: disabled
 LittleWigs_Dragonflight: enabled
 TinyInspect: enabled
@@ -156,6 +156,6 @@ OmniCD_Masque: enabled
 Masque_Shadow: enabled
 OPie: enabled
 SavedInstances: enabled
-WagoAppCompanion: disabled
+WagoAppCompanion: enabled
 WorldQuestTracker: enabled
 BigWigs_LiberationOfUndermine: enabled

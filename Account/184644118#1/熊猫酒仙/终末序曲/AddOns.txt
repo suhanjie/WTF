@@ -116,4 +116,4 @@ Hyperframe: disabled
 BigWigs_LiberationOfUndermine: enabled
 Altoholic: disabled
 CraftSim: enabled
-WagoAppCompanion: disabled
+WagoAppCompanion: enabled

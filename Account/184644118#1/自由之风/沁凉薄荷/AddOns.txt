@@ -100,7 +100,7 @@ MeetingStone: enabled
 MeetingStoneEX: enabled
 TomTom: disabled
 WhisperPop: disabled
-alaChat: disabled
+alaChat: enabled
 FastWhisper: disabled
 LittleWigs_Dragonflight: enabled
 TinyInspect: enabled
@@ -116,4 +116,4 @@ BigWigs_LiberationOfUndermine: enabled
 Altoholic: disabled
 ShadowedUnitFrames: enabled
 CraftSim: enabled
-WagoAppCompanion: disabled
+WagoAppCompanion: enabled

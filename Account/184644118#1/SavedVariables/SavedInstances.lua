@@ -7,8 +7,8 @@ SavedInstancesDB = {
 [53711] = -1,
 [58151] = -1,
 [60622] = -1,
-[60646] = -1,
-[61075] = -1,
+[61079] = -1,
+[61103] = -1,
 [51982] = -1,
 [58155] = -1,
 [62214] = -1,
@@ -16,10 +16,10 @@ SavedInstancesDB = {
 [53939] = -1,
 [58156] = -1,
 [54135] = -1,
-[61103] = -1,
-[61104] = -1,
 [60762] = -1,
-[53883] = -1,
+[61104] = -1,
+[58167] = -1,
+[61075] = -1,
 [54132] = -1,
 [53885] = -1,
 [54134] = -1,
@@ -28,16 +28,16 @@ SavedInstancesDB = {
 [54137] = -1,
 [54138] = -1,
 [61765] = -1,
-[61079] = -1,
+[53883] = -1,
 [60775] = -1,
-[58167] = -1,
+[60646] = -1,
 [58168] = -1,
 },
 ["Darkmoon"] = {
-[47767] = -1,
+["expires"] = 1741535940,
 [29514] = 407,
 [29518] = 407,
-["expires"] = 1741535940,
+[47767] = -1,
 },
 ["AccountDaily"] = {
 [40753] = -1,
@@ -101,7 +101,7 @@ SavedInstancesDB = {
 [72724] = -1,
 [70201] = -1,
 [70233] = -1,
-["expires"] = 1742425199,
+["expires"] = 1743634799,
 [66944] = -1,
 [81795] = -1,
 [83360] = -1,
@@ -182,10 +182,11 @@ SavedInstancesDB = {
 [70562] = -1,
 [70594] = -1,
 [72159] = -1,
+[62288] = -1,
 [75289] = -1,
 [70211] = -1,
-[70754] = -1,
-[82507] = -1,
+[83529] = -1,
+[78933] = -1,
 [66890] = -1,
 [55498] = -1,
 [70531] = -1,
@@ -196,37 +197,36 @@ SavedInstancesDB = {
 [82508] = -1,
 [62285] = -1,
 [60257] = -1,
-[82516] = -1,
-[84776] = -1,
+[66900] = -1,
+[59017] = -1,
+[76600] = -1,
 [70532] = -1,
 [70564] = -1,
 [62445] = -1,
 [33334] = -1,
 [82509] = -1,
-[82504] = -1,
-[59017] = -1,
-[78656] = -1,
-[76122] = -1,
+[66364] = -1,
+[82778] = -1,
+[70591] = -1,
+[52944] = -1,
 [70533] = -1,
 [70565] = -1,
+[64710] = -1,
 [82414] = -1,
-[70750] = -1,
-[55499] = -1,
-[78933] = -1,
+[32640] = -1,
+[82510] = -1,
 [60242] = -1,
-[62286] = -1,
+[60243] = -1,
 [80562] = -1,
-[82505] = -1,
-[76600] = -1,
-[70203] = -1,
-[47148] = -1,
+[83363] = -1,
+[64522] = -1,
 [82511] = -1,
+[82492] = -1,
 [56969] = -1,
 [81649] = -1,
 [79158] = -1,
 [70567] = -1,
-[52957] = -1,
-[82512] = -1,
+[56650] = -1,
 [62287] = -1,
 [70568] = -1,
 [82449] = -1,
@@ -234,128 +234,133 @@ SavedInstancesDB = {
 [76733] = -1,
 [82482] = -1,
 [60244] = -1,
+[40168] = -1,
 [82706] = -1,
 [66897] = -1,
+[83531] = -1,
+[70753] = -1,
 [83345] = -1,
 [82355] = -1,
+[83532] = -1,
+[56649] = -1,
 [82483] = -1,
 [78427] = -1,
-[56649] = -1,
-[70591] = -1,
+[83362] = -1,
+[82458] = -1,
 [86731] = -1,
 [82707] = -1,
 [80184] = -1,
-[40786] = -1,
+[79216] = -1,
 [79226] = -1,
 [70571] = -1,
-[62288] = -1,
-[70586] = -1,
-[82458] = -1,
-[82452] = 2339,
-[32640] = -1,
-[78428] = -1,
-[60245] = -1,
-[56650] = -1,
 [56064] = -1,
 [66891] = -1,
+[82852] = -1,
+[82452] = 2339,
+[53435] = -1,
+[82516] = -1,
 [62289] = -1,
-[66363] = -1,
-[80185] = -1,
+[82497] = -1,
+[66952] = -1,
 [66938] = -1,
+[82505] = -1,
+[84129] = 2339,
+[80185] = -1,
+[66363] = -1,
 [70540] = -1,
+[70572] = -1,
+[62449] = -1,
+[33338] = -1,
+[48912] = -1,
+[64541] = -1,
+[82485] = -1,
+[83364] = -1,
+[78972] = -1,
 [83347] = -1,
 [66516] = -1,
-[33338] = -1,
-[82510] = -1,
-[82453] = -1,
-[82485] = -1,
-[82492] = -1,
-[78972] = -1,
-[79216] = -1,
-[66953] = -1,
 [59016] = -1,
-[64541] = -1,
+[62286] = -1,
 [82709] = -1,
 [80186] = -1,
 [40173] = -1,
-[56648] = -1,
+[52952] = -1,
 [66517] = -1,
-[70235] = -1,
-[52948] = -1,
-[64522] = -1,
+[40786] = -1,
+[70586] = -1,
+[78656] = -1,
 [82486] = -1,
-[45563] = -1,
+[70203] = -1,
 [60246] = -1,
-[52953] = -1,
+[47148] = -1,
 [70893] = 2024,
 [82678] = -1,
-[75351] = -1,
+[52948] = -1,
 [80187] = -1,
 [83285] = -1,
-[40168] = -1,
+[45563] = -1,
 [62450] = -1,
-[53435] = -1,
-[82852] = -1,
+[52953] = -1,
+[84776] = -1,
 [75301] = -1,
 [82487] = -1,
 [72810] = -1,
-[72726] = -1,
-[52954] = -1,
+[72423] = -1,
+[82498] = -1,
 [72427] = -1,
 [82679] = -1,
 [82711] = -1,
 [80188] = -1,
 [52949] = -1,
-[66364] = -1,
-[82497] = -1,
+[52954] = -1,
+[72726] = -1,
 [72172] = -1,
-[82498] = -1,
+[82507] = -1,
 [82488] = -1,
 [55121] = -1,
 [60247] = -1,
-[72423] = -1,
-[70753] = -1,
+[75351] = -1,
+[70558] = -1,
 [72428] = -1,
-[83362] = -1,
+[56648] = -1,
 [82712] = -1,
 [80189] = -1,
 [66935] = -1,
-[75309] = -1,
-[52944] = -1,
-[62449] = -1,
+[52957] = -1,
+[82512] = -1,
+[82453] = -1,
 [72173] = -1,
-[66900] = -1,
-[70558] = -1,
+[78428] = -1,
+[83530] = -1,
 [82489] = -1,
-[70572] = -1,
-[72175] = -1,
+[75309] = -1,
 [32641] = -1,
+[60245] = -1,
 [59018] = -1,
-[60243] = -1,
+[76122] = -1,
 [81691] = -1,
-[52952] = -1,
+[55499] = -1,
 [52950] = -1,
 [70545] = -1,
-[64710] = -1,
+[70750] = -1,
 [48910] = -1,
-[83364] = -1,
-[84129] = 2339,
+[70754] = -1,
+[72175] = -1,
 [75304] = -1,
 [82490] = -1,
 [60248] = -1,
 [76997] = -1,
-[48912] = -1,
-[66952] = -1,
+[70235] = -1,
+[66953] = -1,
 [80670] = -1,
 [82746] = -1,
-[83363] = -1,
+[82504] = -1,
 },
 ["AccountWeekly"] = {
 [80592] = -1,
 [72721] = -1,
 [83357] = -1,
 [46292] = -1,
-["expires"] = 1742425199,
+["expires"] = 1743634799,
 [45539] = -1,
 [77236] = 2025,
 [72528] = -1,
@@ -370,17 +375,17 @@ SavedInstancesDB = {
 ["tww-anniversary-restored-coffer-key"] = true,
 ["tww-spreading-the-light"] = true,
 ["df-shipment-of-goods"] = false,
-["df-the-superbloom"] = false,
+["tww-biergoth-dungeon-quest"] = true,
 ["df-fighting-is-its-own-reward"] = false,
-["df-secured-shipment"] = false,
+["df-the-superbloom"] = false,
 ["df-aiding-the-accord"] = false,
 ["df-the-big-dig-traitors-rest"] = false,
 ["df-services-requested"] = false,
 ["great-vault-pvp"] = true,
 ["timewalking"] = true,
 ["bfa-lesser-vision"] = false,
-["tww-biergoth-dungeon-quest"] = true,
-["great-vault-raid"] = true,
+["df-secured-shipment"] = false,
+["tww-weekly-cache"] = true,
 ["tww-algari-treatise"] = true,
 ["df-grand-hunt"] = false,
 ["df-a-worthy-ally-dream-wardens"] = false,
@@ -425,24 +430,24 @@ SavedInstancesDB = {
 ["tww-pvp-weekly"] = false,
 ["the-world-awaits"] = true,
 ["df-trial-of-flood"] = false,
-["tww-weekly-cache"] = true,
 ["df-disciple-of-fyrakk"] = false,
+["great-vault-raid"] = true,
 },
 ["Order"] = {
 ["tww-anniversary-restored-coffer-key"] = 50,
 ["tww-spreading-the-light"] = 50,
 ["df-shipment-of-goods"] = 50,
-["df-the-superbloom"] = 50,
+["tww-biergoth-dungeon-quest"] = 50,
 ["df-fighting-is-its-own-reward"] = 50,
-["df-secured-shipment"] = 50,
+["df-the-superbloom"] = 50,
 ["df-aiding-the-accord"] = 50,
 ["df-the-big-dig-traitors-rest"] = 50,
 ["df-services-requested"] = 50,
 ["great-vault-pvp"] = 50,
 ["timewalking"] = 50,
 ["bfa-lesser-vision"] = 50,
-["tww-biergoth-dungeon-quest"] = 50,
-["great-vault-raid"] = 50,
+["df-secured-shipment"] = 50,
+["tww-weekly-cache"] = 50,
 ["tww-algari-treatise"] = 50,
 ["df-grand-hunt"] = 50,
 ["df-a-worthy-ally-dream-wardens"] = 50,
@@ -487,8 +492,8 @@ SavedInstancesDB = {
 ["tww-pvp-weekly"] = 50,
 ["the-world-awaits"] = 50,
 ["df-trial-of-flood"] = 50,
-["tww-weekly-cache"] = 50,
 ["df-disciple-of-fyrakk"] = 50,
+["great-vault-raid"] = 50,
 },
 ["User"] = {
 },
@@ -572,9 +577,9 @@ SavedInstancesDB = {
 ["LFDID"] = 10,
 },
 ["随机“德拉诺之王”地下城（英雄）"] = {
-["Show"] = "saved",
-["Expansion"] = 5,
 ["LFDID"] = 789,
+["Expansion"] = 5,
+["Show"] = "saved",
 ["RecLevel"] = 40,
 ["Random"] = true,
 ["Raid"] = false,
@@ -632,15 +637,6 @@ SavedInstancesDB = {
 ["燧酿酒庄"] = {
 ["Show"] = "saved",
 ["Expansion"] = 10,
-["三妖五四 - 自由之风"] = {
-[23] = {
-["Expires"] = 0,
-["Extended"] = false,
-["Link"] = "|cffff8000|Hinstancelock:Player-736-056E1856:2661:23:15|h[燧酿酒庄]|h|r",
-["ID"] = 427074465,
-["Locked"] = false,
-},
-},
 ["RecLevel"] = 1,
 ["Raid"] = false,
 ["LFDID"] = 2811,
@@ -653,9 +649,9 @@ SavedInstancesDB = {
 ["LFDID"] = 272,
 },
 ["随机“巫妖王之怒”地下城"] = {
-["Show"] = "saved",
-["Expansion"] = 2,
 ["LFDID"] = 261,
+["Expansion"] = 2,
+["Show"] = "saved",
 ["RecLevel"] = 10,
 ["Random"] = true,
 ["Raid"] = false,
@@ -696,9 +692,9 @@ SavedInstancesDB = {
 ["LFDID"] = 2041,
 },
 ["随机地下城（地心之战）"] = {
-["Show"] = "saved",
-["Expansion"] = 10,
 ["LFDID"] = 2516,
+["Expansion"] = 10,
+["Show"] = "saved",
 ["RecLevel"] = 70,
 ["Random"] = true,
 ["Raid"] = false,
@@ -716,7 +712,8 @@ SavedInstancesDB = {
 ["三妖五四 - 克尔苏加德"] = {
 },
 ["Expansion"] = 1,
-["Show"] = "saved",
+["故人与为伴 - 自由之风"] = {
+},
 ["二帆不虚 - 熊猫酒仙"] = {
 },
 ["Random"] = true,
@@ -728,8 +725,7 @@ SavedInstancesDB = {
 },
 ["RecLevel"] = 10,
 ["Holiday"] = true,
-["故人与为伴 - 自由之风"] = {
-},
+["Show"] = "saved",
 },
 ["克罗米的法典"] = {
 ["灵眸天启 - 熊猫酒仙"] = {
@@ -766,9 +762,9 @@ SavedInstancesDB = {
 ["LFDID"] = 14,
 },
 ["随机时空奔行地下城（熊猫人之谜）"] = {
-["Show"] = "saved",
-["Expansion"] = 4,
 ["LFDID"] = 2538,
+["Expansion"] = 4,
+["Show"] = "saved",
 ["RecLevel"] = 10,
 ["Random"] = true,
 ["Raid"] = false,
@@ -790,8 +786,6 @@ SavedInstancesDB = {
 ["暴富矿区！！"] = {
 ["Show"] = "saved",
 ["Expansion"] = 7,
-["Raid"] = false,
-["RecLevel"] = 10,
 ["三妖五四 - 自由之风"] = {
 [23] = {
 ["Expires"] = 0,
@@ -801,6 +795,8 @@ SavedInstancesDB = {
 ["Locked"] = false,
 },
 },
+["RecLevel"] = 10,
+["Raid"] = false,
 ["LFDID"] = 2814,
 },
 ["残阳关"] = {
@@ -825,9 +821,9 @@ SavedInstancesDB = {
 ["Raid"] = true,
 },
 ["随机英雄地下城（“地心之战”第1赛季）"] = {
-["LFDID"] = 2723,
-["Expansion"] = 10,
 ["Show"] = "saved",
+["Expansion"] = 10,
+["LFDID"] = 2723,
 ["Raid"] = false,
 ["Random"] = true,
 ["RecLevel"] = 80,
@@ -835,8 +831,6 @@ SavedInstancesDB = {
 ["伤逝剧场"] = {
 ["Show"] = "saved",
 ["Expansion"] = 8,
-["RecLevel"] = 50,
-["Raid"] = false,
 ["三妖五四 - 自由之风"] = {
 [23] = {
 ["Expires"] = 0,
@@ -846,12 +840,14 @@ SavedInstancesDB = {
 ["Locked"] = false,
 },
 },
+["Raid"] = false,
+["RecLevel"] = 50,
 ["LFDID"] = 2815,
 },
 ["随机“熊猫人之谜”地下城"] = {
-["Show"] = "saved",
-["Expansion"] = 4,
 ["LFDID"] = 463,
+["Expansion"] = 4,
+["Show"] = "saved",
 ["RecLevel"] = 10,
 ["Random"] = true,
 ["Raid"] = false,
@@ -913,9 +909,9 @@ SavedInstancesDB = {
 ["LFDID"] = 2465,
 },
 ["随机“德拉诺之王”地下城"] = {
-["Show"] = "saved",
-["Expansion"] = 5,
 ["LFDID"] = 788,
+["Expansion"] = 5,
+["Show"] = "saved",
 ["RecLevel"] = 10,
 ["Random"] = true,
 ["Raid"] = false,
@@ -948,7 +944,8 @@ SavedInstancesDB = {
 ["三妖五四 - 克尔苏加德"] = {
 },
 ["Expansion"] = 5,
-["Show"] = "saved",
+["故人与为伴 - 自由之风"] = {
+},
 ["二帆不虚 - 熊猫酒仙"] = {
 },
 ["Holiday"] = true,
@@ -960,8 +957,7 @@ SavedInstancesDB = {
 },
 ["RecLevel"] = 10,
 ["Random"] = true,
-["故人与为伴 - 自由之风"] = {
-},
+["Show"] = "saved",
 },
 ["血色大厅"] = {
 ["Show"] = "saved",
@@ -1000,9 +996,9 @@ SavedInstancesDB = {
 ["LFDID"] = 321,
 },
 ["随机地下城（暗影国度）"] = {
-["Show"] = "saved",
-["Expansion"] = 8,
 ["LFDID"] = 2086,
+["Expansion"] = 8,
+["Show"] = "saved",
 ["RecLevel"] = 50,
 ["Random"] = true,
 ["Raid"] = false,
@@ -1019,9 +1015,9 @@ SavedInstancesDB = {
 ["Expansion"] = 4,
 ["Scenario"] = true,
 ["LFDID"] = 641,
-["RecLevel"] = 50,
-["Random"] = true,
 ["Raid"] = false,
+["Random"] = true,
+["RecLevel"] = 50,
 },
 ["凋零者吉姆"] = {
 ["Show"] = "saved",
@@ -1031,9 +1027,9 @@ SavedInstancesDB = {
 ["Raid"] = true,
 },
 ["随机地下城（巨龙时代）"] = {
-["Show"] = "saved",
-["Expansion"] = 9,
 ["LFDID"] = 2350,
+["Expansion"] = 9,
+["Show"] = "saved",
 ["RecLevel"] = 10,
 ["Random"] = true,
 ["Raid"] = false,
@@ -1046,9 +1042,9 @@ SavedInstancesDB = {
 ["LFDID"] = 1954,
 },
 ["随机“大地的裂变”地下城"] = {
-["Show"] = "saved",
-["Expansion"] = 3,
 ["LFDID"] = 300,
+["Expansion"] = 3,
+["Show"] = "saved",
 ["RecLevel"] = 30,
 ["Random"] = true,
 ["Raid"] = false,
@@ -1071,8 +1067,8 @@ SavedInstancesDB = {
 ["Show"] = "saved",
 ["Expansion"] = 10,
 ["LFDID"] = 2645,
-["RecLevel"] = 80,
 ["Raid"] = true,
+["RecLevel"] = 80,
 },
 ["阿尔卡冯的宝库"] = {
 ["Show"] = "saved",
@@ -1121,8 +1117,8 @@ SavedInstancesDB = {
 ["LFDID"] = 2641,
 ["Expansion"] = 0,
 ["Show"] = "saved",
-["Raid"] = false,
 ["RecLevel"] = 10,
+["Raid"] = false,
 },
 ["诸王之眠"] = {
 ["Show"] = "saved",
@@ -1163,9 +1159,9 @@ SavedInstancesDB = {
 ["LFDID"] = 2537,
 ["Expansion"] = 4,
 ["Show"] = "saved",
-["RecLevel"] = 10,
-["Random"] = true,
 ["Raid"] = false,
+["Random"] = true,
+["RecLevel"] = 10,
 },
 ["食沙者克劳洛克"] = {
 ["Show"] = "saved",
@@ -1191,17 +1187,17 @@ SavedInstancesDB = {
 ["驭雷栖巢"] = {
 ["Show"] = "saved",
 ["Expansion"] = 10,
-["RecLevel"] = 1,
-["Raid"] = false,
 ["三妖五四 - 自由之风"] = {
 [23] = {
-["Expires"] = 1742425201,
+["Expires"] = 0,
 ["Extended"] = false,
 ["Link"] = "|cffff8000|Hinstancelock:Player-736-056E1856:2648:23:7|h[驭雷栖巢]|h|r",
 ["ID"] = 579924181,
-["Locked"] = true,
+["Locked"] = false,
 },
 },
+["Raid"] = false,
+["RecLevel"] = 1,
 ["LFDID"] = 2808,
 },
 ["映像大厅"] = {
@@ -1257,8 +1253,8 @@ SavedInstancesDB = {
 ["Show"] = "saved",
 ["Expansion"] = 10,
 ["LFDID"] = 2726,
-["RecLevel"] = 1,
 ["Raid"] = false,
+["RecLevel"] = 1,
 },
 ["随机时空漫游地下城（巫妖王之怒）"] = {
 ["灵眸天启 - 熊猫酒仙"] = {
@@ -1266,7 +1262,8 @@ SavedInstancesDB = {
 ["三妖五四 - 克尔苏加德"] = {
 },
 ["Expansion"] = 2,
-["Show"] = "saved",
+["故人与为伴 - 自由之风"] = {
+},
 ["二帆不虚 - 熊猫酒仙"] = {
 },
 ["Holiday"] = true,
@@ -1278,8 +1275,7 @@ SavedInstancesDB = {
 },
 ["RecLevel"] = 10,
 ["Random"] = true,
-["故人与为伴 - 自由之风"] = {
-},
+["Show"] = "saved",
 },
 ["艾泽拉斯的回忆：巫妖王之怒"] = {
 ["LFDID"] = 2017,
@@ -1338,9 +1334,9 @@ SavedInstancesDB = {
 ["LFDID"] = 294,
 },
 ["随机英雄地下城（争霸艾泽拉斯）"] = {
-["Show"] = "saved",
-["Expansion"] = 7,
 ["LFDID"] = 1671,
+["Expansion"] = 7,
+["Show"] = "saved",
 ["RecLevel"] = 50,
 ["Random"] = true,
 ["Raid"] = false,
@@ -1421,7 +1417,8 @@ SavedInstancesDB = {
 ["三妖五四 - 克尔苏加德"] = {
 },
 ["Expansion"] = 6,
-["Show"] = "saved",
+["故人与为伴 - 自由之风"] = {
+},
 ["二帆不虚 - 熊猫酒仙"] = {
 },
 ["Holiday"] = true,
@@ -1433,8 +1430,7 @@ SavedInstancesDB = {
 },
 ["RecLevel"] = 10,
 ["Random"] = true,
-["故人与为伴 - 自由之风"] = {
-},
+["Show"] = "saved",
 },
 ["太阳之井"] = {
 ["Show"] = "saved",
@@ -1487,9 +1483,9 @@ SavedInstancesDB = {
 ["LFDID"] = 28,
 },
 ["随机“军团再临”地下城（英雄）"] = {
-["Show"] = "saved",
-["Expansion"] = 6,
 ["LFDID"] = 1046,
+["Expansion"] = 6,
+["Show"] = "saved",
 ["RecLevel"] = 45,
 ["Random"] = true,
 ["Raid"] = false,
@@ -1542,7 +1538,8 @@ SavedInstancesDB = {
 ["三妖五四 - 克尔苏加德"] = {
 },
 ["Expansion"] = 4,
-["Show"] = "saved",
+["故人与为伴 - 自由之风"] = {
+},
 ["二帆不虚 - 熊猫酒仙"] = {
 },
 ["Holiday"] = true,
@@ -1554,8 +1551,7 @@ SavedInstancesDB = {
 },
 ["RecLevel"] = 10,
 ["Random"] = true,
-["故人与为伴 - 自由之风"] = {
-},
+["Show"] = "saved",
 },
 ["皇冠药剂公司"] = {
 ["LFDID"] = 288,
@@ -1699,10 +1695,10 @@ SavedInstancesDB = {
 ["LFDID"] = 2440,
 },
 ["繁盛海岛探险"] = {
-["Show"] = "saved",
+["LFDID"] = 2054,
 ["Expansion"] = 7,
 ["Scenario"] = true,
-["LFDID"] = 2054,
+["Show"] = "saved",
 ["Raid"] = true,
 ["Random"] = true,
 ["RecLevel"] = 1,
@@ -1736,10 +1732,10 @@ SavedInstancesDB = {
 ["LFDID"] = 1018,
 },
 ["海岛探险"] = {
-["LFDID"] = 1762,
+["Show"] = "saved",
 ["Expansion"] = 7,
 ["Scenario"] = true,
-["Show"] = "saved",
+["LFDID"] = 1762,
 ["RecLevel"] = 10,
 ["Random"] = true,
 ["Raid"] = false,
@@ -1751,19 +1747,19 @@ SavedInstancesDB = {
 ["RecLevel"] = 60,
 ["Raid"] = true,
 },
-["麦卡贡行动 - 垃圾场"] = {
+["影踪禅院"] = {
 ["Show"] = "saved",
-["Expansion"] = 7,
-["RecLevel"] = 50,
+["Expansion"] = 4,
 ["Raid"] = false,
-["LFDID"] = 2027,
+["RecLevel"] = 10,
+["LFDID"] = 2545,
 },
-["风暴要塞"] = {
+["哀嚎洞穴"] = {
 ["Show"] = "saved",
-["Expansion"] = 1,
-["RecLevel"] = 30,
-["Raid"] = true,
-["LFDID"] = 193,
+["Expansion"] = 0,
+["RecLevel"] = 10,
+["Raid"] = false,
+["LFDID"] = 1,
 },
 ["纳拉克"] = {
 ["Show"] = "saved",
@@ -1772,20 +1768,19 @@ SavedInstancesDB = {
 ["RecLevel"] = 35,
 ["Raid"] = true,
 },
-["时空漫游团队副本：黑暗神殿"] = {
-["LFDID"] = 1533,
+["生态船"] = {
+["Show"] = "saved",
 ["Expansion"] = 1,
-["Raid"] = true,
+["Raid"] = false,
 ["RecLevel"] = 10,
-["Holiday"] = true,
-["Show"] = "saved",
+["LFDID"] = 2325,
 },
-["艾泽拉斯的回忆：燃烧的远征"] = {
-["LFDID"] = 2004,
-["Expansion"] = 7,
-["RecLevel"] = 30,
-["Raid"] = true,
+["决战奥格瑞玛"] = {
 ["Show"] = "saved",
+["Expansion"] = 4,
+["Raid"] = true,
+["RecLevel"] = 35,
+["LFDID"] = 766,
 },
 ["祖尔法拉克"] = {
 ["Show"] = "saved",
@@ -1794,12 +1789,12 @@ SavedInstancesDB = {
 ["Raid"] = false,
 ["LFDID"] = 2640,
 },
-["丝瓦什"] = {
+["魔环"] = {
 ["Show"] = "saved",
-["Expansion"] = 6,
-["WorldBoss"] = 1885,
-["RecLevel"] = 45,
-["Raid"] = true,
+["Expansion"] = 2,
+["Raid"] = false,
+["RecLevel"] = 21,
+["LFDID"] = 211,
 },
 ["自由镇"] = {
 ["Show"] = "saved",
@@ -1815,19 +1810,12 @@ SavedInstancesDB = {
 ["RecLevel"] = 10,
 ["LFDID"] = 1004,
 },
-["奥库拉鲁斯"] = {
+["破晨号"] = {
 ["Show"] = "saved",
-["Expansion"] = 6,
-["WorldBoss"] = 2013,
-["RecLevel"] = 45,
-["Raid"] = true,
-},
-["初诞者圣墓"] = {
-["Show"] = "saved",
-["Expansion"] = 8,
-["Raid"] = true,
-["RecLevel"] = 60,
-["LFDID"] = 2290,
+["Expansion"] = 10,
+["Raid"] = false,
+["RecLevel"] = 1,
+["LFDID"] = 2725,
 },
 ["维科玛拉"] = {
 ["Show"] = "saved",
@@ -1836,6 +1824,14 @@ SavedInstancesDB = {
 ["RecLevel"] = 50,
 ["Raid"] = true,
 },
+["时空漫游团队副本：黑暗神殿"] = {
+["LFDID"] = 1533,
+["Expansion"] = 1,
+["Raid"] = true,
+["RecLevel"] = 10,
+["Holiday"] = true,
+["Show"] = "saved",
+},
 ["毒蛇神殿"] = {
 ["Show"] = "saved",
 ["Expansion"] = 1,
@@ -1843,19 +1839,20 @@ SavedInstancesDB = {
 ["Raid"] = true,
 ["LFDID"] = 194,
 },
-["安苏雷克女王"] = {
+["随机地下城（争霸艾泽拉斯）"] = {
+["LFDID"] = 1670,
+["Expansion"] = 7,
 ["Show"] = "saved",
-["Expansion"] = 10,
-["RecLevel"] = 80,
-["Raid"] = true,
-["LFDID"] = 2715,
+["RecLevel"] = 10,
+["Random"] = true,
+["Raid"] = false,
 },
-["托加斯特的折磨者"] = {
+["古达克"] = {
 ["Show"] = "saved",
-["Expansion"] = 8,
-["WorldBoss"] = 9007,
-["RecLevel"] = 60,
-["Raid"] = true,
+["Expansion"] = 2,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 1017,
 },
 ["大十字军的试炼"] = {
 ["Show"] = "saved",
@@ -1864,35 +1861,26 @@ SavedInstancesDB = {
 ["RecLevel"] = 30,
 ["LFDID"] = 250,
 },
-["奥罗斯托"] = {
+["地渊孢林"] = {
+["Show"] = "saved",
+["Expansion"] = 7,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 1712,
+},
+["亚贝鲁斯，焰影熔炉"] = {
 ["Show"] = "saved",
 ["Expansion"] = 9,
-["WorldBoss"] = 2562,
-["RecLevel"] = 70,
 ["Raid"] = true,
+["RecLevel"] = 70,
+["LFDID"] = 2405,
 },
-["圣焰隐修院"] = {
+["安特洛斯"] = {
 ["Show"] = "saved",
-["Expansion"] = 10,
-["RecLevel"] = 1,
-["Raid"] = false,
-["三妖五四 - 自由之风"] = {
-[23] = {
-["Expires"] = 0,
-["Extended"] = false,
-["Link"] = "|cffff8000|Hinstancelock:Player-736-056E1856:2649:23:7|h[圣焰隐修院]|h|r",
-["ID"] = 384976130,
-["Locked"] = false,
-},
-},
-["LFDID"] = 2810,
-},
-["重返卡拉赞"] = {
-["Show"] = "saved",
-["Expansion"] = 6,
-["RecLevel"] = 110,
-["Raid"] = false,
-["LFDID"] = 1347,
+["Expansion"] = 8,
+["WorldBoss"] = 9013,
+["RecLevel"] = 60,
+["Raid"] = true,
 },
 ["黑曜石圣殿"] = {
 ["Show"] = "saved",
@@ -1902,19 +1890,20 @@ SavedInstancesDB = {
 ["LFDID"] = 238,
 },
 ["随机“大地的裂变”地下城（英雄）"] = {
-["Show"] = "saved",
-["Expansion"] = 3,
 ["LFDID"] = 301,
+["Expansion"] = 3,
+["Show"] = "saved",
 ["RecLevel"] = 35,
 ["Random"] = true,
 ["Raid"] = false,
 },
-["黑石岩窟"] = {
+["随机英雄地下城（“地心之战”第2赛季）"] = {
 ["Show"] = "saved",
-["Expansion"] = 3,
+["Expansion"] = 10,
+["LFDID"] = 2807,
+["RecLevel"] = 80,
+["Random"] = true,
 ["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 2321,
 },
 ["黑翼血环"] = {
 ["Show"] = "saved",
@@ -1923,26 +1912,28 @@ SavedInstancesDB = {
 ["RecLevel"] = 35,
 ["LFDID"] = 314,
 },
-["永春台"] = {
+["旋云之巅"] = {
 ["Show"] = "saved",
-["Expansion"] = 4,
-["Raid"] = true,
-["RecLevel"] = 35,
-["LFDID"] = 536,
-},
-["乌特加德之巅"] = {
-["Show"] = "saved",
-["Expansion"] = 2,
+["Expansion"] = 3,
 ["Raid"] = false,
 ["RecLevel"] = 10,
-["LFDID"] = 1020,
+["LFDID"] = 1147,
 },
-["统御圣所"] = {
+["随机英雄时空奔行场景战役（熊猫人之谜）"] = {
 ["Show"] = "saved",
-["Expansion"] = 8,
-["Raid"] = true,
-["RecLevel"] = 60,
-["LFDID"] = 2228,
+["Expansion"] = 4,
+["Scenario"] = true,
+["LFDID"] = 2559,
+["Raid"] = false,
+["Random"] = true,
+["RecLevel"] = 10,
+},
+["英灵殿"] = {
+["Show"] = "saved",
+["Expansion"] = 6,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 1194,
 },
 ["时光之穴 - 周年版"] = {
 ["Show"] = "saved",
@@ -1958,12 +1949,12 @@ SavedInstancesDB = {
 ["Raid"] = false,
 ["LFDID"] = 2657,
 },
-["英灵殿"] = {
+["统御圣所"] = {
 ["Show"] = "saved",
-["Expansion"] = 6,
-["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 1194,
+["Expansion"] = 8,
+["Raid"] = true,
+["RecLevel"] = 60,
+["LFDID"] = 2228,
 },
 ["时空漫游团队副本：火焰之地"] = {
 ["LFDID"] = 2026,
@@ -1973,26 +1964,30 @@ SavedInstancesDB = {
 ["Holiday"] = true,
 ["Show"] = "saved",
 },
-["奥杜尔"] = {
-["LFDID"] = 244,
-["Expansion"] = 2,
+["海岛探险 - 私家航线"] = {
+["LFDID"] = 2251,
+["Expansion"] = 7,
+["Scenario"] = true,
 ["Show"] = "saved",
-["RecLevel"] = 30,
-["Raid"] = true,
-},
-["突袭紫罗兰监狱"] = {
-["Show"] = "saved",
-["Expansion"] = 6,
 ["Raid"] = false,
+["Random"] = true,
 ["RecLevel"] = 10,
-["LFDID"] = 1209,
 },
-["魔环"] = {
+["随机海岛探险（史诗）"] = {
 ["Show"] = "saved",
-["Expansion"] = 2,
+["Expansion"] = 7,
+["Scenario"] = true,
+["LFDID"] = 1891,
 ["Raid"] = false,
-["RecLevel"] = 21,
-["LFDID"] = 211,
+["Random"] = true,
+["RecLevel"] = 50,
+},
+["祖阿曼"] = {
+["Show"] = "saved",
+["Expansion"] = 3,
+["RecLevel"] = 35,
+["Raid"] = false,
+["LFDID"] = 340,
 },
 ["赎罪大厅"] = {
 ["Show"] = "saved",
@@ -2022,26 +2017,12 @@ SavedInstancesDB = {
 ["RecLevel"] = 45,
 ["Raid"] = true,
 },
-["随机时空漫游地下城（经典旧世）"] = {
-["灵眸天启 - 熊猫酒仙"] = {
-},
-["三妖五四 - 克尔苏加德"] = {
-},
-["Expansion"] = 0,
+["艾卓-尼鲁布"] = {
 ["Show"] = "saved",
-["二帆不虚 - 熊猫酒仙"] = {
-},
-["Holiday"] = true,
-["LFDID"] = 2634,
-["诶得得 - 玛洛加尔"] = {
-},
+["Expansion"] = 2,
 ["Raid"] = false,
-["诸子百家 - 自由之风"] = {
-},
-["RecLevel"] = 10,
-["Random"] = true,
-["故人与为伴 - 自由之风"] = {
-},
+["RecLevel"] = 16,
+["LFDID"] = 241,
 },
 ["乌达斯塔"] = {
 ["Show"] = "saved",
@@ -2050,26 +2031,44 @@ SavedInstancesDB = {
 ["RecLevel"] = 35,
 ["Raid"] = true,
 },
-["红玉新生法池"] = {
+["解放安德麦"] = {
 ["Show"] = "saved",
-["Expansion"] = 9,
+["Expansion"] = 10,
+["Raid"] = true,
+["踏月剑歌 - 熊猫酒仙"] = {
+[14] = {
+["Expires"] = 0,
+["Extended"] = false,
+["Link"] = "|cffff8000|Hinstancelock:Player-838-0371504F:2769:14:255|h[解放安德麦]|h|r",
+["ID"] = 384937706,
+["Locked"] = false,
+},
+},
+["LFDID"] = 2779,
+["RecLevel"] = 80,
+["三妖五四 - 自由之风"] = {
+[17] = {
+["Expires"] = 0,
+["Extended"] = false,
+["Link"] = "|cffff8000|Hinstancelock:Player-736-056E1856:2769:17:30|h[解放安德麦]|h|r",
+["ID"] = 113816693,
+["Locked"] = false,
+},
+},
+},
+["鲁克玛"] = {
+["Show"] = "saved",
+["Expansion"] = 5,
+["WorldBoss"] = 1262,
+["RecLevel"] = 40,
+["Raid"] = true,
+},
+["影月墓地"] = {
+["Show"] = "saved",
+["Expansion"] = 5,
 ["Raid"] = false,
 ["RecLevel"] = 10,
-["LFDID"] = 2436,
-},
-["瓦里诺"] = {
-["Show"] = "saved",
-["Expansion"] = 8,
-["WorldBoss"] = 2430,
-["RecLevel"] = 60,
-["Raid"] = true,
-},
-["大女皇夏柯扎拉"] = {
-["Show"] = "saved",
-["Expansion"] = 7,
-["WorldBoss"] = 2378,
-["RecLevel"] = 50,
-["Raid"] = true,
+["LFDID"] = 1976,
 },
 ["黑鸦堡垒"] = {
 ["Show"] = "saved",
@@ -2078,12 +2077,12 @@ SavedInstancesDB = {
 ["RecLevel"] = 10,
 ["LFDID"] = 2275,
 },
-["祖尔格拉布"] = {
+["瓦坎"] = {
 ["Show"] = "saved",
-["Expansion"] = 3,
-["RecLevel"] = 35,
-["Raid"] = false,
-["LFDID"] = 334,
+["Expansion"] = 9,
+["WorldBoss"] = 2531,
+["RecLevel"] = 70,
+["Raid"] = true,
 },
 ["托维尔失落之城"] = {
 ["Show"] = "saved",
@@ -2092,41 +2091,40 @@ SavedInstancesDB = {
 ["RecLevel"] = 10,
 ["LFDID"] = 1151,
 },
-["主母芙努娜"] = {
+["欧尔塔"] = {
 ["Show"] = "saved",
-["Expansion"] = 6,
-["WorldBoss"] = 2010,
-["RecLevel"] = 45,
+["Expansion"] = 10,
+["WorldBoss"] = 2625,
 ["Raid"] = true,
-},
-["彼界"] = {
-["Show"] = "saved",
-["Expansion"] = 8,
-["Raid"] = false,
-["RecLevel"] = 50,
-["LFDID"] = 2118,
-},
-["群星庭院"] = {
-["Show"] = "saved",
-["Expansion"] = 6,
-["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 2280,
-},
-["哀嚎洞穴"] = {
-["Show"] = "saved",
-["Expansion"] = 0,
-["RecLevel"] = 10,
-["Raid"] = false,
-["LFDID"] = 1,
-},
-["黑石深渊"] = {
-["Show"] = "saved",
-["Expansion"] = 0,
-["LFDID"] = 2754,
-["Raid"] = true,
-["Holiday"] = true,
 ["RecLevel"] = 80,
+},
+["通天峰"] = {
+["Show"] = "saved",
+["Expansion"] = 5,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 1977,
+},
+["围攻砮皂寺"] = {
+["Show"] = "saved",
+["Expansion"] = 4,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 2547,
+},
+["水闸行动"] = {
+["LFDID"] = 2812,
+["Expansion"] = 10,
+["Raid"] = false,
+["RecLevel"] = 1,
+["Show"] = "saved",
+},
+["黑暗神殿"] = {
+["Show"] = "saved",
+["Expansion"] = 1,
+["LFDID"] = 196,
+["Raid"] = true,
+["RecLevel"] = 30,
 },
 ["托尔达戈"] = {
 ["Show"] = "saved",
@@ -2135,27 +2133,27 @@ SavedInstancesDB = {
 ["RecLevel"] = 10,
 ["LFDID"] = 1714,
 },
-["旋云之巅"] = {
+["群星庭院"] = {
 ["Show"] = "saved",
-["Expansion"] = 3,
+["Expansion"] = 6,
 ["Raid"] = false,
 ["RecLevel"] = 10,
-["LFDID"] = 1147,
+["LFDID"] = 2280,
 },
-["随机地下城（争霸艾泽拉斯）"] = {
+["随机英雄时空奔行地下城（熊猫人之谜）"] = {
+["LFDID"] = 2539,
+["Expansion"] = 4,
 ["Show"] = "saved",
-["Expansion"] = 7,
-["LFDID"] = 1670,
 ["RecLevel"] = 10,
 ["Random"] = true,
 ["Raid"] = false,
 },
-["亚贝鲁斯，焰影熔炉"] = {
+["奥杜尔"] = {
+["LFDID"] = 244,
+["Expansion"] = 2,
 ["Show"] = "saved",
-["Expansion"] = 9,
 ["Raid"] = true,
-["RecLevel"] = 70,
-["LFDID"] = 2405,
+["RecLevel"] = 30,
 },
 ["潮汐王座"] = {
 ["Show"] = "saved",
@@ -2178,40 +2176,42 @@ SavedInstancesDB = {
 ["RecLevel"] = 40,
 ["LFDID"] = 989,
 },
-["利斯卡诺兹"] = {
+["随机英雄地下城（暗影国度）"] = {
+["LFDID"] = 2087,
+["Expansion"] = 8,
 ["Show"] = "saved",
-["Expansion"] = 9,
-["WorldBoss"] = 2518,
-["RecLevel"] = 70,
-["Raid"] = true,
+["RecLevel"] = 60,
+["Random"] = true,
+["Raid"] = false,
 },
 ["考尔达克"] = {
 ["Show"] = "saved",
 ["Expansion"] = 10,
 ["WorldBoss"] = 2637,
+["Raid"] = true,
 ["RecLevel"] = 80,
-["Raid"] = true,
 },
-["沙索斯"] = {
+["随机经典旧世地下城"] = {
+["LFDID"] = 258,
+["Expansion"] = 0,
 ["Show"] = "saved",
-["Expansion"] = 6,
-["WorldBoss"] = 1763,
-["RecLevel"] = 45,
-["Raid"] = true,
-},
-["灵魂洪炉"] = {
-["Show"] = "saved",
-["Expansion"] = 2,
+["RecLevel"] = 1,
+["Random"] = true,
 ["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 2322,
 },
-["阿梅达希尔，梦境之愿"] = {
+["玛拉顿－毒菇洞穴"] = {
 ["Show"] = "saved",
-["Expansion"] = 9,
-["Raid"] = true,
-["RecLevel"] = 70,
-["LFDID"] = 2504,
+["Expansion"] = 0,
+["RecLevel"] = 10,
+["Raid"] = false,
+["LFDID"] = 26,
+},
+["暗焰裂口"] = {
+["Show"] = "saved",
+["Expansion"] = 10,
+["Raid"] = false,
+["RecLevel"] = 1,
+["LFDID"] = 2809,
 },
 ["黑石深渊－上层区"] = {
 ["Show"] = "saved",
@@ -2220,139 +2220,48 @@ SavedInstancesDB = {
 ["Raid"] = false,
 ["LFDID"] = 276,
 },
-["随机经典旧世地下城"] = {
+["塞塔里斯神庙"] = {
+["Show"] = "saved",
+["Expansion"] = 7,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 1695,
+},
+["重返卡拉赞"] = {
+["Show"] = "saved",
+["Expansion"] = 6,
+["RecLevel"] = 110,
+["Raid"] = false,
+["LFDID"] = 1347,
+},
+["沙索斯"] = {
+["Show"] = "saved",
+["Expansion"] = 6,
+["WorldBoss"] = 1763,
+["RecLevel"] = 45,
+["Raid"] = true,
+},
+["黑石深渊"] = {
 ["Show"] = "saved",
 ["Expansion"] = 0,
-["LFDID"] = 258,
-["RecLevel"] = 1,
-["Random"] = true,
-["Raid"] = false,
-},
-["艾卓-尼鲁布"] = {
-["Show"] = "saved",
-["Expansion"] = 2,
-["Raid"] = false,
-["RecLevel"] = 16,
-["LFDID"] = 241,
-},
-["影踪禅院"] = {
-["Show"] = "saved",
-["Expansion"] = 4,
-["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 2545,
-},
-["通天峰"] = {
-["Show"] = "saved",
-["Expansion"] = 5,
-["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 1977,
-},
-["决战奥格瑞玛"] = {
-["Show"] = "saved",
-["Expansion"] = 4,
+["LFDID"] = 2754,
 ["Raid"] = true,
-["RecLevel"] = 35,
-["LFDID"] = 766,
-},
-["欧尔塔"] = {
-["三十八年夏 - 熊猫酒仙"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["烟月独逝 - 熊猫酒仙"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["醉听箫鼓 - 冰风岗"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["红尘如狱 - 熊猫酒仙"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["终末序曲 - 熊猫酒仙"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["沁凉薄荷 - 自由之风"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["Raid"] = true,
-["灵眸初启 - 熊猫酒仙"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["Gaygenius - 自由之风"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["Erudite - 熊猫酒仙"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["三妖五四 - 自由之风"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["Show"] = "saved",
-["再睡一夏 - 自由之风"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["踏月剑歌 - 熊猫酒仙"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
-},
-},
-["WorldBoss"] = 2625,
+["Holiday"] = true,
 ["RecLevel"] = 80,
-["Expansion"] = 10,
-["依山观天澜 - 自由之风"] = {
-[2] = {
-true,
-["ID"] = -1,
-["Expires"] = 1742425199,
 },
+["托加斯特的折磨者"] = {
+["Show"] = "saved",
+["Expansion"] = 8,
+["WorldBoss"] = 9007,
+["RecLevel"] = 60,
+["Raid"] = true,
 },
+["大女皇夏柯扎拉"] = {
+["Show"] = "saved",
+["Expansion"] = 7,
+["WorldBoss"] = 2378,
+["RecLevel"] = 50,
+["Raid"] = true,
 },
 ["冷血的杜贡"] = {
 ["Show"] = "saved",
@@ -2375,19 +2284,33 @@ true,
 ["Raid"] = false,
 ["Show"] = "saved",
 },
-["通灵学院"] = {
-["Show"] = "saved",
-["Expansion"] = 4,
+["随机时空漫游地下城（经典旧世）"] = {
+["灵眸天启 - 熊猫酒仙"] = {
+},
+["三妖五四 - 克尔苏加德"] = {
+},
+["Expansion"] = 0,
+["故人与为伴 - 自由之风"] = {
+},
+["二帆不虚 - 熊猫酒仙"] = {
+},
+["Holiday"] = true,
+["LFDID"] = 2634,
+["诶得得 - 玛洛加尔"] = {
+},
 ["Raid"] = false,
+["诸子百家 - 自由之风"] = {
+},
 ["RecLevel"] = 10,
-["LFDID"] = 2557,
+["Random"] = true,
+["Show"] = "saved",
 },
 ["斯坦索姆 - 正门"] = {
 ["LFDID"] = 2639,
 ["Expansion"] = 0,
 ["Show"] = "saved",
-["Raid"] = false,
 ["RecLevel"] = 10,
+["Raid"] = false,
 },
 ["斯图恩兰"] = {
 ["Show"] = "saved",
@@ -2395,34 +2318,6 @@ true,
 ["WorldBoss"] = 2515,
 ["RecLevel"] = 70,
 ["Raid"] = true,
-},
-["暗影迷宫"] = {
-["Show"] = "saved",
-["Expansion"] = 1,
-["Raid"] = false,
-["RecLevel"] = 21,
-["LFDID"] = 181,
-},
-["祖阿曼"] = {
-["Show"] = "saved",
-["Expansion"] = 3,
-["RecLevel"] = 35,
-["Raid"] = false,
-["LFDID"] = 340,
-},
-["海加尔山"] = {
-["Show"] = "saved",
-["Expansion"] = 1,
-["RecLevel"] = 30,
-["Raid"] = true,
-["LFDID"] = 195,
-},
-["能源舰"] = {
-["Show"] = "saved",
-["Expansion"] = 1,
-["Raid"] = false,
-["RecLevel"] = 21,
-["LFDID"] = 192,
 },
 ["弗莱拉斯总大使"] = {
 ["LFDID"] = 308,
@@ -2432,6 +2327,34 @@ true,
 ["Holiday"] = true,
 ["Show"] = "saved",
 },
+["灵魂洪炉"] = {
+["Show"] = "saved",
+["Expansion"] = 2,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 2322,
+},
+["主母芙努娜"] = {
+["Show"] = "saved",
+["Expansion"] = 6,
+["WorldBoss"] = 2010,
+["RecLevel"] = 45,
+["Raid"] = true,
+},
+["能源舰"] = {
+["Show"] = "saved",
+["Expansion"] = 1,
+["Raid"] = false,
+["RecLevel"] = 21,
+["LFDID"] = 192,
+},
+["艾泽拉斯的回忆：燃烧的远征"] = {
+["LFDID"] = 2004,
+["Expansion"] = 7,
+["RecLevel"] = 30,
+["Raid"] = true,
+["Show"] = "saved",
+},
 ["风暴烈酒酿造厂"] = {
 ["Show"] = "saved",
 ["Expansion"] = 4,
@@ -2439,19 +2362,20 @@ true,
 ["RecLevel"] = 10,
 ["LFDID"] = 2543,
 },
-["马利费库斯"] = {
+["随机“巫妖王之怒”地下城（英雄）"] = {
+["LFDID"] = 262,
+["Expansion"] = 2,
 ["Show"] = "saved",
-["Expansion"] = 6,
-["WorldBoss"] = 1884,
-["RecLevel"] = 45,
-["Raid"] = true,
-},
-["奥金顿"] = {
-["Show"] = "saved",
-["Expansion"] = 5,
+["RecLevel"] = 30,
+["Random"] = true,
 ["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 1975,
+},
+["瓦里诺"] = {
+["Show"] = "saved",
+["Expansion"] = 8,
+["WorldBoss"] = 2430,
+["RecLevel"] = 60,
+["Raid"] = true,
 },
 ["影牙城堡"] = {
 ["Show"] = "saved",
@@ -2467,40 +2391,40 @@ true,
 ["Raid"] = false,
 ["LFDID"] = 2813,
 },
-["塔扎维什，帷纱集市"] = {
-["Show"] = "saved",
-["Expansion"] = 8,
-["RecLevel"] = 60,
-["Raid"] = false,
-["LFDID"] = 2225,
-},
-["岩石大厅"] = {
-["Show"] = "saved",
-["Expansion"] = 2,
-["Raid"] = false,
-["RecLevel"] = 21,
-["LFDID"] = 213,
-},
-["暮光堡垒"] = {
-["Show"] = "saved",
-["Expansion"] = 3,
-["Raid"] = true,
-["RecLevel"] = 35,
-["LFDID"] = 316,
-},
-["蔚索斯"] = {
-["Show"] = "saved",
-["Expansion"] = 7,
-["WorldBoss"] = 2199,
-["RecLevel"] = 50,
-["Raid"] = true,
-},
-["黑暗神殿"] = {
+["暗影迷宫"] = {
 ["Show"] = "saved",
 ["Expansion"] = 1,
-["LFDID"] = 196,
-["RecLevel"] = 30,
+["Raid"] = false,
+["RecLevel"] = 21,
+["LFDID"] = 181,
+},
+["赤红深渊"] = {
+["Show"] = "saved",
+["Expansion"] = 8,
+["Raid"] = false,
+["RecLevel"] = 50,
+["LFDID"] = 2117,
+},
+["马利费库斯"] = {
+["Show"] = "saved",
+["Expansion"] = 6,
+["WorldBoss"] = 1884,
+["RecLevel"] = 45,
 ["Raid"] = true,
+},
+["重返卡拉赞（上层）"] = {
+["Show"] = "saved",
+["Expansion"] = 6,
+["RecLevel"] = 45,
+["Raid"] = false,
+["LFDID"] = 1474,
+},
+["圣焰隐修院"] = {
+["Show"] = "saved",
+["Expansion"] = 10,
+["Raid"] = false,
+["RecLevel"] = 1,
+["LFDID"] = 2810,
 },
 ["科林·烈酒"] = {
 ["LFDID"] = 287,
@@ -2511,29 +2435,27 @@ true,
 ["Show"] = "saved",
 },
 ["随机时空漫游地下城（大地的裂变）"] = {
-["Show"] = "saved",
-["Expansion"] = 3,
 ["LFDID"] = 1146,
+["Expansion"] = 3,
+["Show"] = "saved",
 ["Random"] = true,
 ["Raid"] = false,
 ["Holiday"] = true,
 ["RecLevel"] = 10,
 },
-["海岛探险 - 私家航线"] = {
-["LFDID"] = 2251,
-["Expansion"] = 7,
-["Scenario"] = true,
+["利斯卡诺兹"] = {
 ["Show"] = "saved",
-["RecLevel"] = 10,
-["Random"] = true,
-["Raid"] = false,
+["Expansion"] = 9,
+["WorldBoss"] = 2518,
+["RecLevel"] = 70,
+["Raid"] = true,
 },
-["地渊孢林"] = {
+["奥金顿"] = {
 ["Show"] = "saved",
-["Expansion"] = 7,
+["Expansion"] = 5,
 ["Raid"] = false,
 ["RecLevel"] = 10,
-["LFDID"] = 1712,
+["LFDID"] = 1975,
 },
 ["审判官梅托"] = {
 ["Show"] = "saved",
@@ -2543,37 +2465,19 @@ true,
 ["Raid"] = true,
 },
 ["随机“军团再临”地下城"] = {
-["Show"] = "saved",
-["Expansion"] = 6,
 ["LFDID"] = 1045,
+["Expansion"] = 6,
+["Show"] = "saved",
 ["RecLevel"] = 10,
 ["Random"] = true,
 ["Raid"] = false,
 },
-["解放安德麦"] = {
+["风暴要塞"] = {
 ["Show"] = "saved",
-["Expansion"] = 10,
-["RecLevel"] = 80,
-["踏月剑歌 - 熊猫酒仙"] = {
-[14] = {
-["Expires"] = 0,
-["Extended"] = false,
-["Link"] = "|cffff8000|Hinstancelock:Player-838-0371504F:2769:14:255|h[解放安德麦]|h|r",
-["ID"] = 384937706,
-["Locked"] = false,
-},
-},
-["LFDID"] = 2779,
-["Raid"] = false,
-["三妖五四 - 自由之风"] = {
-[17] = {
-["Expires"] = 1742425201,
-["Extended"] = false,
-["Link"] = "|cffff8000|Hinstancelock:Player-736-056E1856:2769:17:30|h[解放安德麦]|h|r",
-["ID"] = 113816693,
-["Locked"] = true,
-},
-},
+["Expansion"] = 1,
+["RecLevel"] = 30,
+["Raid"] = true,
+["LFDID"] = 193,
 },
 ["禁魔监狱"] = {
 ["Show"] = "saved",
@@ -2582,12 +2486,12 @@ true,
 ["RecLevel"] = 10,
 ["LFDID"] = 1011,
 },
-["重返卡拉赞（上层）"] = {
+["奴隶围栏"] = {
 ["Show"] = "saved",
-["Expansion"] = 6,
-["RecLevel"] = 45,
+["Expansion"] = 1,
 ["Raid"] = false,
-["LFDID"] = 1474,
+["RecLevel"] = 10,
+["LFDID"] = 1015,
 },
 ["妖女奥露拉黛儿"] = {
 ["Show"] = "saved",
@@ -2603,17 +2507,17 @@ true,
 ["RecLevel"] = 45,
 ["Raid"] = true,
 },
-["水闸行动"] = {
-["LFDID"] = 2812,
-["Expansion"] = 10,
-["RecLevel"] = 1,
-["Raid"] = false,
+["麦卡贡行动 - 垃圾场"] = {
 ["Show"] = "saved",
+["Expansion"] = 7,
+["RecLevel"] = 50,
+["Raid"] = false,
+["LFDID"] = 2027,
 },
 ["随机英雄地下城（巨龙时代）"] = {
-["Show"] = "saved",
-["Expansion"] = 9,
 ["LFDID"] = 2351,
+["Expansion"] = 9,
+["Show"] = "saved",
 ["RecLevel"] = 70,
 ["Random"] = true,
 ["Raid"] = false,
@@ -2646,29 +2550,29 @@ true,
 ["RecLevel"] = 80,
 ["Raid"] = true,
 },
-["艾萨拉之眼"] = {
-["Show"] = "saved",
-["Expansion"] = 6,
-["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 2276,
-},
 ["随机“燃烧的远征”地下城（英雄）"] = {
-["Show"] = "saved",
-["Expansion"] = 1,
 ["LFDID"] = 260,
+["Expansion"] = 1,
+["Show"] = "saved",
 ["RecLevel"] = 30,
 ["Random"] = true,
 ["Raid"] = false,
+},
+["蔚索斯"] = {
+["Show"] = "saved",
+["Expansion"] = 7,
+["WorldBoss"] = 2199,
+["RecLevel"] = 50,
+["Raid"] = true,
 },
 ["随机“熊猫人之谜”场景战役"] = {
 ["Show"] = "saved",
 ["Expansion"] = 4,
 ["Scenario"] = true,
 ["LFDID"] = 493,
-["RecLevel"] = 50,
-["Random"] = true,
 ["Raid"] = false,
+["Random"] = true,
+["RecLevel"] = 50,
 },
 ["巨龙之魂"] = {
 ["Show"] = "saved",
@@ -2677,12 +2581,12 @@ true,
 ["RecLevel"] = 35,
 ["LFDID"] = 448,
 },
-["达克萨隆要塞"] = {
+["艾萨拉之眼"] = {
 ["Show"] = "saved",
-["Expansion"] = 2,
+["Expansion"] = 6,
 ["Raid"] = false,
-["RecLevel"] = 16,
-["LFDID"] = 215,
+["RecLevel"] = 10,
+["LFDID"] = 2276,
 },
 ["萨隆矿坑"] = {
 ["Show"] = "saved",
@@ -2705,12 +2609,12 @@ true,
 ["RecLevel"] = 16,
 ["LFDID"] = 221,
 },
-["影月墓地"] = {
+["达克萨隆要塞"] = {
 ["Show"] = "saved",
-["Expansion"] = 5,
+["Expansion"] = 2,
 ["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 1976,
+["RecLevel"] = 16,
+["LFDID"] = 215,
 },
 ["永恒之眼"] = {
 ["Show"] = "saved",
@@ -2754,12 +2658,12 @@ true,
 ["Raid"] = false,
 ["LFDID"] = 2324,
 },
-["鬼母阿娜"] = {
+["塔扎维什，帷纱集市"] = {
 ["Show"] = "saved",
-["Expansion"] = 6,
-["WorldBoss"] = 1790,
-["RecLevel"] = 45,
-["Raid"] = true,
+["Expansion"] = 8,
+["RecLevel"] = 60,
+["Raid"] = false,
+["LFDID"] = 2225,
 },
 ["毁灭者多弗 / 永恒的塔尔纳"] = {
 ["Show"] = "saved",
@@ -2768,44 +2672,49 @@ true,
 ["RecLevel"] = 40,
 ["Raid"] = true,
 },
-["随机“巫妖王之怒”地下城（英雄）"] = {
+["暮光堡垒"] = {
 ["Show"] = "saved",
-["Expansion"] = 2,
-["LFDID"] = 262,
-["RecLevel"] = 30,
-["Random"] = true,
-["Raid"] = false,
+["Expansion"] = 3,
+["Raid"] = true,
+["RecLevel"] = 35,
+["LFDID"] = 316,
 },
 ["地精教父"] = {
 ["Show"] = "saved",
 ["Expansion"] = 10,
 ["WorldBoss"] = 2683,
-["RecLevel"] = 80,
-["Raid"] = true,
+["终末序曲 - 熊猫酒仙"] = {
+[2] = {
+true,
+["ID"] = -1,
+["Expires"] = 1743634799,
 },
-["随机英雄地下城（“地心之战”第2赛季）"] = {
-["LFDID"] = 2807,
-["Expansion"] = 10,
-["Show"] = "saved",
+},
+["Raid"] = true,
 ["RecLevel"] = 80,
-["Random"] = true,
-["Raid"] = false,
+},
+["奥罗斯托"] = {
+["Show"] = "saved",
+["Expansion"] = 9,
+["WorldBoss"] = 2562,
+["RecLevel"] = 70,
+["Raid"] = true,
 },
 ["随机时空奔行场景战役（熊猫人之谜）"] = {
 ["Show"] = "saved",
 ["Expansion"] = 4,
 ["Scenario"] = true,
 ["LFDID"] = 2558,
-["RecLevel"] = 10,
-["Random"] = true,
 ["Raid"] = false,
+["Random"] = true,
+["RecLevel"] = 10,
 },
-["剃刀沼泽"] = {
+["安其拉废墟"] = {
 ["Show"] = "saved",
 ["Expansion"] = 0,
-["RecLevel"] = 10,
-["Raid"] = false,
-["LFDID"] = 16,
+["RecLevel"] = 30,
+["Raid"] = true,
+["LFDID"] = 160,
 },
 ["开启黑暗之门"] = {
 ["Show"] = "saved",
@@ -2821,28 +2730,26 @@ true,
 ["Raid"] = false,
 ["LFDID"] = 38,
 },
-["安其拉废墟"] = {
+["鬼母阿娜"] = {
+["Show"] = "saved",
+["Expansion"] = 6,
+["WorldBoss"] = 1790,
+["RecLevel"] = 45,
+["Raid"] = true,
+},
+["黑翼之巢"] = {
 ["Show"] = "saved",
 ["Expansion"] = 0,
 ["RecLevel"] = 30,
 ["Raid"] = true,
-["LFDID"] = 160,
+["LFDID"] = 50,
 },
-["随机英雄时空奔行场景战役（熊猫人之谜）"] = {
+["红玉新生法池"] = {
 ["Show"] = "saved",
-["Expansion"] = 4,
-["Scenario"] = true,
-["LFDID"] = 2559,
-["RecLevel"] = 10,
-["Random"] = true,
-["Raid"] = false,
-},
-["死亡矿井"] = {
-["Show"] = "saved",
-["Expansion"] = 0,
+["Expansion"] = 9,
 ["Raid"] = false,
 ["RecLevel"] = 10,
-["LFDID"] = 2636,
+["LFDID"] = 2436,
 },
 ["怒焰裂谷"] = {
 ["Show"] = "saved",
@@ -2851,26 +2758,26 @@ true,
 ["Raid"] = false,
 ["LFDID"] = 4,
 },
-["鲁克玛"] = {
+["突袭紫罗兰监狱"] = {
 ["Show"] = "saved",
-["Expansion"] = 5,
-["WorldBoss"] = 1262,
-["RecLevel"] = 40,
+["Expansion"] = 6,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 1209,
+},
+["通灵学院"] = {
+["Show"] = "saved",
+["Expansion"] = 4,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 2557,
+},
+["永春台"] = {
+["Show"] = "saved",
+["Expansion"] = 4,
 ["Raid"] = true,
-},
-["生态船"] = {
-["Show"] = "saved",
-["Expansion"] = 1,
-["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 2325,
-},
-["塞塔里斯神庙"] = {
-["Show"] = "saved",
-["Expansion"] = 7,
-["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 1695,
+["RecLevel"] = 35,
+["LFDID"] = 536,
 },
 ["奈萨里奥的巢穴"] = {
 ["Show"] = "saved",
@@ -2879,12 +2786,12 @@ true,
 ["RecLevel"] = 10,
 ["LFDID"] = 2279,
 },
-["赤红深渊"] = {
+["剃刀沼泽"] = {
 ["Show"] = "saved",
-["Expansion"] = 8,
+["Expansion"] = 0,
+["RecLevel"] = 10,
 ["Raid"] = false,
-["RecLevel"] = 50,
-["LFDID"] = 2117,
+["LFDID"] = 16,
 },
 ["风神王座"] = {
 ["Show"] = "saved",
@@ -2900,31 +2807,31 @@ true,
 ["RecLevel"] = 10,
 ["LFDID"] = 1152,
 },
-["暗焰裂口"] = {
-["Show"] = "saved",
-["Expansion"] = 10,
-["Raid"] = false,
-["RecLevel"] = 1,
-["LFDID"] = 2809,
-},
-["瓦坎"] = {
+["阿梅达希尔，梦境之愿"] = {
 ["Show"] = "saved",
 ["Expansion"] = 9,
-["WorldBoss"] = 2531,
+["Raid"] = true,
 ["RecLevel"] = 70,
+["LFDID"] = 2504,
+},
+["丝瓦什"] = {
+["Show"] = "saved",
+["Expansion"] = 6,
+["WorldBoss"] = 1885,
+["RecLevel"] = 45,
 ["Raid"] = true,
 },
-["玛拉顿－毒菇洞穴"] = {
+["战争使者耶纳基兹"] = {
 ["Show"] = "saved",
-["Expansion"] = 0,
-["RecLevel"] = 10,
-["Raid"] = false,
-["LFDID"] = 26,
+["Expansion"] = 7,
+["WorldBoss"] = 2198,
+["RecLevel"] = 50,
+["Raid"] = true,
 },
 ["随机“燃烧的远征”地下城"] = {
-["Show"] = "saved",
-["Expansion"] = 1,
 ["LFDID"] = 259,
+["Expansion"] = 1,
+["Show"] = "saved",
 ["RecLevel"] = 10,
 ["Random"] = true,
 ["Raid"] = false,
@@ -2937,12 +2844,12 @@ true,
 ["Holiday"] = true,
 ["Show"] = "saved",
 },
-["安特洛斯"] = {
+["初诞者圣墓"] = {
 ["Show"] = "saved",
 ["Expansion"] = 8,
-["WorldBoss"] = 9013,
-["RecLevel"] = 60,
 ["Raid"] = true,
+["RecLevel"] = 60,
+["LFDID"] = 2290,
 },
 ["晋升高塔"] = {
 ["Show"] = "saved",
@@ -2951,28 +2858,26 @@ true,
 ["RecLevel"] = 50,
 ["LFDID"] = 2122,
 },
-["古达克"] = {
+["祖尔格拉布"] = {
+["Show"] = "saved",
+["Expansion"] = 3,
+["RecLevel"] = 35,
+["Raid"] = false,
+["LFDID"] = 334,
+},
+["奥金尼地穴"] = {
+["Show"] = "saved",
+["Expansion"] = 1,
+["Raid"] = false,
+["RecLevel"] = 16,
+["LFDID"] = 178,
+},
+["岩石大厅"] = {
 ["Show"] = "saved",
 ["Expansion"] = 2,
 ["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 1017,
-},
-["随机英雄时空奔行地下城（熊猫人之谜）"] = {
-["Show"] = "saved",
-["Expansion"] = 4,
-["LFDID"] = 2539,
-["RecLevel"] = 10,
-["Random"] = true,
-["Raid"] = false,
-},
-["随机英雄地下城（地心之战）"] = {
-["Show"] = "saved",
-["Expansion"] = 10,
-["LFDID"] = 2517,
-["Raid"] = false,
-["Random"] = true,
-["RecLevel"] = 80,
+["RecLevel"] = 21,
+["LFDID"] = 213,
 },
 ["基阿拉克"] = {
 ["Show"] = "saved",
@@ -2981,26 +2886,27 @@ true,
 ["RecLevel"] = 50,
 ["Raid"] = true,
 },
-["战争使者耶纳基兹"] = {
+["随机英雄地下城（地心之战）"] = {
+["LFDID"] = 2517,
+["Expansion"] = 10,
 ["Show"] = "saved",
-["Expansion"] = 7,
-["WorldBoss"] = 2198,
-["RecLevel"] = 50,
-["Raid"] = true,
+["Raid"] = false,
+["Random"] = true,
+["RecLevel"] = 80,
 },
-["黑翼之巢"] = {
-["Show"] = "saved",
-["Expansion"] = 0,
-["RecLevel"] = 30,
-["Raid"] = true,
-["LFDID"] = 50,
-},
-["奥金尼地穴"] = {
+["海加尔山"] = {
 ["Show"] = "saved",
 ["Expansion"] = 1,
+["RecLevel"] = 30,
+["Raid"] = true,
+["LFDID"] = 195,
+},
+["彼界"] = {
+["Show"] = "saved",
+["Expansion"] = 8,
 ["Raid"] = false,
-["RecLevel"] = 16,
-["LFDID"] = 178,
+["RecLevel"] = 50,
+["LFDID"] = 2118,
 },
 ["巴斯律孔"] = {
 ["Show"] = "saved",
@@ -3016,12 +2922,12 @@ true,
 ["RecLevel"] = 60,
 ["Raid"] = true,
 },
-["奴隶围栏"] = {
+["安苏雷克女王"] = {
 ["Show"] = "saved",
-["Expansion"] = 1,
-["Raid"] = false,
-["RecLevel"] = 10,
-["LFDID"] = 1015,
+["Expansion"] = 10,
+["RecLevel"] = 80,
+["Raid"] = true,
+["LFDID"] = 2715,
 },
 ["冰雹构造体"] = {
 ["Show"] = "saved",
@@ -3051,59 +2957,69 @@ true,
 ["RecLevel"] = 10,
 ["LFDID"] = 1019,
 },
-["围攻砮皂寺"] = {
+["黑石岩窟"] = {
 ["Show"] = "saved",
-["Expansion"] = 4,
+["Expansion"] = 3,
 ["Raid"] = false,
 ["RecLevel"] = 10,
-["LFDID"] = 2547,
+["LFDID"] = 2321,
 },
 ["惊魂聚合体"] = {
 ["Show"] = "saved",
 ["Expansion"] = 10,
 ["WorldBoss"] = 2635,
+["终末序曲 - 熊猫酒仙"] = {
+[2] = {
+true,
+["ID"] = -1,
+["Expires"] = 1743634799,
+},
+},
 ["Raid"] = true,
 ["RecLevel"] = 80,
+["三妖五四 - 自由之风"] = {
+[2] = {
+true,
+["ID"] = -1,
+["Expires"] = 1743634799,
 },
-["破晨号"] = {
-["Show"] = "saved",
-["Expansion"] = 10,
-["Raid"] = false,
-["RecLevel"] = 1,
-["LFDID"] = 2725,
 },
-["随机海岛探险（史诗）"] = {
+},
+["随机暮光审判地下城（英雄）"] = {
+["LFDID"] = 434,
+["Expansion"] = 3,
 ["Show"] = "saved",
-["Expansion"] = 7,
-["Scenario"] = true,
-["LFDID"] = 1891,
-["RecLevel"] = 50,
+["RecLevel"] = 35,
 ["Random"] = true,
 ["Raid"] = false,
 },
-["随机英雄地下城（暗影国度）"] = {
+["死亡矿井"] = {
 ["Show"] = "saved",
-["Expansion"] = 8,
-["LFDID"] = 2087,
-["RecLevel"] = 60,
-["Random"] = true,
+["Expansion"] = 0,
 ["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 2636,
+},
+["奥库拉鲁斯"] = {
+["Show"] = "saved",
+["Expansion"] = 6,
+["WorldBoss"] = 2013,
+["RecLevel"] = 45,
+["Raid"] = true,
 },
 ["麦卡贡行动"] = {
 ["Show"] = "saved",
 ["Expansion"] = 7,
-["三妖五四 - 自由之风"] = {
-[23] = {
-["Expires"] = 0,
-["Extended"] = false,
-["Link"] = "|cffff8000|Hinstancelock:Player-736-056E1856:2097:23:3|h[麦卡贡行动]|h|r",
-["ID"] = 385264721,
-["Locked"] = false,
-},
-},
 ["Raid"] = false,
 ["RecLevel"] = 50,
 ["LFDID"] = 2006,
+},
+["乌特加德之巅"] = {
+["Show"] = "saved",
+["Expansion"] = 2,
+["Raid"] = false,
+["RecLevel"] = 10,
+["LFDID"] = 1020,
 },
 ["魔法回廊"] = {
 ["Show"] = "saved",
@@ -3112,26 +3028,18 @@ true,
 ["RecLevel"] = 45,
 ["LFDID"] = 1190,
 },
-["随机暮光审判地下城（英雄）"] = {
-["Show"] = "saved",
-["Expansion"] = 3,
-["LFDID"] = 434,
-["RecLevel"] = 35,
-["Random"] = true,
-["Raid"] = false,
 },
-},
-["histGeneration"] = 2433,
+["histGeneration"] = 2663,
 ["Warfront"] = {
 {
 ["contributing"] = false,
-["restTime"] = 1742396341,
-["captureSide"] = "Alliance",
+["restTime"] = 1743349118,
+["captureSide"] = "Horde",
 },
 {
 ["contributing"] = false,
-["restTime"] = 1742383621,
-["captureSide"] = "Alliance",
+["restTime"] = 1743336413,
+["captureSide"] = "Horde",
 },
 },
 ["DBVersion"] = 12,
@@ -3144,7 +3052,7 @@ true,
 ["Currency3109"] = true,
 ["Currency2813"] = true,
 ["HistoryText"] = false,
-["CategorySpaces"] = false,
+["ShowCategories"] = false,
 ["Currency2807"] = false,
 ["Currency3090"] = true,
 ["Currency2806"] = false,
@@ -3160,71 +3068,71 @@ true,
 ["Currency2778"] = false,
 ["Currency3116"] = true,
 ["Currency2915"] = true,
-["MythicKeyBest"] = false,
-["ServerSort"] = true,
-["NewFirst"] = true,
 ["MythicKey"] = true,
+["Warfront2"] = false,
+["CategorySpaces"] = false,
+["ConnectedRealms"] = "group",
 ["ReverseInstances"] = false,
 ["CurrencyMax"] = false,
 ["Currency2800"] = false,
-["Currency3023"] = true,
+["ServerSort"] = true,
 ["ReportResets"] = true,
-["Currency3107"] = true,
+["AugmentBonus"] = true,
 ["Currency2809"] = false,
-["CurrencyEarned"] = true,
+["Currency2815"] = true,
 ["CategorySort"] = "EXPANSION",
 ["SelfAlways"] = false,
 ["ShowServer"] = false,
 ["Currency3056"] = true,
 ["Warfront1"] = false,
-["EmissaryShowCompleted"] = false,
-["RaidsFirst"] = true,
-["posy"] = 177.1253662109375,
+["ShowExpired"] = false,
+["CombineEmissary"] = false,
+["posy"] = 177.1254272460938,
 ["CombineCalling"] = true,
 ["Currency3226"] = true,
 ["Scale"] = 1,
 ["Currency3008"] = true,
-["Currency2815"] = true,
+["CurrencyEarned"] = true,
 ["CombineWorldBosses"] = false,
-["CombineLFR"] = true,
+["FitToScreen"] = true,
 ["CurrencyValueColor"] = true,
-["ShowCategories"] = false,
+["NewFirst"] = true,
 ["Currency3028"] = true,
 ["posx"] = 461.5484619140625,
-["EmissaryFullName"] = false,
+["TrackWeeklyQuests"] = true,
 ["ShowHints"] = true,
 ["LimitWarn"] = true,
 ["Calling"] = false,
-["FitToScreen"] = true,
+["Currency2245"] = false,
 ["Currency3216"] = true,
 ["ServerOnly"] = false,
-["Currency3089"] = false,
-["Currency2245"] = false,
+["CombineLFR"] = true,
+["AbbreviateKeystone"] = true,
 ["Currency3132"] = true,
-["ConnectedRealms"] = "group",
+["MythicKeyBest"] = false,
 ["Currency3108"] = true,
-["TrackLFG"] = false,
+["Currency3218"] = true,
 ["KeystoneReportTarget"] = "EXPORT",
 ["CallingShowCompleted"] = true,
-["Warfront2"] = false,
-["AbbreviateKeystone"] = true,
+["Currency3023"] = true,
+["TrackLFG"] = false,
 ["ShowSoloCategory"] = false,
 ["NumberFormat"] = true,
-["ShowExpired"] = false,
-["CombineEmissary"] = false,
-["SelfFirst"] = true,
-["TrackWeeklyQuests"] = true,
+["EmissaryShowCompleted"] = false,
+["RaidsFirst"] = true,
+["Emissary7"] = false,
+["EmissaryFullName"] = false,
 ["Currency2916"] = true,
 ["Currency3100"] = true,
-["AugmentBonus"] = true,
-["RowHighlight"] = 0.1,
+["Currency3089"] = false,
+["Currency2914"] = true,
 ["ShowHoliday"] = true,
+["Currency3107"] = true,
 ["DisableMouseover"] = true,
 ["TrackPlayed"] = false,
-["Currency3218"] = true,
 ["TrackSkills"] = true,
-["Currency2914"] = true,
-["Emissary7"] = false,
+["SelfFirst"] = true,
+["RowHighlight"] = 0.1,
 ["Currency2803"] = true,
 },
 ["RealmMap"] = {
@@ -3261,13 +3169,13 @@ true,
 ["艾欧娜尔"] = 1,
 ["刀塔"] = 1,
 ["米奈希尔"] = 4,
-["克尔苏加德"] = 3,
+["自由之风"] = 1,
 ["玛洛加尔"] = 2,
 ["诺莫瑞根"] = 1,
 ["普罗德摩"] = 2,
 ["亡语者"] = 3,
-["自由之风"] = 1,
 ["冬寒"] = 1,
+["克尔苏加德"] = 3,
 },
 ["History"] = {
 },
@@ -3278,25 +3186,15 @@ true,
 },
 ["Toons"] = {
 ["三十八年夏 - 熊猫酒仙"] = {
-["lastbossyell"] = "传令官布雷西雅",
+["lastbossyell"] = "被误导的市民",
 ["isResting"] = true,
 ["Emissary"] = {
 [6] = {
 ["unlocked"] = true,
 ["days"] = {
 {
-["isFinish"] = false,
-["questDone"] = 0,
-["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
-["itemLvl"] = 45,
-["quality"] = 3,
-},
-},
-{
-["questReward"] = {
-["itemName"] = "至高岭贡品",
+["itemName"] = "肯瑞托宝箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
@@ -3305,6 +3203,21 @@ true,
 ["isComplete"] = false,
 },
 {
+["questReward"] = {
+["itemName"] = "瓦拉加尔储物箱",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
+["questDone"] = 0,
+["isComplete"] = false,
+["isFinish"] = false,
+},
+{
+["questReward"] = {
+["itemName"] = "镀金的大箱子",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
 ["questDone"] = 0,
 ["isFinish"] = false,
 ["isComplete"] = false,
@@ -3320,360 +3233,28 @@ true,
 ["SoloShuffleRating"] = {
 [3] = 0,
 },
-["lastbosstime"] = 1741423687,
-["Covenant"] = 1,
+["lastbosstime"] = 1742704218,
+["Show"] = "always",
 ["TimewornMythicKey"] = {
 },
-["Calling"] = {
-},
-["ILe"] = 604.125,
+["Faction"] = "Alliance",
+["ILe"] = 610,
 ["Quests"] = {
 [82678] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：第一个圆盘",
 ["Link"] = "|cffffff00|Hquest:82678:90|h[档案馆：第一个圆盘]|h|r",
 },
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-["Title"] = "世界之魂：世界任务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
 [84130] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "珠宝加工指名服务",
 ["Link"] = "|cffffff00|Hquest:84130:90|h[珠宝加工指名服务]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82505] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82505:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-["Title"] = "剧场巡演",
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
 },
 },
 ["Paragon"] = {
 },
-["IL"] = 608.1875,
-["Zone"] = "多恩诺嘉尔",
-["Order"] = 50,
-["Class"] = "MONK",
-["Show"] = "always",
-["ILPvp"] = 608.1875,
-["WeeklyResetTime"] = 1742425199,
-["currency"] = {
-[1191] = {
-["amount"] = 0,
-},
-[515] = {
-["amount"] = 40,
-},
-[3028] = {
-["relatedItemCount"] = 0,
-["amount"] = 3,
-},
-[777] = {
-["amount"] = 3117,
-},
-[1101] = {
-["totalMax"] = 100000,
-["amount"] = 155,
-},
-[3100] = {
-["amount"] = 0,
-},
-[3108] = {
-["totalEarned"] = 26,
-["totalMax"] = 270,
-["amount"] = 51,
-},
-[3116] = {
-["totalMax"] = 8,
-["amount"] = 1,
-},
-[3132] = {
-["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
-},
-[738] = {
-["amount"] = 30,
-},
-[1275] = {
-["amount"] = 13,
-},
-[994] = {
-["totalMax"] = 20,
-["amount"] = 3,
-},
-[1220] = {
-["amount"] = 2236,
-},
-[81] = {
-["amount"] = 2,
-},
-[1299] = {
-["totalMax"] = 5000,
-["amount"] = 330,
-},
-[3023] = {
-["totalEarned"] = 16,
-["totalMax"] = 28,
-["amount"] = 16,
-},
-[697] = {
-["totalMax"] = 20,
-["amount"] = 6,
-},
-[1508] = {
-["totalMax"] = 2000,
-["amount"] = 522,
-},
-[2803] = {
-["amount"] = 0,
-},
-[3008] = {
-["totalMax"] = 2000,
-["amount"] = 371,
-},
-[824] = {
-["totalMax"] = 10000,
-["amount"] = 6815,
-},
-[2815] = {
-["amount"] = 12421,
-},
-[1792] = {
-["totalMax"] = 15000,
-["amount"] = 0,
-},
-[2914] = {
-["amount"] = 0,
-},
-[2796] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[1166] = {
-["amount"] = 0,
-},
-[752] = {
-["totalMax"] = 20,
-["amount"] = 3,
-},
-[2533] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[1129] = {
-["weeklyMax"] = 3,
-["totalMax"] = 20,
-["amount"] = 10,
-},
-[2915] = {
-["amount"] = 0,
-},
-[1816] = {
-["amount"] = 181,
-},
-[1820] = {
-["totalMax"] = 100,
-["amount"] = 7,
-},
-[1155] = {
-["totalMax"] = 300,
-["amount"] = 15,
-},
-[402] = {
-["amount"] = 3,
-},
-[2813] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[1710] = {
-["amount"] = 4,
-},
-[1273] = {
-["weeklyMax"] = 3,
-["totalMax"] = 6,
-["amount"] = 3,
-},
-[3089] = {
-["amount"] = 0,
-},
-[1533] = {
-["amount"] = 1324,
-},
-[2916] = {
-["amount"] = 0,
-},
-[1226] = {
-["amount"] = 1669,
-},
-[1342] = {
-["totalMax"] = 1000,
-["amount"] = 48,
-},
-[2912] = {
-["totalMax"] = 9,
-["amount"] = 9,
-},
-[3056] = {
-["amount"] = 6004,
-},
-[823] = {
-["amount"] = 10242,
-},
-[3090] = {
-["amount"] = 100,
-},
-[776] = {
-["totalMax"] = 20,
-["amount"] = 0,
-},
-[3107] = {
-["totalEarned"] = 10,
-["totalMax"] = 270,
-["amount"] = 10,
-},
-},
-["DailyResetTime"] = 1742425199,
-["Warmode"] = false,
-["LClass"] = "武僧",
-["Level"] = 80,
-["Faction"] = "Alliance",
-["Warfront"] = {
-{
-["scenario"] = {
-false,
-false,
-},
-["boss"] = false,
-},
-{
-["scenario"] = {
-false,
-false,
-},
-["boss"] = false,
-},
-},
-["MythicKeyBest"] = {
-["threshold"] = {
-1,
-4,
-8,
-},
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = false,
-},
-["PlayedTotal"] = 1152647,
-["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1737809809,
-["Money"] = 3391227381,
-["LastSeen"] = 1742260165,
-["MythicKey"] = {
-},
-["MythicPlusScore"] = 0,
-["lastboss"] = "地精教父",
-["MaxXP"] = 100000000,
-["PlayedLevel"] = 73053,
-["Arena3v3rating"] = 0,
-["oRace"] = "Pandaren",
-["Skills"] = {
-},
+["IL"] = 612.25,
+["LastSeen"] = 1743120422,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -3694,6 +3275,12 @@ false,
 ["show"] = false,
 },
 ["df-aiding-the-accord"] = {
+["show"] = false,
+},
+["the-world-awaits"] = {
+["show"] = false,
+},
+["tww-the-key-to-success"] = {
 ["show"] = false,
 },
 ["tww-lesser-keyflame"] = {
@@ -3750,29 +3337,22 @@ false,
 ["show"] = false,
 },
 },
-["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
-},
-["emissary-of-war"] = {
-["show"] = false,
-},
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 5,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["isFinish"] = false,
+["show"] = false,
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
 },
 ["tww-biergoth-dungeon-quest"] = {
-["show"] = false,
+"0/1 赶走风险投资公司",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 1,
+["leaderboardCount"] = 1,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
 },
 ["great-vault-raid"] = {
 ["unlocked"] = true,
@@ -3922,31 +3502,7 @@ false,
 ["df-a-worthy-ally-loamm-niffen"] = {
 ["show"] = false,
 },
-["bfa-horrific-vision"] = {
-[57847] = {
-["show"] = false,
-},
-[57848] = {
-["show"] = false,
-},
-[57841] = {
-["show"] = false,
-},
-[57842] = {
-["show"] = false,
-},
-[57843] = {
-["show"] = false,
-},
-[57844] = {
-["show"] = false,
-},
-[57845] = {
-["show"] = false,
-},
-[57846] = {
-["show"] = false,
-},
+["df-sparks-of-life"] = {
 ["show"] = false,
 },
 ["tww-services-requested"] = {
@@ -3969,14 +3525,14 @@ false,
 ["isComplete"] = true,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 ["numRequired"] = 100,
 ["isComplete"] = false,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
 ["isFinish"] = false,
 },
@@ -3988,27 +3544,6 @@ false,
 },
 ["df-trial-of-elements"] = {
 ["show"] = false,
-},
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[56064] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
 },
 ["tww-siren-isle-weekly"] = {
 [84850] = {
@@ -4064,12 +3599,40 @@ false,
 ["show"] = false,
 },
 },
+["tww-the-call-of-the-worldsoul"] = {
+"0/6 完成卡兹阿加世界任务",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 6,
+["leaderboardCount"] = 1,
+["text"] = "0/6",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
+},
 ["call-to-delves"] = {
 ["show"] = false,
 },
-["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
 },
 ["tww-weekly-cache"] = {
 [84738] = {
@@ -4079,8 +3642,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -4088,8 +3650,7 @@ false,
 ["show"] = true,
 },
 ["tww-the-theater-trope"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -4141,10 +3702,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 [70723] = {
@@ -4153,7 +3714,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 },
@@ -4167,12 +3728,6 @@ false,
 ["text"] = "0/36000",
 ["objectiveType"] = "monster",
 ["isFinish"] = false,
-},
-["df-sparks-of-life"] = {
-["show"] = false,
-},
-["sl-shaping-fate"] = {
-["show"] = false,
 },
 ["df-researchers-under-fire"] = {
 ["show"] = true,
@@ -4189,6 +3744,36 @@ false,
 ["show"] = false,
 },
 },
+["sl-shaping-fate"] = {
+["show"] = false,
+},
+["bfa-horrific-vision"] = {
+[57847] = {
+["show"] = false,
+},
+[57848] = {
+["show"] = false,
+},
+[57841] = {
+["show"] = false,
+},
+[57842] = {
+["show"] = false,
+},
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
+["show"] = false,
+},
 ["tww-pvp-weekly"] = {
 ["show"] = false,
 },
@@ -4201,39 +3786,285 @@ false,
 ["df-siege-on-dragonbane-keep"] = {
 ["show"] = false,
 },
-["the-world-awaits"] = {
-["show"] = false,
+["emissary-of-war"] = {
+"0/4 完成史诗地下城",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 4,
+["leaderboardCount"] = 1,
+["text"] = "0/4",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
 },
 },
+["Class"] = "MONK",
+["Covenant"] = 1,
+["ILPvp"] = 612.25,
+["Calling"] = {
+},
+["currency"] = {
+[824] = {
+["totalMax"] = 10000,
+["amount"] = 6815,
+},
+[2815] = {
+["amount"] = 12861,
+},
+[3028] = {
+["relatedItemCount"] = 0,
+["amount"] = 6,
+},
+[777] = {
+["amount"] = 3117,
+},
+[1101] = {
+["totalMax"] = 100000,
+["amount"] = 155,
+},
+[2533] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[1129] = {
+["weeklyMax"] = 3,
+["totalMax"] = 20,
+["amount"] = 10,
+},
+[3116] = {
+["totalMax"] = 8,
+["amount"] = 2,
+},
+[3132] = {
+["totalEarned"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
+},
+[738] = {
+["amount"] = 30,
+},
+[1275] = {
+["amount"] = 13,
+},
+[994] = {
+["totalMax"] = 20,
+["amount"] = 3,
+},
+[1220] = {
+["amount"] = 2236,
+},
+[81] = {
+["amount"] = 2,
+},
+[1299] = {
+["totalMax"] = 5000,
+["amount"] = 330,
+},
+[3023] = {
+["totalEarned"] = 16,
+["totalMax"] = 28,
+["amount"] = 16,
+},
+[697] = {
+["totalMax"] = 20,
+["amount"] = 6,
+},
+[1508] = {
+["totalMax"] = 2000,
+["amount"] = 522,
+},
+[2803] = {
+["amount"] = 0,
+},
+[3008] = {
+["totalMax"] = 2000,
+["amount"] = 883,
+},
+[1191] = {
+["amount"] = 0,
+},
+[515] = {
+["amount"] = 40,
+},
+[2914] = {
+["amount"] = 0,
+},
+[776] = {
+["totalMax"] = 20,
+["amount"] = 0,
+},
+[2796] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[1166] = {
+["amount"] = 0,
+},
+[752] = {
+["totalMax"] = 20,
+["amount"] = 3,
+},
+[3100] = {
+["amount"] = 0,
+},
+[3108] = {
+["totalEarned"] = 60,
+["totalMax"] = 450,
+["amount"] = 100,
+},
+[2915] = {
+["amount"] = 0,
+},
+[1816] = {
+["amount"] = 181,
+},
+[1820] = {
+["totalMax"] = 100,
+["amount"] = 7,
+},
+[1533] = {
+["amount"] = 1324,
+},
+[402] = {
+["amount"] = 3,
+},
+[2813] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[1710] = {
+["amount"] = 4,
+},
+[1273] = {
+["weeklyMax"] = 3,
+["totalMax"] = 6,
+["amount"] = 3,
+},
+[3089] = {
+["amount"] = 0,
+},
+[1155] = {
+["totalMax"] = 300,
+["amount"] = 15,
+},
+[2916] = {
+["amount"] = 0,
+},
+[1226] = {
+["amount"] = 1669,
+},
+[1342] = {
+["totalMax"] = 1000,
+["amount"] = 48,
+},
+[2912] = {
+["totalMax"] = 9,
+["amount"] = 9,
+},
+[3056] = {
+["amount"] = 6034,
+},
+[823] = {
+["amount"] = 10242,
+},
+[3090] = {
+["amount"] = 100,
+},
+[1792] = {
+["totalMax"] = 15000,
+["amount"] = 0,
+},
+[3107] = {
+["totalEarned"] = 34,
+["totalMax"] = 450,
+["amount"] = 34,
+},
+},
+["DailyResetTime"] = 1743202799,
+["Warmode"] = false,
+["LClass"] = "武僧",
+["Level"] = 80,
+["Arena3v3rating"] = 0,
+["Warfront"] = {
+{
+["scenario"] = {
+false,
+false,
+},
+["boss"] = false,
+},
+{
+["scenario"] = {
+false,
+false,
+},
+["boss"] = false,
+},
+},
+["MythicKey"] = {
+},
+["PlayedTotal"] = 1161085,
+["Arena2v2rating"] = 0,
+["lastbossyelltime"] = 1742738017,
+["MaxXP"] = 100000000,
+["MythicKeyBest"] = {
+["threshold"] = {
+1,
+4,
+8,
+},
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = false,
+},
+["WeeklyResetTime"] = 1743634799,
+["MythicPlusScore"] = 0,
+["lastboss"] = "nil",
+["Money"] = 3689108938,
+["PlayedLevel"] = 81491,
+["Zone"] = "议会金库",
 ["SpecializationIDs"] = {
 268,
 270,
 269,
 },
+["Skills"] = {
+},
+["Order"] = 50,
+["oRace"] = "Pandaren",
 },
 ["烟月独逝 - 熊猫酒仙"] = {
-["Arena3v3rating"] = 0,
+["lastbossyell"] = "被误导的市民",
 ["isResting"] = true,
 ["Emissary"] = {
 [6] = {
 ["unlocked"] = true,
 ["days"] = {
 {
+["isFinish"] = false,
+["questDone"] = 0,
+["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
+["itemName"] = "肯瑞托宝箱",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
+},
+{
+["questReward"] = {
+["itemName"] = "瓦拉加尔储物箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
 ["questDone"] = 0,
-["isFinish"] = false,
 ["isComplete"] = false,
+["isFinish"] = false,
 },
 {
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
+["questReward"] = {
+["itemName"] = "镀金的大箱子",
+["itemLvl"] = 45,
+["quality"] = 3,
 },
-{
 ["questDone"] = 0,
 ["isFinish"] = false,
 ["isComplete"] = false,
@@ -4242,196 +4073,93 @@ false,
 },
 },
 ["Race"] = "暗夜精灵",
-["BGBRating"] = {
-[2] = 0,
-},
+["LClass"] = "潜行者",
 ["RBGrating"] = 0,
 ["SoloShuffleRating"] = {
 [2] = 0,
 },
-["lastbosstime"] = 1741408363,
+["lastbosstime"] = 1742719441,
+["Show"] = "always",
 ["Covenant"] = 1,
 ["TimewornMythicKey"] = {
 },
-["Faction"] = "Alliance",
+["MaxXP"] = 100000000,
+["Calling"] = {
+{
+["isCompleted"] = false,
+["title"] = "雷文德斯的召唤",
+["questID"] = 60434,
+["expiredTime"] = 1743202799,
+["isOnQuest"] = false,
+},
+{
+["isCompleted"] = false,
+["title"] = "稀有资源",
+["questID"] = 60415,
+["expiredTime"] = 1743289199,
+["isOnQuest"] = false,
+},
+{
+["isCompleted"] = false,
+["title"] = "协助炽蓝仙野",
+["questID"] = 60391,
+["expiredTime"] = 1743375599,
+["isOnQuest"] = false,
+},
+["unlocked"] = true,
+},
 ["ILe"] = 619.4375,
 ["Quests"] = {
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-["Title"] = "世界之魂：世界任务",
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82487] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82487:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[84133] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:84133:90|h[炼金指名服务]|h|r",
-["Title"] = "炼金指名服务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-["Title"] = "剧场巡演",
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
+[81090] = {
+["Expires"] = 1743202799,
+["Title"] = "炼金奇术",
+["isDaily"] = true,
 },
 },
 ["Paragon"] = {
 },
-["IL"] = 623.375,
-["LastSeen"] = 1742232032,
+["WeeklyResetTime"] = 1743634799,
+["LastSeen"] = 1743120896,
 ["SpecializationIDs"] = {
 259,
 260,
 261,
 },
 ["Class"] = "ROGUE",
-["Calling"] = {
-{
-["isCompleted"] = false,
-["title"] = "玛卓克萨斯的召唤",
-["questID"] = 60430,
-["expiredTime"] = 1742425199,
-["isOnQuest"] = false,
-},
-{
-["isCompleted"] = false,
-["isOnQuest"] = false,
-["expiredTime"] = 1742511599,
-},
-{
-["isCompleted"] = false,
-["isOnQuest"] = false,
-["expiredTime"] = 1742597999,
-},
-["unlocked"] = true,
-},
-["ILPvp"] = 623.375,
-["Show"] = "always",
+["Arena3v3rating"] = 0,
+["ILPvp"] = 624.6875,
+["Faction"] = "Alliance",
 ["currency"] = {
-[824] = {
-["totalMax"] = 10000,
-["amount"] = 1980,
+[1191] = {
+["amount"] = 0,
 },
-[2815] = {
-["amount"] = 26997,
-},
-[3028] = {
-["relatedItemCount"] = 0,
+[2122] = {
 ["amount"] = 4,
 },
+[3028] = {
+["amount"] = 7,
+["relatedItemCount"] = 0,
+},
 [3107] = {
-["totalEarned"] = 14,
-["totalMax"] = 270,
-["amount"] = 14,
+["totalEarned"] = 34,
+["amount"] = 34,
+["totalMax"] = 450,
 },
 [2123] = {
-["totalMax"] = 1900,
 ["amount"] = 0,
+["totalMax"] = 3000,
+},
+[3108] = {
+["totalEarned"] = 72,
+["amount"] = 117,
+["totalMax"] = 450,
 },
 [1810] = {
 ["covenant"] = {
 130,
 },
-["totalMax"] = 100,
 ["amount"] = 130,
+["totalMax"] = 100,
 },
 [2003] = {
 ["amount"] = 15416,
@@ -4444,8 +4172,8 @@ false,
 ["covenant"] = {
 37,
 },
-["totalMax"] = 80,
 ["amount"] = 37,
+["totalMax"] = 80,
 },
 [1889] = {
 ["amount"] = 4,
@@ -4455,8 +4183,8 @@ false,
 },
 [3132] = {
 ["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
+["amount"] = 2,
+["totalMax"] = 4,
 },
 [1275] = {
 ["amount"] = 17,
@@ -4469,8 +4197,12 @@ false,
 ["amount"] = 1582,
 },
 [1602] = {
-["totalMax"] = 2200,
 ["amount"] = 0,
+["totalMax"] = 3400,
+},
+[1820] = {
+["totalMax"] = 100,
+["amount"] = 6,
 },
 [1299] = {
 ["totalMax"] = 5000,
@@ -4478,8 +4210,12 @@ false,
 },
 [3023] = {
 ["totalEarned"] = 22,
-["totalMax"] = 28,
 ["amount"] = 22,
+["totalMax"] = 28,
+},
+[3116] = {
+["totalMax"] = 8,
+["amount"] = 2,
 },
 [1508] = {
 ["totalMax"] = 2000,
@@ -4493,10 +4229,15 @@ false,
 },
 [3008] = {
 ["totalMax"] = 2000,
-["amount"] = 427,
+["amount"] = 885,
 },
-[1885] = {
-["amount"] = 71,
+[2912] = {
+["totalMax"] = 9,
+["amount"] = 9,
+},
+[824] = {
+["totalMax"] = 10000,
+["amount"] = 1980,
 },
 [2914] = {
 ["amount"] = 0,
@@ -4508,16 +4249,11 @@ false,
 [1166] = {
 ["amount"] = 0,
 },
-[2912] = {
-["totalMax"] = 9,
-["amount"] = 9,
+[515] = {
+["amount"] = 133,
 },
-[3056] = {
-["amount"] = 11878,
-},
-[1792] = {
-["totalMax"] = 15000,
-["amount"] = 2035,
+[2815] = {
+["amount"] = 27452,
 },
 [1560] = {
 ["amount"] = 40,
@@ -4525,11 +4261,10 @@ false,
 [1816] = {
 ["amount"] = 777,
 },
-[1820] = {
-["totalMax"] = 100,
-["amount"] = 6,
+[2915] = {
+["amount"] = 0,
 },
-[1191] = {
+[3100] = {
 ["amount"] = 0,
 },
 [1828] = {
@@ -4539,9 +4274,6 @@ false,
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
-[3100] = {
-["amount"] = 0,
-},
 [1273] = {
 ["weeklyMax"] = 3,
 ["totalMax"] = 6,
@@ -4550,50 +4282,41 @@ false,
 [1533] = {
 ["amount"] = 317,
 },
-[1155] = {
-["totalMax"] = 300,
-["amount"] = 233,
-},
 [2916] = {
 ["amount"] = 0,
 },
 [1226] = {
 ["amount"] = 4845,
 },
-[2915] = {
-["amount"] = 0,
-},
-[2122] = {
-["amount"] = 4,
-},
-[515] = {
-["amount"] = 133,
-},
 [2917] = {
 ["amount"] = 0,
+},
+[1792] = {
+["totalMax"] = 15000,
+["amount"] = 2035,
+},
+[3056] = {
+["amount"] = 11242,
 },
 [1813] = {
 ["covenant"] = {
 5661,
 },
-["totalMax"] = 200000,
 ["amount"] = 5661,
+["totalMax"] = 200000,
 },
-[3116] = {
-["totalMax"] = 8,
-["amount"] = 1,
+[1885] = {
+["amount"] = 71,
 },
-[3108] = {
-["totalEarned"] = 26,
-["totalMax"] = 270,
-["amount"] = 56,
+[1155] = {
+["totalMax"] = 300,
+["amount"] = 233,
 },
 },
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["Warmode"] = false,
-["LClass"] = "潜行者",
+["IL"] = 624.6875,
 ["Level"] = 80,
-["lastbossyell"] = "传令官布雷西雅",
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -4616,13 +4339,20 @@ false,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = true,
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = false,
 },
-["PlayedTotal"] = 2535337,
+["PlayedTotal"] = 2543926,
 ["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1742018185,
-["Money"] = 1269809211,
+["lastbossyelltime"] = 1743003472,
+["Money"] = 1863187541,
+["MythicKey"] = {
+},
+["MythicPlusScore"] = 0,
+["lastboss"] = "nil",
+["Zone"] = "多恩诺嘉尔",
+["PlayedLevel"] = 446589,
+["oRace"] = "NightElf",
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -4646,7 +4376,15 @@ false,
 ["show"] = false,
 },
 ["emissary-of-war"] = {
-["show"] = false,
+"0/4 完成史诗地下城",
+["show"] = true,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["numRequired"] = 4,
+["isFinish"] = false,
+["text"] = "0/4",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
 },
 ["df-services-requested"] = {
 ["show"] = false,
@@ -4655,15 +4393,7 @@ false,
 ["show"] = false,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 5,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["numFulfilled"] = 0,
+["show"] = false,
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
@@ -4684,8 +4414,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -4817,6 +4546,49 @@ false,
 ["show"] = false,
 },
 },
+["bfa-horrific-vision"] = {
+[57847] = {
+["show"] = false,
+},
+[57848] = {
+["show"] = false,
+},
+[57841] = {
+["show"] = false,
+},
+[57842] = {
+["show"] = false,
+},
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
+["show"] = false,
+},
+["sl-replenish-the-reservoir"] = {
+["show"] = false,
+},
+["tww-services-requested"] = {
+"2/2 完成炼金订单",
+["show"] = true,
+["isFinish"] = true,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+},
+["sl-shaping-fate"] = {
+["show"] = false,
+},
+["df-a-worthy-ally-loamm-niffen"] = {
+["show"] = false,
+},
 ["df-researchers-under-fire"] = {
 ["show"] = true,
 [75628] = {
@@ -4832,9 +4604,6 @@ false,
 ["show"] = false,
 },
 },
-["sl-replenish-the-reservoir"] = {
-["show"] = false,
-},
 ["tww-gearing-up-for-trouble"] = {
 "0/1 与代言人库尔达斯谈一谈并开始主机觉醒（可选）",
 "0/20 清除敌人波次",
@@ -4846,18 +4615,6 @@ false,
 ["text"] = "0/1 0/20",
 ["objectiveType"] = "monster",
 ["numFulfilled"] = 0,
-},
-["sl-shaping-fate"] = {
-["show"] = false,
-},
-["df-a-worthy-ally-loamm-niffen"] = {
-["show"] = false,
-},
-["df-sparks-of-life"] = {
-["show"] = false,
-},
-["sl-covenant-assault"] = {
-["show"] = false,
 },
 ["tww-delves"] = {
 "0/3 完成任意地心之战地下堡",
@@ -4871,25 +4628,25 @@ false,
 ["numFulfilled"] = 0,
 },
 ["tww-archives"] = {
-"0/100 泰坦圆盘碎片",
+"20/100 泰坦圆盘碎片",
 ["show"] = true,
 ["isFinish"] = false,
 ["isComplete"] = false,
 ["numRequired"] = 100,
 ["leaderboardCount"] = 1,
-["text"] = "0/100",
+["text"] = "20/100",
 ["objectiveType"] = "item",
-["numFulfilled"] = 0,
+["numFulfilled"] = 20,
 },
 ["df-primal-storms-core"] = {
 ["show"] = true,
 [70753] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 [70723] = {
@@ -4898,7 +4655,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 },
@@ -4962,27 +4719,6 @@ false,
 ["df-trial-of-elements"] = {
 ["show"] = false,
 },
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[56064] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
-},
 ["tww-siren-isle-weekly"] = {
 [84850] = {
 ["show"] = false,
@@ -5037,19 +4773,54 @@ false,
 ["show"] = false,
 },
 },
+["tww-the-call-of-the-worldsoul"] = {
+"0/6 完成卡兹阿加世界任务",
+["show"] = true,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["numRequired"] = 6,
+["isFinish"] = false,
+["text"] = "0/6",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
+},
 ["call-to-delves"] = {
 ["show"] = false,
 },
-["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
-},
-["tww-biergoth-dungeon-quest"] = {
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
 ["show"] = false,
 },
-["tww-the-theater-trope"] = {
+[56064] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
+},
+["tww-biergoth-dungeon-quest"] = {
+"0/1 赶走风险投资公司",
 ["show"] = true,
-["isComplete"] = true,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["numRequired"] = 1,
+["isFinish"] = false,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
+},
+["tww-the-theater-trope"] = {
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -5105,54 +4876,28 @@ false,
 ["show"] = false,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
 ["isFinish"] = false,
 ["isComplete"] = false,
 ["numRequired"] = 100,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 },
 ["sl-patterns-within-patterns"] = {
 ["show"] = false,
 },
-["tww-services-requested"] = {
-["show"] = true,
-["isComplete"] = true,
-},
-["bfa-horrific-vision"] = {
-[57847] = {
+["sl-covenant-assault"] = {
 ["show"] = false,
 },
-[57848] = {
-["show"] = false,
-},
-[57841] = {
-["show"] = false,
-},
-[57842] = {
-["show"] = false,
-},
-[57843] = {
-["show"] = false,
-},
-[57844] = {
-["show"] = false,
-},
-[57845] = {
-["show"] = false,
-},
-[57846] = {
-["show"] = false,
-},
+["df-sparks-of-life"] = {
 ["show"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["tww-pvp-weekly"] = {
 ["show"] = false,
@@ -5170,31 +4915,24 @@ false,
 ["show"] = false,
 },
 },
-["MythicKey"] = {
-},
-["lastboss"] = "地精教父",
-["MythicPlusScore"] = 0,
-["MaxXP"] = 100000000,
-["PlayedLevel"] = 438000,
-["WeeklyResetTime"] = 1742425199,
-["Order"] = 3,
 ["Skills"] = {
+["2216"] = {
+["Expires"] = 1743141641,
+["Title"] = "炼金术: 卡兹阿加转化",
 },
-["Zone"] = "多恩诺嘉尔",
-["oRace"] = "NightElf",
+},
+["Order"] = 3,
+["BGBRating"] = {
+[2] = 0,
+},
 },
 ["醉听箫鼓 - 冰风岗"] = {
-["lastbossyell"] = "米谢尔·舒维瑟尔",
+["Arena3v3rating"] = 0,
 ["isResting"] = true,
 ["Emissary"] = {
 [7] = {
 ["unlocked"] = true,
 ["days"] = {
-{
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
-},
 {
 ["isFinish"] = false,
 ["questDone"] = 0,
@@ -5206,6 +4944,20 @@ false,
 },
 },
 {
+["isComplete"] = false,
+["questDone"] = 0,
+["isFinish"] = false,
+["questReward"] = {
+["itemName"] = "艾泽里特护甲箱",
+["itemLvl"] = 100,
+["quality"] = 4,
+},
+},
+{
+["questReward"] = {
+["quantity"] = 35,
+["currencyID"] = 1721,
+},
 ["questDone"] = 0,
 ["isFinish"] = false,
 ["isComplete"] = false,
@@ -5214,158 +4966,197 @@ false,
 },
 },
 ["Race"] = "狐人",
-["BGBRating"] = {
-[3] = 0,
-},
+["LClass"] = "法师",
 ["RBGrating"] = 0,
 ["SoloShuffleRating"] = {
 0,
 [3] = 0,
 },
-["lastbosstime"] = 1741420870,
-["Show"] = "always",
+["lastbosstime"] = 1742724714,
+["Covenant"] = 3,
 ["TimewornMythicKey"] = {
 },
-["Calling"] = {
-{
-["isCompleted"] = false,
-["title"] = "玛卓克萨斯的召唤",
-["questID"] = 60420,
-["expiredTime"] = 1742425199,
-["isOnQuest"] = false,
-},
-{
-["isCompleted"] = false,
-["title"] = "雷文德斯的挑战",
-["questID"] = 60435,
-["expiredTime"] = 1742511599,
-["isOnQuest"] = false,
-},
-{
-["isCompleted"] = false,
-["title"] = "协助玛卓克萨斯",
-["questID"] = 60383,
-["expiredTime"] = 1742597999,
-["isOnQuest"] = false,
-},
-["unlocked"] = true,
-},
-["ILe"] = 610.5625,
+["Faction"] = "Horde",
+["ILe"] = 627.5625,
 ["Quests"] = {
+[82706] = {
+["Expires"] = 1743634799,
+["Title"] = "地下堡：全球研究",
+["Link"] = "|cffffff00|Hquest:82706:90|h[地下堡：全球研究]|h|r",
+},
 [82678] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：第一个圆盘",
 ["Link"] = "|cffffff00|Hquest:82678:90|h[档案馆：第一个圆盘]|h|r",
 },
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
+[82679] = {
+["Expires"] = 1743634799,
+["Title"] = "档案馆：追寻历史",
+["Link"] = "|cffffff00|Hquest:82679:90|h[档案馆：追寻历史]|h|r",
 },
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-["Title"] = "世界之魂：世界任务",
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82505] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82505:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
-["Title"] = "剧场巡演",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
+[84128] = {
+["Expires"] = 1743634799,
+["Title"] = "工程学指名服务",
+["Link"] = "|cffffff00|Hquest:84128:90|h[工程学指名服务]|h|r",
 },
 },
 ["Paragon"] = {
+2605,
 },
-["IL"] = 610.5625,
+["IL"] = 627.5625,
 ["Zone"] = "多恩诺嘉尔",
+["Order"] = 50,
+["Class"] = "MAGE",
+["SpecializationIDs"] = {
+62,
+63,
+64,
+},
+["ILPvp"] = 627.5625,
+["lastbossyell"] = "索尼布里德",
+["currency"] = {
+[2917] = {
+["amount"] = 0,
+},
+[515] = {
+["amount"] = 47,
+},
+[3028] = {
+["relatedItemCount"] = 0,
+["amount"] = 2,
+},
+[3107] = {
+["totalEarned"] = 36,
+["totalMax"] = 450,
+["amount"] = 36,
+},
+[1810] = {
+["covenant"] = {
+[3] = 37,
+},
+["totalMax"] = 100,
+["amount"] = 37,
+},
+[2533] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[3108] = {
+["totalEarned"] = 61,
+["totalMax"] = 450,
+["amount"] = 126,
+},
+[1889] = {
+["amount"] = 8,
+},
+[1767] = {
+["amount"] = 4127,
+},
+[3132] = {
+["totalEarned"] = 1,
+["totalMax"] = 4,
+["amount"] = 3,
+},
+[2912] = {
+["totalMax"] = 9,
+["amount"] = 9,
+},
+[3109] = {
+["totalEarned"] = 25,
+["totalMax"] = 360,
+["amount"] = 25,
+},
+[3023] = {
+["totalEarned"] = 22,
+["totalMax"] = 28,
+["amount"] = 22,
+},
+[3110] = {
+["totalEarned"] = 4,
+["totalMax"] = 360,
+["amount"] = 4,
+},
+[2803] = {
+["amount"] = 1858,
+},
+[3008] = {
+["totalMax"] = 2000,
+["amount"] = 1247,
+},
+[2914] = {
+["amount"] = 0,
+},
+[2796] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[1166] = {
+["amount"] = 11826,
+},
+[1560] = {
+["amount"] = 234,
+},
+[1816] = {
+["amount"] = 432,
+},
+[1820] = {
+["totalMax"] = 100,
+["amount"] = 100,
+},
+[1828] = {
+["amount"] = 2405,
+},
+[2813] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[3089] = {
+["amount"] = 0,
+},
+[824] = {
+["totalMax"] = 10000,
+["amount"] = 221,
+},
+[2916] = {
+["amount"] = 0,
+},
+[2815] = {
+["amount"] = 19041,
+},
+[3090] = {
+["amount"] = 47,
+},
+[2915] = {
+["amount"] = 0,
+},
+[1822] = {
+["covenant"] = {
+[3] = 21,
+},
+["totalMax"] = 80,
+["amount"] = 21,
+},
+[3116] = {
+["totalMax"] = 8,
+["amount"] = 2,
+},
+[1813] = {
+["covenant"] = {
+[3] = 582,
+},
+["totalMax"] = 200000,
+["amount"] = 582,
+},
+[3100] = {
+["amount"] = 0,
+},
+[3056] = {
+["amount"] = 9531,
+},
+},
+["Skills"] = {
+},
+["Warmode"] = false,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -5388,26 +5179,25 @@ false,
 ["df-aiding-the-accord"] = {
 ["show"] = false,
 },
-["great-vault-world"] = {
-["unlocked"] = true,
-["rewardWaiting"] = false,
+["df-siege-on-dragonbane-keep"] = {
+["show"] = false,
 },
 ["df-services-requested"] = {
 ["show"] = false,
 },
 ["emissary-of-war"] = {
-["show"] = false,
+"0/4 完成史诗地下城",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 4,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/4",
+["objectiveType"] = "object",
+["isFinish"] = false,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 5,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["numFulfilled"] = 0,
+["show"] = false,
 },
 ["df-primal-storms-elementals"] = {
 [73998] = {
@@ -5460,8 +5250,9 @@ false,
 ["show"] = false,
 },
 },
-["df-the-superbloom"] = {
-["show"] = false,
+["great-vault-world"] = {
+["unlocked"] = true,
+["rewardWaiting"] = false,
 },
 ["great-vault-raid"] = {
 ["unlocked"] = true,
@@ -5535,8 +5326,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -5547,7 +5337,15 @@ false,
 ["show"] = false,
 },
 ["tww-rollin-down-in-the-deeps"] = {
-["show"] = false,
+"0/10 收集怪异蜡团",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 10,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/10",
+["objectiveType"] = "monster",
+["isFinish"] = false,
 },
 ["df-secured-shipment"] = {
 ["show"] = false,
@@ -5619,35 +5417,23 @@ false,
 ["df-a-worthy-ally-loamm-niffen"] = {
 ["show"] = false,
 },
-["df-researchers-under-fire"] = {
-["show"] = true,
-[75628] = {
+["df-sparks-of-life"] = {
 ["show"] = false,
-},
-[75629] = {
-["show"] = false,
-},
-[75630] = {
-["show"] = false,
-},
-[75627] = {
-["show"] = false,
-},
 },
 ["sl-covenant-assault"] = {
 ["show"] = false,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (40%)",
+"在艾基-卡赫特完成活动 (80%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
 ["isFinish"] = false,
 ["isComplete"] = false,
 ["numRequired"] = 100,
 ["leaderboardCount"] = 2,
-["text"] = "40% 0/1",
+["text"] = "80% 0/1",
 ["objectiveType"] = "progressbar",
-["numFulfilled"] = 40,
+["numFulfilled"] = 80,
 },
 ["tww-archives"] = {
 ["show"] = true,
@@ -5658,10 +5444,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 [70723] = {
@@ -5670,7 +5456,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 },
@@ -5690,6 +5476,41 @@ false,
 ["numFulfilled"] = 0,
 },
 ["df-trial-of-elements"] = {
+["show"] = false,
+},
+["tww-the-call-of-the-worldsoul"] = {
+"0/6 完成卡兹阿加世界任务",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 6,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/6",
+["objectiveType"] = "object",
+["isFinish"] = false,
+},
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+},
+["call-to-delves"] = {
 ["show"] = false,
 },
 ["tww-siren-isle-weekly"] = {
@@ -5746,40 +5567,20 @@ false,
 ["show"] = false,
 },
 },
-["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
-},
-["call-to-delves"] = {
-["show"] = false,
-},
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[56064] = {
-["show"] = false,
-},
-},
 ["sl-patterns-within-patterns"] = {
 ["show"] = false,
 },
 ["tww-the-theater-trope"] = {
+"15/50 赢得观众的认可",
+"1/1 完成一场剧场巡演",
 ["show"] = true,
-["isComplete"] = true,
+["numFulfilled"] = 15,
+["numRequired"] = 50,
+["isComplete"] = false,
+["leaderboardCount"] = 2,
+["text"] = "15/50",
+["objectiveType"] = "monster",
+["isFinish"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -5788,8 +5589,7 @@ false,
 ["show"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["tww-special-assignments"] = {
 [81691] = {
@@ -5828,29 +5628,19 @@ false,
 ["show"] = false,
 },
 ["tww-delves"] = {
-"0/3 完成任意地心之战地下堡",
 ["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 3,
-["leaderboardCount"] = 1,
-["text"] = "0/3",
-["objectiveType"] = "object",
-["numFulfilled"] = 0,
+["isComplete"] = true,
 },
 ["bfa-island"] = {
 "0/36000 在海岛探险中收集36000份艾泽里特",
 ["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
+["numFulfilled"] = 0,
 ["numRequired"] = 36000,
+["isComplete"] = false,
 ["leaderboardCount"] = 1,
 ["text"] = "0/36000",
 ["objectiveType"] = "monster",
-["numFulfilled"] = 0,
-},
-["df-sparks-of-life"] = {
-["show"] = false,
+["isFinish"] = false,
 },
 ["bfa-horrific-vision"] = {
 [57847] = {
@@ -5879,6 +5669,21 @@ false,
 },
 ["show"] = false,
 },
+["df-researchers-under-fire"] = {
+["show"] = true,
+[75628] = {
+["show"] = false,
+},
+[75629] = {
+["show"] = false,
+},
+[75630] = {
+["show"] = false,
+},
+[75627] = {
+["show"] = false,
+},
+},
 ["df-time-rift"] = {
 ["show"] = false,
 },
@@ -5886,7 +5691,15 @@ false,
 ["show"] = false,
 },
 ["tww-biergoth-dungeon-quest"] = {
-["show"] = false,
+"0/1 赶走风险投资公司",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 1,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["isFinish"] = false,
 },
 ["df-the-big-dig-traitors-rest"] = {
 ["show"] = false,
@@ -5894,154 +5707,12 @@ false,
 ["df-disciple-of-fyrakk"] = {
 ["show"] = false,
 },
-["df-siege-on-dragonbane-keep"] = {
+["df-the-superbloom"] = {
 ["show"] = false,
 },
 },
-["Class"] = "MAGE",
-["Faction"] = "Horde",
-["ILPvp"] = 610.5625,
-["LClass"] = "法师",
-["currency"] = {
-[824] = {
-["totalMax"] = 10000,
-["amount"] = 221,
-},
-[2815] = {
-["amount"] = 16030,
-},
-[3028] = {
-["relatedItemCount"] = 0,
-["amount"] = 3,
-},
-[3107] = {
-["totalEarned"] = 20,
-["totalMax"] = 270,
-["amount"] = 20,
-},
-[1810] = {
-["covenant"] = {
-[3] = 37,
-},
-["totalMax"] = 100,
-["amount"] = 37,
-},
-[2533] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[3108] = {
-["totalEarned"] = 24,
-["totalMax"] = 270,
-["amount"] = 49,
-},
-[3116] = {
-["totalMax"] = 8,
-["amount"] = 1,
-},
-[1767] = {
-["amount"] = 4127,
-},
-[3132] = {
-["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
-},
-[2912] = {
-["totalMax"] = 9,
-["amount"] = 9,
-},
-[3023] = {
-["totalEarned"] = 22,
-["totalMax"] = 28,
-["amount"] = 22,
-},
-[2803] = {
-["amount"] = 0,
-},
-[3008] = {
-["totalMax"] = 2000,
-["amount"] = 400,
-},
-[2914] = {
-["amount"] = 0,
-},
-[2796] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[3056] = {
-["amount"] = 11601,
-},
-[1560] = {
-["amount"] = 234,
-},
-[1816] = {
-["amount"] = 432,
-},
-[1820] = {
-["totalMax"] = 100,
-["amount"] = 100,
-},
-[1828] = {
-["amount"] = 2405,
-},
-[2813] = {
-["totalMax"] = 8,
-["amount"] = 7,
-},
-[3089] = {
-["amount"] = 0,
-},
-[3100] = {
-["amount"] = 0,
-},
-[2916] = {
-["amount"] = 0,
-},
-[1166] = {
-["amount"] = 11826,
-},
-[3090] = {
-["amount"] = 47,
-},
-[515] = {
-["amount"] = 47,
-},
-[1822] = {
-["covenant"] = {
-[3] = 21,
-},
-["totalMax"] = 80,
-["amount"] = 21,
-},
-[1889] = {
-["amount"] = 8,
-},
-[1813] = {
-["covenant"] = {
-[3] = 582,
-},
-["totalMax"] = 200000,
-["amount"] = 582,
-},
-[2915] = {
-["amount"] = 0,
-},
-[2917] = {
-["amount"] = 0,
-},
-},
-["Skills"] = {
-},
-["Warmode"] = false,
-["SpecializationIDs"] = {
-62,
-63,
-64,
-},
 ["Level"] = 80,
-["oRace"] = "Vulpera",
+["WeeklyResetTime"] = 1743634799,
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -6064,25 +5735,50 @@ false,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = false,
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = true,
 },
-["PlayedTotal"] = 310517,
+["PlayedTotal"] = 328351,
 ["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1741420521,
-["Money"] = 5453938010,
+["lastbossyelltime"] = 1743091784,
+["Money"] = 5932373355,
 ["MythicKey"] = {
 },
 ["MaxXP"] = 100000000,
+["lastboss"] = "古墓掠影者干须: 地下堡",
 ["MythicPlusScore"] = 0,
-["lastboss"] = "nil",
-["WeeklyResetTime"] = 1742425199,
-["PlayedLevel"] = 100613,
-["Order"] = 50,
-["Covenant"] = 3,
-["DailyResetTime"] = 1742425199,
-["Arena3v3rating"] = 0,
-["LastSeen"] = 1742342121,
+["BGBRating"] = {
+[3] = 0,
+},
+["PlayedLevel"] = 118447,
+["Show"] = "always",
+["LastSeen"] = 1743117293,
+["DailyResetTime"] = 1743202799,
+["Calling"] = {
+{
+["isCompleted"] = false,
+["title"] = "雷文德斯的召唤",
+["questID"] = 60421,
+["expiredTime"] = 1743202799,
+["isOnQuest"] = false,
+},
+{
+["isCompleted"] = false,
+["title"] = "稀有资源",
+["questID"] = 60414,
+["expiredTime"] = 1743289199,
+["isOnQuest"] = false,
+},
+{
+["isCompleted"] = false,
+["title"] = "协助炽蓝仙野",
+["questID"] = 60381,
+["expiredTime"] = 1743375599,
+["isOnQuest"] = false,
+},
+["unlocked"] = true,
+},
+["oRace"] = "Vulpera",
 },
 ["诶得得 - 玛洛加尔"] = {
 ["Arena3v3rating"] = 0,
@@ -6098,8 +5794,8 @@ false,
 },
 {
 ["questDone"] = 0,
-["isFinish"] = false,
 ["isComplete"] = false,
+["isFinish"] = false,
 },
 {
 ["questDone"] = 0,
@@ -6208,33 +5904,6 @@ false,
 ["df-fighting-is-its-own-reward"] = {
 ["show"] = false,
 },
-["df-sparks-of-life"] = {
-["show"] = false,
-},
-["sl-replenish-the-reservoir"] = {
-["show"] = false,
-},
-["df-researchers-under-fire"] = {
-["show"] = true,
-[75628] = {
-["show"] = false,
-},
-[75629] = {
-["show"] = false,
-},
-[75630] = {
-["show"] = false,
-},
-[75627] = {
-["show"] = false,
-},
-},
-["sl-shaping-fate"] = {
-["show"] = false,
-},
-["df-a-worthy-ally-loamm-niffen"] = {
-["show"] = false,
-},
 ["bfa-horrific-vision"] = {
 [57847] = {
 ["show"] = false,
@@ -6262,7 +5931,34 @@ false,
 },
 ["show"] = false,
 },
-["tww-gearing-up-for-trouble"] = {
+["sl-replenish-the-reservoir"] = {
+["show"] = false,
+},
+["df-sparks-of-life"] = {
+["show"] = false,
+},
+["sl-shaping-fate"] = {
+["show"] = false,
+},
+["df-a-worthy-ally-loamm-niffen"] = {
+["show"] = false,
+},
+["df-researchers-under-fire"] = {
+["show"] = true,
+[75628] = {
+["show"] = false,
+},
+[75629] = {
+["show"] = false,
+},
+[75630] = {
+["show"] = false,
+},
+[75627] = {
+["show"] = false,
+},
+},
+["tww-services-requested"] = {
 ["show"] = false,
 },
 ["bfa-island"] = {
@@ -6284,10 +5980,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 [70723] = {
@@ -6296,7 +5992,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 },
@@ -6462,10 +6158,10 @@ false,
 ["The Severed Threads"] = {
 ["show"] = false,
 },
-["tww-services-requested"] = {
+["sl-covenant-assault"] = {
 ["show"] = false,
 },
-["sl-covenant-assault"] = {
+["tww-gearing-up-for-trouble"] = {
 ["show"] = false,
 },
 ["tww-pvp-weekly"] = {
@@ -6581,16 +6277,18 @@ false,
 ["totalMax"] = 5000,
 ["amount"] = 770,
 },
-[2796] = {
-["totalMax"] = 8,
-["amount"] = 8,
+[824] = {
+["totalMax"] = 10000,
+["amount"] = 1483,
 },
 [2912] = {
 ["totalMax"] = 9,
 ["amount"] = 9,
 },
-[1501] = {
-["amount"] = 4,
+[1129] = {
+["weeklyMax"] = 3,
+["totalMax"] = 20,
+["amount"] = 7,
 },
 [1273] = {
 ["weeklyMax"] = 3,
@@ -6600,8 +6298,9 @@ false,
 [777] = {
 ["amount"] = 4232,
 },
-[1275] = {
-["amount"] = 32,
+[2796] = {
+["totalMax"] = 8,
+["amount"] = 8,
 },
 [416] = {
 ["amount"] = 16,
@@ -6609,10 +6308,8 @@ false,
 [515] = {
 ["amount"] = 0,
 },
-[1129] = {
-["weeklyMax"] = 3,
-["totalMax"] = 20,
-["amount"] = 7,
+[1191] = {
+["amount"] = 0,
 },
 [1155] = {
 ["totalMax"] = 300,
@@ -6632,8 +6329,8 @@ false,
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
-[1191] = {
-["amount"] = 0,
+[1501] = {
+["amount"] = 4,
 },
 [1533] = {
 ["amount"] = 237,
@@ -6658,9 +6355,8 @@ false,
 ["totalMax"] = 2000,
 ["amount"] = 359,
 },
-[824] = {
-["totalMax"] = 10000,
-["amount"] = 1483,
+[1275] = {
+["amount"] = 32,
 },
 [823] = {
 ["amount"] = 21843,
@@ -6693,7 +6389,7 @@ false,
 ["Money"] = 4140419,
 ["PlayedTotal"] = 2241541,
 ["Order"] = 50,
-["WeeklyResetTime"] = 1742425199,
+["WeeklyResetTime"] = 1743634799,
 ["MythicPlusScore"] = 0,
 ["MaxXP"] = 36305,
 ["PlayedLevel"] = 7809,
@@ -6703,172 +6399,60 @@ false,
 254,
 255,
 },
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["MythicKeyBest"] = {
 ["threshold"] = {
 1,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
 },
 ["LClass"] = "猎人",
 },
 ["红尘如狱 - 熊猫酒仙"] = {
-["Arena3v3rating"] = 0,
+["lastbossyell"] = "传令官布雷西雅",
 ["isResting"] = true,
 ["Emissary"] = {
 },
 ["Race"] = "虚空精灵",
-["BGBRating"] = {
-0,
-0,
-},
+["LClass"] = "死亡骑士",
 ["RBGrating"] = 0,
 ["SoloShuffleRating"] = {
 0,
 0,
 [5] = 0,
 },
-["lastbosstime"] = 1741792703,
-["IL"] = 635.8125,
-["Show"] = "always",
+["lastbosstime"] = 1743002111,
+["Covenant"] = 0,
 ["TimewornMythicKey"] = {
 },
-["MaxXP"] = 100000000,
 ["Calling"] = {
 {
 ["isCompleted"] = true,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742425199,
+["expiredTime"] = 1743202799,
 },
 {
 ["isCompleted"] = true,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742511599,
+["expiredTime"] = 1743289199,
 },
 {
-["isCompleted"] = true,
+["isCompleted"] = false,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742597999,
+["expiredTime"] = 1743375599,
 },
-["unlocked"] = true,
 },
 ["ILe"] = 635.625,
 ["Quests"] = {
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
 [82746] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "地下堡：打败强敌以获取战利品",
 ["Link"] = "|cffffff00|Hquest:82746:90|h[地下堡：打败强敌以获取战利品]|h|r",
 },
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-["Title"] = "世界之魂：世界任务",
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82505] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82505:90|h[世界之魂：矶石宝库]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
-["Title"] = "剧场巡演",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
 [84133] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:84133:90|h[炼金指名服务]|h|r",
-["Title"] = "炼金指名服务",
+["Expires"] = 1743634799,
 ["Zone"] = {
 ["mapType"] = 3,
 ["mapID"] = 2339,
@@ -6876,9 +6460,11 @@ false,
 ["parentMapID"] = 2248,
 ["flags"] = 1048580,
 },
+["Title"] = "炼金指名服务",
+["Link"] = "|cffffff00|Hquest:84133:90|h[炼金指名服务]|h|r",
 },
 [81090] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743202799,
 ["Title"] = "炼金奇术",
 ["isDaily"] = true,
 },
@@ -6887,7 +6473,7 @@ false,
 2590,
 },
 ["oRace"] = "VoidElf",
-["LastSeen"] = 1742343524,
+["Zone"] = "多恩诺嘉尔",
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -6920,15 +6506,7 @@ false,
 ["show"] = false,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 5,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["numFulfilled"] = 0,
+["show"] = false,
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
@@ -7010,17 +6588,64 @@ false,
 ["tww-rollin-down-in-the-deeps"] = {
 "0/10 收集怪异蜡团",
 ["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 10,
+["isFinish"] = false,
 ["isComplete"] = false,
+["numRequired"] = 10,
 ["leaderboardCount"] = 1,
 ["text"] = "0/10",
 ["objectiveType"] = "monster",
-["isFinish"] = false,
+["numFulfilled"] = 0,
 },
 ["tww-the-key-to-success"] = {
+["show"] = false,
+},
+["bfa-horrific-vision"] = {
+[57847] = {
+["show"] = false,
+},
+[57848] = {
+["show"] = false,
+},
+[57841] = {
+["show"] = false,
+},
+[57842] = {
+["show"] = false,
+},
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
+["show"] = false,
+},
+["sl-replenish-the-reservoir"] = {
+["show"] = false,
+},
+["tww-services-requested"] = {
 ["show"] = true,
 ["isComplete"] = true,
+},
+["bfa-island"] = {
+"0/36000 在海岛探险中收集36000份艾泽里特",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 36000,
+["leaderboardCount"] = 1,
+["text"] = "0/36000",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
+},
+["df-a-worthy-ally-loamm-niffen"] = {
+["show"] = false,
 },
 ["df-researchers-under-fire"] = {
 ["show"] = true,
@@ -7037,73 +6662,41 @@ false,
 ["show"] = false,
 },
 },
-["sl-replenish-the-reservoir"] = {
-["show"] = false,
-},
 ["sl-covenant-assault"] = {
 ["show"] = false,
 },
-["bfa-island"] = {
-"0/36000 在海岛探险中收集36000份艾泽里特",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 36000,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/36000",
-["objectiveType"] = "monster",
-["isFinish"] = false,
-},
-["df-a-worthy-ally-loamm-niffen"] = {
-["show"] = false,
-},
-["df-sparks-of-life"] = {
-["show"] = false,
-},
-["tww-gearing-up-for-trouble"] = {
-"0/1 与代言人库尔达斯谈一谈并开始主机觉醒（可选）",
-"0/20 清除敌人波次",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 1,
-["leaderboardCount"] = 2,
-["text"] = "0/1 0/20",
-["objectiveType"] = "monster",
-["numFulfilled"] = 0,
-},
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
 ["isFinish"] = false,
 ["isComplete"] = false,
 ["numRequired"] = 100,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 },
 ["tww-archives"] = {
-"0/100 泰坦圆盘碎片",
+"20/100 泰坦圆盘碎片",
 ["show"] = true,
 ["isFinish"] = false,
 ["isComplete"] = false,
 ["numRequired"] = 100,
 ["leaderboardCount"] = 1,
-["text"] = "0/100",
+["text"] = "20/100",
 ["objectiveType"] = "item",
-["numFulfilled"] = 0,
+["numFulfilled"] = 20,
 },
 ["df-primal-storms-core"] = {
 ["show"] = true,
 [70753] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 [70723] = {
@@ -7112,7 +6705,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 },
@@ -7125,33 +6718,16 @@ false,
 ["df-trial-of-elements"] = {
 ["show"] = false,
 },
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[56064] = {
-["show"] = false,
-},
-},
 ["tww-the-call-of-the-worldsoul"] = {
+"0/6 完成卡兹阿加世界任务",
 ["show"] = true,
-["isComplete"] = true,
-},
-["call-to-delves"] = {
-["show"] = false,
+["numFulfilled"] = 0,
+["numRequired"] = 6,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/6",
+["objectiveType"] = "object",
+["isFinish"] = false,
 },
 ["tww-siren-isle-weekly"] = {
 [84850] = {
@@ -7207,12 +6783,43 @@ false,
 ["show"] = false,
 },
 },
-["tww-biergoth-dungeon-quest"] = {
+["call-to-delves"] = {
 ["show"] = false,
 },
-["tww-the-theater-trope"] = {
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+},
+["tww-biergoth-dungeon-quest"] = {
+"0/1 赶走风险投资公司",
 ["show"] = true,
-["isComplete"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 1,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["isFinish"] = false,
+},
+["tww-the-theater-trope"] = {
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -7324,35 +6931,19 @@ false,
 ["sl-shaping-fate"] = {
 ["show"] = false,
 },
-["tww-services-requested"] = {
+["tww-gearing-up-for-trouble"] = {
+"0/1 与代言人库尔达斯谈一谈并开始主机觉醒（可选）",
+"0/20 清除敌人波次",
 ["show"] = true,
-["isComplete"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 1,
+["leaderboardCount"] = 2,
+["text"] = "0/1 0/20",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
 },
-["bfa-horrific-vision"] = {
-[57847] = {
-["show"] = false,
-},
-[57848] = {
-["show"] = false,
-},
-[57841] = {
-["show"] = false,
-},
-[57842] = {
-["show"] = false,
-},
-[57843] = {
-["show"] = false,
-},
-[57844] = {
-["show"] = false,
-},
-[57845] = {
-["show"] = false,
-},
-[57846] = {
-["show"] = false,
-},
+["df-sparks-of-life"] = {
 ["show"] = false,
 },
 ["df-primal-storms-elementals"] = {
@@ -7423,8 +7014,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -7432,13 +7022,24 @@ false,
 ["show"] = true,
 },
 ["emissary-of-war"] = {
-["show"] = false,
+"0/4 完成史诗地下城",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 4,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/4",
+["objectiveType"] = "object",
+["isFinish"] = false,
 },
 },
 ["Class"] = "DEATHKNIGHT",
-["LClass"] = "死亡骑士",
-["ILPvp"] = 635.8125,
-["lastbossyell"] = "传令官布雷西雅",
+["IL"] = 635.625,
+["ILPvp"] = 635.625,
+["BGBRating"] = {
+0,
+0,
+},
 ["currency"] = {
 [2803] = {
 ["amount"] = 0,
@@ -7454,51 +7055,51 @@ false,
 ["amount"] = 8,
 },
 [2815] = {
-["amount"] = 31302,
+["amount"] = 31867,
 },
-[2245] = {
-["totalMax"] = 2000,
-["amount"] = 0,
+[3132] = {
+["totalEarned"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
 },
 [2912] = {
 ["totalMax"] = 9,
 ["amount"] = 9,
 },
-[2914] = {
+[3100] = {
 ["amount"] = 0,
 },
 [2916] = {
 ["amount"] = 0,
 },
 [3028] = {
-["amount"] = 3,
 ["relatedItemCount"] = 0,
+["amount"] = 6,
 },
 [2796] = {
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
 [3108] = {
-["totalEarned"] = 34,
-["amount"] = 59,
-["totalMax"] = 270,
+["totalEarned"] = 65,
+["totalMax"] = 450,
+["amount"] = 105,
 },
 [515] = {
 ["amount"] = 40,
 },
-[3100] = {
+[2914] = {
 ["amount"] = 0,
 },
-[3090] = {
-["amount"] = 1327,
+[2003] = {
+["amount"] = 954,
 },
-[3023] = {
-["totalEarned"] = 23,
-["amount"] = 23,
-["totalMax"] = 28,
+[3116] = {
+["totalMax"] = 8,
+["amount"] = 2,
 },
 [3056] = {
-["amount"] = 10198,
+["amount"] = 7228,
 },
 [3089] = {
 ["amount"] = 440,
@@ -7507,19 +7108,20 @@ false,
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
-[2806] = {
-["amount"] = 0,
-},
-[3116] = {
-["totalMax"] = 8,
-["amount"] = 1,
+[3023] = {
+["totalEarned"] = 23,
+["totalMax"] = 28,
+["amount"] = 23,
 },
 [3008] = {
 ["totalMax"] = 2000,
-["amount"] = 421,
+["amount"] = 792,
 },
-[2003] = {
-["amount"] = 954,
+[3090] = {
+["amount"] = 1327,
+},
+[2806] = {
+["amount"] = 0,
 },
 [2915] = {
 ["amount"] = 0,
@@ -7531,28 +7133,36 @@ false,
 ["amount"] = 7700,
 },
 [3107] = {
-["totalEarned"] = 16,
-["amount"] = 16,
-["totalMax"] = 270,
+["totalEarned"] = 41,
+["totalMax"] = 450,
+["amount"] = 41,
 },
 [81] = {
 ["amount"] = 1,
 },
-[3132] = {
-["totalEarned"] = 1,
-["amount"] = 1,
-["totalMax"] = 2,
+[2245] = {
+["totalMax"] = 2000,
+["amount"] = 0,
 },
 },
 ["Skills"] = {
 ["2216"] = {
-["Expires"] = 1742344765,
+["Expires"] = 1743171199,
 ["Title"] = "炼金术: 卡兹阿加转化",
 },
 },
 ["Warmode"] = false,
-["Covenant"] = 0,
+["MythicKeyBest"] = {
+["threshold"] = {
+1,
+4,
+8,
+},
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = false,
+},
 ["Level"] = 80,
+["MaxXP"] = 100000000,
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -7571,32 +7181,25 @@ false,
 },
 ["MythicKey"] = {
 },
-["PlayedTotal"] = 852236,
+["PlayedTotal"] = 866586,
 ["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1741611394,
-["Money"] = 1607525839,
-["MythicKeyBest"] = {
-["threshold"] = {
-1,
-4,
-8,
-},
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = false,
-},
-["MythicPlusScore"] = 0,
+["lastbossyelltime"] = 1742727366,
+["Money"] = 3217955901,
+["Arena3v3rating"] = 0,
+["Order"] = 1,
 ["lastboss"] = "nil",
-["WeeklyResetTime"] = 1742425199,
-["PlayedLevel"] = 787419,
+["MythicPlusScore"] = 0,
+["LastSeen"] = 1743120635,
+["PlayedLevel"] = 801769,
+["Show"] = "always",
 ["Faction"] = "Alliance",
+["DailyResetTime"] = 1743202799,
 ["SpecializationIDs"] = {
 250,
 251,
 252,
 },
-["DailyResetTime"] = 1742425199,
-["Zone"] = "多恩诺嘉尔",
-["Order"] = 1,
+["WeeklyResetTime"] = 1743634799,
 },
 ["诸子百家 - 自由之风"] = {
 ["Arena3v3rating"] = 0,
@@ -7612,8 +7215,8 @@ false,
 },
 {
 ["questDone"] = 0,
-["isFinish"] = false,
 ["isComplete"] = false,
+["isFinish"] = false,
 },
 {
 ["questDone"] = 0,
@@ -7632,8 +7235,8 @@ false,
 },
 {
 ["questDone"] = 0,
-["isFinish"] = false,
 ["isComplete"] = false,
+["isFinish"] = false,
 },
 {
 ["questDone"] = 0,
@@ -7807,6 +7410,24 @@ false,
 ["df-time-rift"] = {
 ["show"] = false,
 },
+["df-researchers-under-fire"] = {
+["show"] = true,
+[75628] = {
+["show"] = false,
+},
+[75629] = {
+["show"] = false,
+},
+[75630] = {
+["show"] = false,
+},
+[75627] = {
+["show"] = false,
+},
+},
+["df-a-worthy-ally-loamm-niffen"] = {
+["show"] = false,
+},
 ["bfa-horrific-vision"] = {
 [57847] = {
 ["show"] = false,
@@ -7834,12 +7455,6 @@ false,
 },
 ["show"] = false,
 },
-["df-a-worthy-ally-loamm-niffen"] = {
-["show"] = false,
-},
-["df-sparks-of-life"] = {
-["show"] = false,
-},
 ["tww-services-requested"] = {
 ["show"] = false,
 },
@@ -7854,10 +7469,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 [70723] = {
@@ -7866,7 +7481,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 },
@@ -8028,20 +7643,8 @@ false,
 ["tww-gearing-up-for-trouble"] = {
 ["show"] = false,
 },
-["df-researchers-under-fire"] = {
-["show"] = true,
-[75628] = {
+["df-sparks-of-life"] = {
 ["show"] = false,
-},
-[75629] = {
-["show"] = false,
-},
-[75630] = {
-["show"] = false,
-},
-[75627] = {
-["show"] = false,
-},
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
@@ -8281,22 +7884,22 @@ false,
 {
 ["isCompleted"] = false,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742425199,
+["expiredTime"] = 1743202799,
 },
 {
 ["isCompleted"] = false,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742511599,
+["expiredTime"] = 1743289199,
 },
 {
 ["isCompleted"] = false,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742597999,
+["expiredTime"] = 1743375599,
 },
 ["unlocked"] = true,
 },
 ["Warmode"] = false,
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["Level"] = 60,
 ["XP"] = 0,
 ["Warfront"] = {
@@ -8323,7 +7926,7 @@ false,
 252,
 },
 ["oRace"] = "NightElf",
-["WeeklyResetTime"] = 1742425199,
+["WeeklyResetTime"] = 1743634799,
 ["MythicPlusScore"] = 0,
 ["Covenant"] = 3,
 ["PlayedLevel"] = 29406,
@@ -8334,7 +7937,7 @@ false,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
 },
 ["Skills"] = {
 },
@@ -8351,29 +7954,34 @@ false,
 ["unlocked"] = true,
 ["days"] = {
 {
+["isFinish"] = false,
+["questDone"] = 0,
+["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
+["itemName"] = "肯瑞托宝箱",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
+},
+{
+["questReward"] = {
+["itemName"] = "瓦拉加尔储物箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
 ["questDone"] = 0,
-["isFinish"] = false,
 ["isComplete"] = false,
+["isFinish"] = false,
 },
 {
+["isFinish"] = false,
+["questDone"] = 0,
+["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "至高岭贡品",
+["itemName"] = "镀金的大箱子",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
-},
-{
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
 },
 },
 },
@@ -8384,139 +7992,37 @@ false,
 ["SoloShuffleRating"] = {
 [3] = 0,
 },
-["lastbosstime"] = 1741618023,
+["lastbosstime"] = 1742720345,
 ["Show"] = "always",
 ["TimewornMythicKey"] = {
 },
 ["Faction"] = "Alliance",
-["ILe"] = 612.125,
+["ILe"] = 616.0625,
 ["Quests"] = {
+[84127] = {
+["Expires"] = 1743634799,
+["Link"] = "|cffffff00|Hquest:84127:90|h[锻造指名服务]|h|r",
+["Title"] = "锻造指名服务",
+["Zone"] = {
+["mapType"] = 3,
+["mapID"] = 2339,
+["name"] = "多恩诺嘉尔",
+["parentMapID"] = 2248,
+["flags"] = 1048580,
+},
+},
 [82678] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：第一个圆盘",
 ["Link"] = "|cffffff00|Hquest:82678:90|h[档案馆：第一个圆盘]|h|r",
-},
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-["Title"] = "世界之魂：世界任务",
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82505] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82505:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
-["Title"] = "剧场巡演",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[84127] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-["Title"] = "锻造指名服务",
-["Link"] = "|cffffff00|Hquest:84127:90|h[锻造指名服务]|h|r",
 },
 },
 ["Paragon"] = {
 },
-["oRace"] = "Human",
+["IL"] = 617.875,
 ["Zone"] = "多恩诺嘉尔",
+["Order"] = 50,
+["Class"] = "PALADIN",
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -8543,22 +8049,13 @@ false,
 ["show"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["the-world-awaits"] = {
 ["show"] = false,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 5,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["isFinish"] = false,
+["show"] = false,
 },
 ["df-primal-storms-elementals"] = {
 [73998] = {
@@ -8612,7 +8109,15 @@ false,
 },
 },
 ["tww-biergoth-dungeon-quest"] = {
-["show"] = false,
+"0/1 赶走风险投资公司",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 1,
+["leaderboardCount"] = 1,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
 },
 ["great-vault-raid"] = {
 ["unlocked"] = true,
@@ -8677,6 +8182,21 @@ false,
 ["df-the-superbloom"] = {
 ["show"] = false,
 },
+["df-sparks-of-life"] = {
+["show"] = false,
+},
+["sl-replenish-the-reservoir"] = {
+["show"] = false,
+},
+["tww-gearing-up-for-trouble"] = {
+["show"] = false,
+},
+["sl-shaping-fate"] = {
+["show"] = false,
+},
+["df-a-worthy-ally-loamm-niffen"] = {
+["show"] = false,
+},
 ["df-researchers-under-fire"] = {
 ["show"] = true,
 [75628] = {
@@ -8692,48 +8212,9 @@ false,
 ["show"] = false,
 },
 },
-["sl-replenish-the-reservoir"] = {
-["show"] = false,
-},
 ["tww-services-requested"] = {
 ["show"] = true,
 ["isComplete"] = true,
-},
-["sl-shaping-fate"] = {
-["show"] = false,
-},
-["df-a-worthy-ally-loamm-niffen"] = {
-["show"] = false,
-},
-["bfa-horrific-vision"] = {
-[57847] = {
-["show"] = false,
-},
-[57848] = {
-["show"] = false,
-},
-[57841] = {
-["show"] = false,
-},
-[57842] = {
-["show"] = false,
-},
-[57843] = {
-["show"] = false,
-},
-[57844] = {
-["show"] = false,
-},
-[57845] = {
-["show"] = false,
-},
-[57846] = {
-["show"] = false,
-},
-["show"] = false,
-},
-["sl-covenant-assault"] = {
-["show"] = false,
 },
 ["tww-delves"] = {
 "0/3 完成任意地心之战地下堡",
@@ -8751,16 +8232,16 @@ false,
 ["isComplete"] = true,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
+["numFulfilled"] = 60,
 ["numRequired"] = 100,
+["isComplete"] = false,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
-["numFulfilled"] = 20,
+["isFinish"] = false,
 },
 ["tww-brawl-weekly"] = {
 ["show"] = false,
@@ -8840,8 +8321,15 @@ false,
 ["show"] = false,
 },
 ["tww-the-call-of-the-worldsoul"] = {
+"0/6 完成卡兹阿加世界任务",
 ["show"] = true,
-["isComplete"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 6,
+["leaderboardCount"] = 1,
+["text"] = "0/6",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
 },
 ["tww-lesser-keyflame"] = {
 [78933] = {
@@ -8898,8 +8386,7 @@ false,
 },
 },
 ["tww-the-theater-trope"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -8969,10 +8456,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 [70723] = {
@@ -8981,17 +8468,41 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 },
 ["sl-patterns-within-patterns"] = {
 ["show"] = false,
 },
-["tww-gearing-up-for-trouble"] = {
+["sl-covenant-assault"] = {
 ["show"] = false,
 },
-["df-sparks-of-life"] = {
+["bfa-horrific-vision"] = {
+[57847] = {
+["show"] = false,
+},
+[57848] = {
+["show"] = false,
+},
+[57841] = {
+["show"] = false,
+},
+[57842] = {
+["show"] = false,
+},
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
 ["show"] = false,
 },
 ["great-vault-world"] = {
@@ -9044,33 +8555,35 @@ false,
 },
 },
 ["emissary-of-war"] = {
-["show"] = false,
+"0/4 完成史诗地下城",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 4,
+["leaderboardCount"] = 1,
+["text"] = "0/4",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
 },
 },
-["Class"] = "PALADIN",
-["lastbossyell"] = "传令官布雷西雅",
-["ILPvp"] = 616.4375,
-["SpecializationIDs"] = {
-65,
-66,
-70,
-},
+["ILPvp"] = 617.875,
+["oRace"] = "Human",
 ["currency"] = {
 [824] = {
 ["totalMax"] = 10000,
 ["amount"] = 234,
 },
 [2815] = {
-["amount"] = 24268,
+["amount"] = 24739,
 },
 [3028] = {
 ["relatedItemCount"] = 0,
-["amount"] = 2,
+["amount"] = 6,
 },
 [3107] = {
-["totalEarned"] = 10,
-["totalMax"] = 270,
-["amount"] = 10,
+["totalEarned"] = 36,
+["totalMax"] = 450,
+["amount"] = 36,
 },
 [1810] = {
 ["covenant"] = {
@@ -9079,9 +8592,8 @@ false,
 ["totalMax"] = 100,
 ["amount"] = 27,
 },
-[2533] = {
-["totalMax"] = 8,
-["amount"] = 8,
+[3100] = {
+["amount"] = 0,
 },
 [1822] = {
 ["covenant"] = {
@@ -9092,15 +8604,15 @@ false,
 },
 [3116] = {
 ["totalMax"] = 8,
-["amount"] = 1,
+["amount"] = 2,
 },
 [1767] = {
 ["amount"] = 1103,
 },
 [3132] = {
 ["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
 },
 [1275] = {
 ["amount"] = 43,
@@ -9130,7 +8642,7 @@ false,
 },
 [3008] = {
 ["totalMax"] = 2000,
-["amount"] = 351,
+["amount"] = 871,
 },
 [2914] = {
 ["amount"] = 0,
@@ -9140,20 +8652,20 @@ false,
 ["amount"] = 8,
 },
 [3056] = {
-["amount"] = 8741,
+["amount"] = 8771,
 },
 [2917] = {
 ["amount"] = 0,
 },
-[1816] = {
-["amount"] = 109,
+[1501] = {
+["amount"] = 2,
+},
+[2915] = {
+["amount"] = 0,
 },
 [1820] = {
 ["totalMax"] = 100,
 ["amount"] = 7,
-},
-[2915] = {
-["amount"] = 0,
 },
 [1828] = {
 ["amount"] = 120,
@@ -9188,15 +8700,15 @@ false,
 ["amount"] = 9,
 },
 [3108] = {
-["totalEarned"] = 34,
-["totalMax"] = 270,
-["amount"] = 54,
+["totalEarned"] = 68,
+["totalMax"] = 450,
+["amount"] = 108,
 },
 [515] = {
 ["amount"] = 49,
 },
-[1501] = {
-["amount"] = 2,
+[1816] = {
+["amount"] = 109,
 },
 [1813] = {
 ["covenant"] = {
@@ -9208,16 +8720,21 @@ false,
 [1166] = {
 ["amount"] = 0,
 },
-[3100] = {
-["amount"] = 0,
+[2533] = {
+["totalMax"] = 8,
+["amount"] = 8,
 },
 },
 ["Skills"] = {
 },
 ["Warmode"] = false,
-["Order"] = 50,
+["LastSeen"] = 1743119540,
 ["Level"] = 80,
-["WeeklyResetTime"] = 1742425199,
+["SpecializationIDs"] = {
+65,
+66,
+70,
+},
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -9236,84 +8753,91 @@ false,
 },
 ["MythicKey"] = {
 },
-["PlayedTotal"] = 716623,
+["PlayedTotal"] = 723753,
 ["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1741823779,
+["lastbossyelltime"] = 1742738828,
 ["MaxXP"] = 100000000,
-["LastSeen"] = 1742302880,
+["Covenant"] = 1,
+["Money"] = 4379414223,
+["lastboss"] = "nil",
+["MythicPlusScore"] = 0,
 ["MythicKeyBest"] = {
 ["threshold"] = {
 1,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
 ["rewardWaiting"] = false,
 },
-["lastboss"] = "nil",
-["MythicPlusScore"] = 0,
-["Money"] = 4156929043,
-["PlayedLevel"] = 120710,
-["BGBRating"] = {
-[3] = 0,
-},
-["Covenant"] = 1,
-["DailyResetTime"] = 1742425199,
-["IL"] = 616.4375,
+["PlayedLevel"] = 127840,
 ["Calling"] = {
 {
 ["isCompleted"] = false,
-["title"] = "玛卓克萨斯的召唤",
-["questID"] = 60430,
-["expiredTime"] = 1742425199,
+["title"] = "雷文德斯的召唤",
+["questID"] = 60434,
+["expiredTime"] = 1743202799,
 ["isOnQuest"] = false,
 },
 {
 ["isCompleted"] = false,
-["title"] = "雷文德斯的挑战",
-["questID"] = 60450,
-["expiredTime"] = 1742511599,
+["title"] = "稀有资源",
+["questID"] = 60415,
+["expiredTime"] = 1743289199,
 ["isOnQuest"] = false,
 },
 {
 ["isCompleted"] = false,
+["title"] = "协助炽蓝仙野",
+["questID"] = 60391,
+["expiredTime"] = 1743375599,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742597999,
 },
 ["unlocked"] = true,
 },
+["WeeklyResetTime"] = 1743634799,
+["DailyResetTime"] = 1743202799,
+["lastbossyell"] = "被误导的市民",
+["BGBRating"] = {
+[3] = 0,
+},
 },
 ["灵眸初启 - 熊猫酒仙"] = {
-["lastbossyell"] = "传令官布雷西雅",
+["lastbossyell"] = "被误导的市民",
 ["isResting"] = true,
 ["Emissary"] = {
 [6] = {
 ["unlocked"] = true,
 ["days"] = {
 {
+["isFinish"] = false,
+["questDone"] = 0,
+["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
+["itemName"] = "肯瑞托宝箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
 },
 {
+["isComplete"] = false,
+["questDone"] = 0,
+["isFinish"] = false,
 ["questReward"] = {
-["itemName"] = "至高岭贡品",
+["itemName"] = "瓦拉加尔储物箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
 },
 {
-["questDone"] = 0,
 ["isFinish"] = false,
+["questDone"] = 0,
 ["isComplete"] = false,
+["questReward"] = {
+["itemName"] = "镀金的大箱子",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
 },
 },
 },
@@ -9328,148 +8852,23 @@ false,
 0,
 [3] = 0,
 },
-["lastbosstime"] = 1741705353,
-["Covenant"] = 0,
+["lastbosstime"] = 1742719835,
+["Show"] = "always",
 ["TimewornMythicKey"] = {
 },
 ["Faction"] = "Alliance",
-["ILe"] = 604.25,
+["ILe"] = 607.75,
 ["Quests"] = {
 [82678] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：第一个圆盘",
 ["Link"] = "|cffffff00|Hquest:82678:90|h[档案馆：第一个圆盘]|h|r",
-},
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-["Title"] = "世界之魂：世界任务",
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82487] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82487:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[84127] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-["Title"] = "锻造指名服务",
-["Link"] = "|cffffff00|Hquest:84127:90|h[锻造指名服务]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-["Title"] = "剧场巡演",
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
 },
 },
 ["Paragon"] = {
 },
-["IL"] = 607.25,
-["Zone"] = "多恩诺嘉尔",
-["SpecializationIDs"] = {
-102,
-103,
-104,
-105,
-},
-["Class"] = "DRUID",
 ["oRace"] = "NightElf",
-["ILPvp"] = 607.25,
+["LastSeen"] = 1743119907,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -9496,22 +8895,13 @@ false,
 ["show"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["emissary-of-war"] = {
 ["show"] = false,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 5,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["numFulfilled"] = 0,
+["show"] = false,
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
@@ -9718,46 +9108,25 @@ false,
 ["df-a-worthy-ally-loamm-niffen"] = {
 ["show"] = false,
 },
-["bfa-horrific-vision"] = {
-[57847] = {
-["show"] = false,
-},
-[57848] = {
-["show"] = false,
-},
-[57841] = {
-["show"] = false,
-},
-[57842] = {
-["show"] = false,
-},
-[57843] = {
-["show"] = false,
-},
-[57844] = {
-["show"] = false,
-},
-[57845] = {
-["show"] = false,
-},
-[57846] = {
-["show"] = false,
-},
+["df-sparks-of-life"] = {
 ["show"] = false,
 },
 ["tww-services-requested"] = {
+"3/3 完成锻造订单",
 ["show"] = true,
-["isComplete"] = true,
+["leaderboardCount"] = 1,
+["isComplete"] = false,
+["isFinish"] = true,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 ["numRequired"] = 100,
 ["isComplete"] = false,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
 ["isFinish"] = false,
 },
@@ -9770,10 +9139,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 [70723] = {
@@ -9782,7 +9151,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 },
@@ -9795,32 +9164,7 @@ false,
 ["df-trial-of-elements"] = {
 ["show"] = false,
 },
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[56064] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
-},
 ["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
-},
-["call-to-delves"] = {
 ["show"] = false,
 },
 ["tww-siren-isle-weekly"] = {
@@ -9877,6 +9221,30 @@ false,
 ["show"] = false,
 },
 },
+["call-to-delves"] = {
+["show"] = false,
+},
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
+},
 ["tww-weekly-cache"] = {
 [84738] = {
 ["show"] = false,
@@ -9885,8 +9253,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -9894,8 +9261,7 @@ false,
 ["show"] = true,
 },
 ["tww-the-theater-trope"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -9956,20 +9322,6 @@ false,
 ["sl-shaping-fate"] = {
 ["show"] = false,
 },
-["df-sparks-of-life"] = {
-["show"] = false,
-},
-["bfa-island"] = {
-"0/36000 在海岛探险中收集36000份艾泽里特",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 36000,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/36000",
-["objectiveType"] = "monster",
-["isFinish"] = false,
-},
 ["df-researchers-under-fire"] = {
 ["show"] = true,
 [75628] = {
@@ -9984,6 +9336,44 @@ false,
 [75627] = {
 ["show"] = false,
 },
+},
+["bfa-island"] = {
+"0/36000 在海岛探险中收集36000份艾泽里特",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 36000,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/36000",
+["objectiveType"] = "monster",
+["isFinish"] = false,
+},
+["bfa-horrific-vision"] = {
+[57847] = {
+["show"] = false,
+},
+[57848] = {
+["show"] = false,
+},
+[57841] = {
+["show"] = false,
+},
+[57842] = {
+["show"] = false,
+},
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
+["show"] = false,
 },
 ["tww-pvp-weekly"] = {
 ["show"] = false,
@@ -10001,21 +9391,41 @@ false,
 ["show"] = false,
 },
 },
-["currency"] = {
-[1191] = {
-["amount"] = 0,
+["Class"] = "DRUID",
+["Calling"] = {
+{
+["isCompleted"] = true,
+["isOnQuest"] = false,
+["expiredTime"] = 1743202799,
 },
-[2815] = {
-["amount"] = 9695,
+{
+["isCompleted"] = true,
+["isOnQuest"] = false,
+["expiredTime"] = 1743289199,
+},
+{
+["isCompleted"] = true,
+["isOnQuest"] = false,
+["expiredTime"] = 1743375599,
+},
+["unlocked"] = true,
+},
+["ILPvp"] = 609.75,
+["IL"] = 609.75,
+["currency"] = {
+[824] = {
+["totalMax"] = 10000,
+["amount"] = 8631,
+},
+[515] = {
+["amount"] = 28,
 },
 [3028] = {
 ["relatedItemCount"] = 0,
-["amount"] = 3,
+["amount"] = 6,
 },
-[3107] = {
-["totalEarned"] = 20,
-["totalMax"] = 270,
-["amount"] = 20,
+[777] = {
+["amount"] = 11223,
 },
 [1101] = {
 ["totalMax"] = 100000,
@@ -10024,9 +9434,8 @@ false,
 [3218] = {
 ["amount"] = 45,
 },
-[2533] = {
-["totalMax"] = 8,
-["amount"] = 8,
+[3100] = {
+["amount"] = 0,
 },
 [1129] = {
 ["weeklyMax"] = 3,
@@ -10035,31 +9444,29 @@ false,
 },
 [3116] = {
 ["totalMax"] = 8,
-["amount"] = 1,
+["amount"] = 2,
 },
 [3132] = {
 ["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
 },
 [738] = {
 ["amount"] = 3,
 },
-[1149] = {
-["totalMax"] = 5000,
-["amount"] = 162,
+[1275] = {
+["amount"] = 30,
 },
 [1342] = {
 ["totalMax"] = 1000,
 ["amount"] = 60,
 },
-[2912] = {
-["totalMax"] = 9,
-["amount"] = 9,
+[1220] = {
+["amount"] = 254,
 },
-[752] = {
-["totalMax"] = 20,
-["amount"] = 4,
+[1299] = {
+["totalMax"] = 5000,
+["amount"] = 681,
 },
 [3023] = {
 ["totalEarned"] = 12,
@@ -10075,7 +9482,7 @@ false,
 },
 [3008] = {
 ["totalMax"] = 2000,
-["amount"] = 510,
+["amount"] = 966,
 },
 [2914] = {
 ["amount"] = 0,
@@ -10084,16 +9491,16 @@ false,
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
-[3056] = {
-["amount"] = 2761,
-},
-[3100] = {
+[1166] = {
 ["amount"] = 0,
 },
-[3108] = {
-["totalEarned"] = 34,
-["totalMax"] = 270,
-["amount"] = 59,
+[3107] = {
+["totalEarned"] = 40,
+["totalMax"] = 450,
+["amount"] = 40,
+},
+[3056] = {
+["amount"] = 124,
 },
 [1501] = {
 ["amount"] = 0,
@@ -10101,8 +9508,9 @@ false,
 [2915] = {
 ["amount"] = 0,
 },
-[1220] = {
-["amount"] = 254,
+[2912] = {
+["totalMax"] = 9,
+["amount"] = 9,
 },
 [402] = {
 ["amount"] = 1,
@@ -10111,9 +9519,9 @@ false,
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
-[1299] = {
-["totalMax"] = 5000,
-["amount"] = 681,
+[1155] = {
+["totalMax"] = 700,
+["amount"] = 23,
 },
 [1273] = {
 ["weeklyMax"] = 3,
@@ -10123,46 +9531,49 @@ false,
 [3089] = {
 ["amount"] = 0,
 },
-[1155] = {
-["totalMax"] = 700,
-["amount"] = 23,
+[1533] = {
+["amount"] = 314,
 },
-[824] = {
-["totalMax"] = 10000,
-["amount"] = 8631,
+[1149] = {
+["totalMax"] = 5000,
+["amount"] = 162,
 },
 [1226] = {
 ["amount"] = 1905,
-},
-[515] = {
-["amount"] = 28,
 },
 [776] = {
 ["totalMax"] = 20,
 ["amount"] = 3,
 },
-[1275] = {
-["amount"] = 30,
+[2815] = {
+["amount"] = 10205,
 },
-[1533] = {
-["amount"] = 314,
+[1191] = {
+["amount"] = 0,
+},
+[752] = {
+["totalMax"] = 20,
+["amount"] = 4,
 },
 [3090] = {
 ["amount"] = 455,
 },
-[1166] = {
-["amount"] = 0,
+[3108] = {
+["totalEarned"] = 73,
+["totalMax"] = 450,
+["amount"] = 113,
 },
-[777] = {
-["amount"] = 11223,
+[2533] = {
+["totalMax"] = 8,
+["amount"] = 8,
 },
 },
 ["Skills"] = {
 },
 ["Warmode"] = false,
-["Order"] = 50,
+["WeeklyResetTime"] = 1743634799,
 ["Level"] = 80,
-["LastSeen"] = 1742259332,
+["Order"] = 50,
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -10179,68 +9590,47 @@ false,
 ["boss"] = false,
 },
 },
-["MythicKey"] = {
-},
-["PlayedTotal"] = 1229460,
-["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1742144171,
-["MaxXP"] = 100000000,
-["Show"] = "always",
 ["MythicKeyBest"] = {
 ["threshold"] = {
 1,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = false,
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = true,
 },
+["PlayedTotal"] = 1236309,
+["Arena2v2rating"] = 0,
+["lastbossyelltime"] = 1743005326,
+["Money"] = 2181838239,
+["MythicKey"] = {
+},
+["MaxXP"] = 100000000,
 ["lastboss"] = "nil",
 ["MythicPlusScore"] = 0,
-["Money"] = 1835383215,
-["PlayedLevel"] = 51070,
-["LClass"] = "德鲁伊",
-["WeeklyResetTime"] = 1742425199,
-["DailyResetTime"] = 1742425199,
-["Calling"] = {
-{
-["isCompleted"] = true,
-["isOnQuest"] = false,
-["expiredTime"] = 1742252399,
-},
-{
-["isCompleted"] = true,
-["isOnQuest"] = false,
-["expiredTime"] = 1742338799,
-},
-{
-["isCompleted"] = false,
-["isOnQuest"] = false,
-["expiredTime"] = 1742425199,
-},
+["Zone"] = "多恩诺嘉尔",
+["PlayedLevel"] = 57919,
+["SpecializationIDs"] = {
+102,
+103,
+104,
+105,
 },
 ["Arena3v3rating"] = 0,
+["DailyResetTime"] = 1743202799,
+["LClass"] = "德鲁伊",
+["Covenant"] = 0,
 },
 ["Gaygenius - 自由之风"] = {
-["lastbossyell"] = "传令官布雷西雅",
+["lastbossyell"] = "被误导的市民",
 ["isResting"] = true,
 ["Emissary"] = {
 [6] = {
 ["unlocked"] = true,
 ["days"] = {
 {
-["isFinish"] = false,
-["questDone"] = 0,
-["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
-["itemLvl"] = 45,
-["quality"] = 3,
-},
-},
-{
-["questReward"] = {
-["itemName"] = "至高岭贡品",
+["itemName"] = "肯瑞托宝箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
@@ -10249,6 +9639,21 @@ false,
 ["isComplete"] = false,
 },
 {
+["questReward"] = {
+["itemName"] = "瓦拉加尔储物箱",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
+["questDone"] = 0,
+["isComplete"] = false,
+["isFinish"] = false,
+},
+{
+["questReward"] = {
+["itemName"] = "镀金的大箱子",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
 ["questDone"] = 0,
 ["isFinish"] = false,
 ["isComplete"] = false,
@@ -10265,183 +9670,84 @@ false,
 0,
 [3] = 0,
 },
-["lastbosstime"] = 1741793798,
-["Show"] = "always",
+["lastbosstime"] = 1742656966,
+["Covenant"] = 0,
 ["TimewornMythicKey"] = {
 },
-["Faction"] = "Alliance",
-["ILe"] = 603.875,
+["Calling"] = {
+{
+["isCompleted"] = true,
+["isOnQuest"] = false,
+["expiredTime"] = 1743202799,
+},
+{
+["isCompleted"] = true,
+["isOnQuest"] = false,
+["expiredTime"] = 1743289199,
+},
+{
+["isCompleted"] = true,
+["isOnQuest"] = false,
+["expiredTime"] = 1743375599,
+},
+["unlocked"] = true,
+},
+["ILe"] = 608.375,
 ["Quests"] = {
 [82678] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：第一个圆盘",
 ["Link"] = "|cffffff00|Hquest:82678:90|h[档案馆：第一个圆盘]|h|r",
-},
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82505] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82505:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[84129] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:84129:90|h[铭文指名服务]|h|r",
-["Title"] = "铭文指名服务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-["Title"] = "世界之魂：世界任务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-["Title"] = "剧场巡演",
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
 },
 },
 ["Paragon"] = {
 1900,
 2590,
 },
-["IL"] = 606.3125,
+["oRace"] = "Human",
 ["Zone"] = "多恩诺嘉尔",
 ["Order"] = 50,
 ["Class"] = "WARLOCK",
-["LastSeen"] = 1742260901,
-["ILPvp"] = 606.3125,
-["Covenant"] = 0,
+["LClass"] = "术士",
+["ILPvp"] = 608.375,
+["IL"] = 608.375,
 ["currency"] = {
-[824] = {
-["totalMax"] = 10000,
-["amount"] = 9970,
+[1191] = {
+["amount"] = 0,
 },
-[2815] = {
-["amount"] = 15621,
+[515] = {
+["amount"] = 32,
 },
 [3028] = {
-["relatedItemCount"] = 0,
-["amount"] = 3,
+["relatedItemCount"] = 25,
+["amount"] = 6,
 },
 [3107] = {
-["totalEarned"] = 14,
-["totalMax"] = 270,
-["amount"] = 14,
+["totalEarned"] = 49,
+["totalMax"] = 450,
+["amount"] = 49,
 },
 [1101] = {
 ["totalMax"] = 100000,
 ["amount"] = 235,
 },
-[3100] = {
-["amount"] = 0,
+[2533] = {
+["totalMax"] = 8,
+["amount"] = 8,
 },
 [3108] = {
-["totalEarned"] = 24,
-["totalMax"] = 270,
-["amount"] = 49,
+["totalEarned"] = 61,
+["totalMax"] = 450,
+["amount"] = 101,
 },
 [3116] = {
 ["totalMax"] = 8,
-["amount"] = 1,
+["amount"] = 2,
 },
 [3132] = {
 ["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
 },
 [738] = {
 ["amount"] = 232,
@@ -10450,16 +9756,17 @@ false,
 ["totalMax"] = 5000,
 ["amount"] = 150,
 },
-[994] = {
-["totalMax"] = 20,
+[1342] = {
+["totalMax"] = 1000,
+["amount"] = 53,
+},
+[2912] = {
+["totalMax"] = 9,
 ["amount"] = 9,
 },
-[1220] = {
-["amount"] = 34244,
-},
-[1299] = {
-["totalMax"] = 5000,
-["amount"] = 933,
+[752] = {
+["totalMax"] = 20,
+["amount"] = 2,
 },
 [3023] = {
 ["totalEarned"] = 20,
@@ -10478,7 +9785,7 @@ false,
 },
 [3008] = {
 ["totalMax"] = 2000,
-["amount"] = 381,
+["amount"] = 831,
 },
 [776] = {
 ["totalMax"] = 20,
@@ -10488,27 +9795,27 @@ false,
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
-[3056] = {
-["amount"] = 6913,
+[1166] = {
+["amount"] = 0,
 },
 [1275] = {
 ["amount"] = 115,
 },
-[2533] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[1166] = {
+[3100] = {
 ["amount"] = 0,
 },
-[1191] = {
-["amount"] = 0,
+[3056] = {
+["amount"] = 6943,
+},
+[824] = {
+["totalMax"] = 10000,
+["amount"] = 9970,
 },
 [2915] = {
 ["amount"] = 0,
 },
-[515] = {
-["amount"] = 32,
+[2815] = {
+["amount"] = 16107,
 },
 [402] = {
 ["amount"] = 2,
@@ -10546,88 +9853,29 @@ false,
 [1533] = {
 ["amount"] = 107,
 },
-[2912] = {
-["totalMax"] = 9,
-["amount"] = 9,
+[1220] = {
+["amount"] = 34244,
 },
-[752] = {
-["totalMax"] = 20,
-["amount"] = 2,
+[1299] = {
+["totalMax"] = 5000,
+["amount"] = 933,
 },
 [3090] = {
 ["amount"] = 263,
 },
-[1342] = {
-["totalMax"] = 1000,
-["amount"] = 53,
+[994] = {
+["totalMax"] = 20,
+["amount"] = 9,
 },
 [697] = {
 ["totalMax"] = 20,
 ["amount"] = 0,
 },
 },
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["Warmode"] = false,
-["Calling"] = {
-{
-["isCompleted"] = true,
-["isOnQuest"] = false,
-["expiredTime"] = 1742425199,
-},
-{
-["isCompleted"] = true,
-["isOnQuest"] = false,
-["expiredTime"] = 1742511599,
-},
-{
-["isCompleted"] = false,
-["isOnQuest"] = false,
-["expiredTime"] = 1742597999,
-},
-["unlocked"] = true,
-},
+["LastSeen"] = 1743119285,
 ["Level"] = 80,
-["oRace"] = "Human",
-["Warfront"] = {
-{
-["scenario"] = {
-false,
-false,
-},
-["boss"] = false,
-},
-{
-["scenario"] = {
-false,
-false,
-},
-["boss"] = false,
-},
-},
-["MythicKeyBest"] = {
-["threshold"] = {
-1,
-4,
-8,
-},
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = false,
-},
-["PlayedTotal"] = 1455850,
-["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1741795000,
-["MaxXP"] = 100000000,
-["Money"] = 4730166185,
-["WeeklyResetTime"] = 1742425199,
-["lastboss"] = "nil",
-["MythicPlusScore"] = 0,
-["MythicKey"] = {
-},
-["PlayedLevel"] = 57911,
-["LClass"] = "术士",
-["Arena3v3rating"] = 0,
-["Skills"] = {
-},
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -10651,8 +9899,7 @@ false,
 ["show"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-services-requested"] = {
 ["show"] = false,
@@ -10661,15 +9908,7 @@ false,
 ["show"] = false,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 5,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["isFinish"] = false,
+["show"] = false,
 },
 ["df-primal-storms-elementals"] = {
 [73998] = {
@@ -10801,8 +10040,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -10845,7 +10083,7 @@ false,
 ["sl-replenish-the-reservoir"] = {
 ["show"] = false,
 },
-["sl-covenant-assault"] = {
+["tww-gearing-up-for-trouble"] = {
 ["show"] = false,
 },
 ["sl-shaping-fate"] = {
@@ -10857,9 +10095,8 @@ false,
 ["df-sparks-of-life"] = {
 ["show"] = false,
 },
-["tww-services-requested"] = {
-["show"] = true,
-["isComplete"] = true,
+["sl-covenant-assault"] = {
+["show"] = false,
 },
 ["tww-delves"] = {
 "0/3 完成任意地心之战地下堡",
@@ -10881,10 +10118,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 [70723] = {
@@ -10893,7 +10130,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 },
@@ -10906,32 +10143,7 @@ false,
 ["df-trial-of-elements"] = {
 ["show"] = false,
 },
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[56064] = {
-["show"] = false,
-},
-},
 ["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
-},
-["call-to-delves"] = {
 ["show"] = false,
 },
 ["tww-siren-isle-weekly"] = {
@@ -10988,12 +10200,35 @@ false,
 ["show"] = false,
 },
 },
+["call-to-delves"] = {
+["show"] = false,
+},
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+},
 ["sl-patterns-within-patterns"] = {
 ["show"] = false,
 },
 ["tww-the-theater-trope"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -11053,14 +10288,14 @@ false,
 ["show"] = false,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 ["numRequired"] = 100,
 ["isComplete"] = false,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
 ["isFinish"] = false,
 },
@@ -11075,8 +10310,16 @@ false,
 ["objectiveType"] = "monster",
 ["numFulfilled"] = 0,
 },
-["tww-gearing-up-for-trouble"] = {
-["show"] = false,
+["tww-services-requested"] = {
+"1/2 完成铭文订单",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 2,
+["leaderboardCount"] = 1,
+["text"] = "1/2",
+["objectiveType"] = "object",
+["numFulfilled"] = 1,
 },
 ["df-the-superbloom"] = {
 ["show"] = false,
@@ -11151,11 +10394,52 @@ false,
 ["show"] = false,
 },
 },
+["Warfront"] = {
+{
+["scenario"] = {
+false,
+false,
+},
+["boss"] = false,
+},
+{
+["scenario"] = {
+false,
+false,
+},
+["boss"] = false,
+},
+},
+["MythicKeyBest"] = {
+["threshold"] = {
+1,
+4,
+8,
+},
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = true,
+},
+["PlayedTotal"] = 1465440,
+["Arena2v2rating"] = 0,
+["lastbossyelltime"] = 1742743356,
+["MaxXP"] = 100000000,
+["Money"] = 5170267567,
+["Show"] = "always",
+["lastboss"] = "nil",
+["MythicPlusScore"] = 0,
+["MythicKey"] = {
+},
+["PlayedLevel"] = 67501,
+["WeeklyResetTime"] = 1743634799,
+["Faction"] = "Alliance",
+["Skills"] = {
+},
 ["SpecializationIDs"] = {
 265,
 266,
 267,
 },
+["Arena3v3rating"] = 0,
 },
 ["Erudite - 熊猫酒仙"] = {
 ["lastbossyell"] = "传令官布雷西雅",
@@ -11166,28 +10450,33 @@ false,
 ["days"] = {
 {
 ["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
+["itemName"] = "肯瑞托宝箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
 ["questDone"] = 0,
 ["isFinish"] = false,
 ["isComplete"] = false,
+},
+{
+["isComplete"] = false,
+["questDone"] = 0,
+["isFinish"] = false,
+["questReward"] = {
+["itemName"] = "瓦拉加尔储物箱",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
 },
 {
 ["isFinish"] = false,
 ["questDone"] = 0,
 ["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "至高岭贡品",
+["itemName"] = "镀金的大箱子",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
-},
-{
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
 },
 },
 },
@@ -11202,7 +10491,7 @@ false,
 0,
 [3] = 0,
 },
-["lastbosstime"] = 1741794135,
+["lastbosstime"] = 1742707748,
 ["Covenant"] = 0,
 ["TimewornMythicKey"] = {
 },
@@ -11210,140 +10499,37 @@ false,
 {
 ["isCompleted"] = true,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742338799,
+["expiredTime"] = 1743202799,
 },
 {
 ["isCompleted"] = true,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742425199,
+["expiredTime"] = 1743289199,
 },
 {
-["isCompleted"] = false,
+["isCompleted"] = true,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742511599,
+["expiredTime"] = 1743375599,
 },
+["unlocked"] = true,
 },
-["ILe"] = 600.625,
+["ILe"] = 611,
 ["Quests"] = {
 [82678] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：第一个圆盘",
 ["Link"] = "|cffffff00|Hquest:82678:90|h[档案馆：第一个圆盘]|h|r",
 },
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
 [84132] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "裁缝指名服务",
 ["Link"] = "|cffffff00|Hquest:84132:90|h[裁缝指名服务]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82505] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82505:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
-["Title"] = "剧场巡演",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-["Title"] = "世界之魂：世界任务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
 },
 },
 ["Paragon"] = {
 },
-["IL"] = 604.6875,
-["Zone"] = "多恩诺嘉尔",
+["WeeklyResetTime"] = 1743634799,
+["LastSeen"] = 1743120219,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -11367,25 +10553,24 @@ false,
 ["show"] = false,
 },
 ["tww-biergoth-dungeon-quest"] = {
-["show"] = false,
+"0/1 赶走风险投资公司",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 1,
+["leaderboardCount"] = 1,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["the-world-awaits"] = {
 ["show"] = false,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 5,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["isFinish"] = false,
+["show"] = false,
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
@@ -11543,7 +10728,7 @@ false,
 ["sl-replenish-the-reservoir"] = {
 ["show"] = false,
 },
-["sl-covenant-assault"] = {
+["tww-gearing-up-for-trouble"] = {
 ["show"] = false,
 },
 ["sl-patterns-within-patterns"] = {
@@ -11555,36 +10740,35 @@ false,
 ["df-sparks-of-life"] = {
 ["show"] = false,
 },
-["tww-services-requested"] = {
-["show"] = true,
-["isComplete"] = true,
+["sl-covenant-assault"] = {
+["show"] = false,
 },
 ["tww-delves"] = {
 "0/3 完成任意地心之战地下堡",
 ["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 3,
+["isFinish"] = false,
 ["isComplete"] = false,
+["numRequired"] = 3,
 ["leaderboardCount"] = 1,
 ["text"] = "0/3",
 ["objectiveType"] = "object",
-["isFinish"] = false,
+["numFulfilled"] = 0,
 },
 ["tww-archives"] = {
 ["show"] = true,
 ["isComplete"] = true,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
 ["isFinish"] = false,
 ["isComplete"] = false,
 ["numRequired"] = 100,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 },
 ["tww-brawl-weekly"] = {
 ["show"] = false,
@@ -11594,10 +10778,6 @@ false,
 },
 ["df-trial-of-elements"] = {
 ["show"] = false,
-},
-["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
 },
 ["bfa-nzoth-assault"] = {
 ["show"] = false,
@@ -11619,9 +10799,6 @@ false,
 [57728] = {
 ["show"] = false,
 },
-},
-["call-to-delves"] = {
-["show"] = false,
 },
 ["tww-siren-isle-weekly"] = {
 [84850] = {
@@ -11677,12 +10854,25 @@ false,
 ["show"] = false,
 },
 },
+["call-to-delves"] = {
+["show"] = false,
+},
+["tww-the-call-of-the-worldsoul"] = {
+"0/6 完成卡兹阿加世界任务",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 6,
+["leaderboardCount"] = 1,
+["text"] = "0/6",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
+},
 ["df-disciple-of-fyrakk"] = {
 ["show"] = false,
 },
 ["tww-the-theater-trope"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -11698,8 +10888,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -11759,10 +10948,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 [70723] = {
@@ -11771,15 +10960,16 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 },
 ["sl-shaping-fate"] = {
 ["show"] = false,
 },
-["tww-gearing-up-for-trouble"] = {
-["show"] = false,
+["tww-services-requested"] = {
+["show"] = true,
+["isComplete"] = true,
 },
 ["bfa-horrific-vision"] = {
 [57847] = {
@@ -11872,52 +11062,61 @@ false,
 ["show"] = false,
 },
 ["emissary-of-war"] = {
-["show"] = false,
+"0/4 完成史诗地下城",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 4,
+["leaderboardCount"] = 1,
+["text"] = "0/4",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
 },
 },
 ["Class"] = "PRIEST",
-["LastSeen"] = 1742260348,
-["ILPvp"] = 604.6875,
-["LClass"] = "牧师",
+["SpecializationIDs"] = {
+256,
+257,
+258,
+},
+["ILPvp"] = 611,
+["Faction"] = "Alliance",
 ["currency"] = {
 [3090] = {
 ["amount"] = 22,
-},
-[3116] = {
-["totalMax"] = 8,
-["amount"] = 1,
-},
-[3107] = {
-["totalEarned"] = 12,
-["totalMax"] = 270,
-["amount"] = 12,
-},
-[3132] = {
-["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
-},
-[3028] = {
-["relatedItemCount"] = 0,
-["amount"] = 3,
-},
-[2813] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[2815] = {
-["amount"] = 10560,
 },
 [3023] = {
 ["totalEarned"] = 15,
 ["totalMax"] = 28,
 ["amount"] = 15,
 },
+[1508] = {
+["totalMax"] = 2000,
+["amount"] = 454,
+},
+[1226] = {
+["amount"] = 7788,
+},
+[3028] = {
+["relatedItemCount"] = 25,
+["amount"] = 6,
+},
+[1299] = {
+["totalMax"] = 5000,
+["amount"] = 442,
+},
+[2815] = {
+["amount"] = 10996,
+},
+[3116] = {
+["totalMax"] = 8,
+["amount"] = 2,
+},
 [2912] = {
 ["totalMax"] = 9,
 ["amount"] = 9,
 },
-[2914] = {
+[3100] = {
 ["amount"] = 0,
 },
 [1273] = {
@@ -11929,20 +11128,20 @@ false,
 ["totalMax"] = 20,
 ["amount"] = 18,
 },
-[1275] = {
-["amount"] = 41,
+[2796] = {
+["totalMax"] = 8,
+["amount"] = 8,
 },
 [3108] = {
-["totalEarned"] = 24,
-["totalMax"] = 270,
-["amount"] = 49,
+["totalEarned"] = 48,
+["totalMax"] = 450,
+["amount"] = 88,
 },
 [515] = {
 ["amount"] = 32,
 },
-[3008] = {
-["totalMax"] = 2000,
-["amount"] = 388,
+[2915] = {
+["amount"] = 0,
 },
 [1155] = {
 ["totalMax"] = 300,
@@ -11953,7 +11152,7 @@ false,
 ["amount"] = 165,
 },
 [3056] = {
-["amount"] = 1963,
+["amount"] = 4493,
 },
 [3089] = {
 ["amount"] = 0,
@@ -11970,15 +11169,15 @@ false,
 [1533] = {
 ["amount"] = 67,
 },
-[2796] = {
-["totalMax"] = 8,
-["amount"] = 8,
+[1275] = {
+["amount"] = 41,
 },
-[3100] = {
+[2914] = {
 ["amount"] = 0,
 },
-[2915] = {
-["amount"] = 0,
+[3008] = {
+["totalMax"] = 2000,
+["amount"] = 798,
 },
 [1220] = {
 ["amount"] = 56681,
@@ -11986,28 +11185,27 @@ false,
 [1166] = {
 ["amount"] = 0,
 },
-[1508] = {
-["totalMax"] = 2000,
-["amount"] = 454,
+[3107] = {
+["totalEarned"] = 42,
+["totalMax"] = 450,
+["amount"] = 42,
 },
-[1299] = {
-["totalMax"] = 5000,
-["amount"] = 442,
+[2813] = {
+["totalMax"] = 8,
+["amount"] = 8,
 },
-[1226] = {
-["amount"] = 7788,
+[3132] = {
+["totalEarned"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
 },
 },
 ["Skills"] = {
 },
 ["Warmode"] = false,
-["SpecializationIDs"] = {
-256,
-257,
-258,
-},
+["Order"] = 50,
 ["Level"] = 80,
-["Faction"] = "Alliance",
+["LClass"] = "牧师",
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -12024,31 +11222,31 @@ false,
 ["boss"] = false,
 },
 },
+["MythicKey"] = {
+},
+["PlayedTotal"] = 737093,
+["Arena2v2rating"] = 0,
+["lastbossyelltime"] = 1743083798,
+["Money"] = 2681353864,
 ["MythicKeyBest"] = {
 ["threshold"] = {
 1,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
 ["rewardWaiting"] = false,
 },
-["PlayedTotal"] = 721645,
-["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1741708597,
-["MaxXP"] = 100000000,
 ["oRace"] = "Draenei",
-["MythicKey"] = {
-},
 ["lastboss"] = "nil",
 ["MythicPlusScore"] = 0,
-["Money"] = 2027076405,
-["PlayedLevel"] = 76545,
-["WeeklyResetTime"] = 1742425199,
-["Show"] = "always",
-["DailyResetTime"] = 1742425199,
-["Order"] = 50,
+["MaxXP"] = 100000000,
+["PlayedLevel"] = 91993,
 ["Arena3v3rating"] = 0,
+["Zone"] = "议会金库",
+["DailyResetTime"] = 1743202799,
+["Show"] = "always",
+["IL"] = 611,
 },
 ["呵哒呵呵哒 - 无尽之海"] = {
 ["Arena3v3rating"] = 0,
@@ -12104,14 +11302,14 @@ false,
 ["oRace"] = "Scourge",
 ["Level"] = 10,
 ["XP"] = 5692,
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["MythicKeyBest"] = {
 ["threshold"] = {
 1,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
 },
 ["PlayedTotal"] = 14181,
 ["Arena2v2rating"] = 0,
@@ -12119,7 +11317,7 @@ false,
 ["Money"] = 3,
 ["Covenant"] = 0,
 ["Order"] = 50,
-["WeeklyResetTime"] = 1742425199,
+["WeeklyResetTime"] = 1743634799,
 ["MythicPlusScore"] = 0,
 ["MaxXP"] = 8490,
 ["PlayedLevel"] = 1356,
@@ -12254,6 +11452,45 @@ false,
 ["sl-shaping-fate"] = {
 ["show"] = false,
 },
+["bfa-horrific-vision"] = {
+[57847] = {
+["show"] = false,
+},
+[57848] = {
+["show"] = false,
+},
+[57841] = {
+["show"] = false,
+},
+[57842] = {
+["show"] = false,
+},
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
+["show"] = false,
+},
+["sl-replenish-the-reservoir"] = {
+["show"] = false,
+},
+["sl-covenant-assault"] = {
+["show"] = false,
+},
+["bfa-island"] = {
+["show"] = false,
+},
+["df-a-worthy-ally-loamm-niffen"] = {
+["show"] = false,
+},
 ["df-researchers-under-fire"] = {
 ["show"] = true,
 [75628] = {
@@ -12269,21 +11506,6 @@ false,
 ["show"] = false,
 },
 },
-["sl-replenish-the-reservoir"] = {
-["show"] = false,
-},
-["sl-covenant-assault"] = {
-["show"] = false,
-},
-["bfa-island"] = {
-["show"] = false,
-},
-["df-a-worthy-ally-loamm-niffen"] = {
-["show"] = false,
-},
-["df-sparks-of-life"] = {
-["show"] = false,
-},
 ["tww-gearing-up-for-trouble"] = {
 ["show"] = false,
 },
@@ -12292,10 +11514,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 [70723] = {
@@ -12304,7 +11526,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 },
@@ -12321,9 +11543,6 @@ false,
 ["show"] = false,
 },
 ["df-trial-of-elements"] = {
-["show"] = false,
-},
-["tww-the-call-of-the-worldsoul"] = {
 ["show"] = false,
 },
 ["tww-siren-isle-weekly"] = {
@@ -12383,9 +11602,6 @@ false,
 ["show"] = false,
 },
 },
-["call-to-delves"] = {
-["show"] = false,
-},
 ["bfa-nzoth-assault"] = {
 ["show"] = false,
 [55350] = {
@@ -12406,6 +11622,12 @@ false,
 [56064] = {
 ["show"] = false,
 },
+},
+["call-to-delves"] = {
+["show"] = false,
+},
+["tww-the-call-of-the-worldsoul"] = {
+["show"] = false,
 },
 ["df-the-superbloom"] = {
 ["show"] = false,
@@ -12530,31 +11752,7 @@ false,
 ["The Severed Threads"] = {
 ["show"] = false,
 },
-["bfa-horrific-vision"] = {
-[57847] = {
-["show"] = false,
-},
-[57848] = {
-["show"] = false,
-},
-[57841] = {
-["show"] = false,
-},
-[57842] = {
-["show"] = false,
-},
-[57843] = {
-["show"] = false,
-},
-[57844] = {
-["show"] = false,
-},
-[57845] = {
-["show"] = false,
-},
-[57846] = {
-["show"] = false,
-},
+["df-sparks-of-life"] = {
 ["show"] = false,
 },
 ["df-secured-shipment"] = {
@@ -12619,7 +11817,7 @@ false,
 },
 },
 ["三妖五四 - 自由之风"] = {
-["lastbossyell"] = "虚空石畸体: 史诗钥石",
+["Arena3v3rating"] = 0,
 ["isResting"] = true,
 ["Emissary"] = {
 [6] = {
@@ -12630,22 +11828,27 @@ false,
 ["questDone"] = 0,
 ["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
+["itemName"] = "肯瑞托宝箱",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
+},
+{
+["isComplete"] = false,
+["questDone"] = 0,
+["isFinish"] = false,
+["questReward"] = {
+["itemName"] = "瓦拉加尔储物箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
 },
 {
 ["questReward"] = {
-["itemName"] = "至高岭贡品",
+["itemName"] = "镀金的大箱子",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
-},
-{
 ["questDone"] = 0,
 ["isFinish"] = false,
 ["isComplete"] = false,
@@ -12660,21 +11863,23 @@ false,
 ["questDone"] = 0,
 ["isComplete"] = false,
 ["questReward"] = {
-["quantity"] = 3600,
 ["currencyID"] = 1553,
+["quantity"] = 600,
+},
+},
+{
+["isComplete"] = false,
+["questDone"] = 0,
+["isFinish"] = false,
+["questReward"] = {
+["money"] = 2000000,
 },
 },
 {
 ["questReward"] = {
-["itemName"] = "库尔提拉斯武器箱",
-["itemLvl"] = 99,
-["quality"] = 4,
+["currencyID"] = 1553,
+["quantity"] = 600,
 },
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
-},
-{
 ["questDone"] = 0,
 ["isFinish"] = false,
 ["isComplete"] = false,
@@ -12683,154 +11888,49 @@ false,
 },
 },
 ["Race"] = "暗夜精灵",
-["BGBRating"] = {
-[2] = 0,
-},
+["LClass"] = "恶魔猎手",
 ["RBGrating"] = 0,
 ["SoloShuffleRating"] = {
 0,
 0,
 },
-["lastbosstime"] = 1742300261,
+["lastbosstime"] = 1743083200,
 ["Covenant"] = 1,
 ["TimewornMythicKey"] = {
 },
-["Faction"] = "Alliance",
-["ILe"] = 646.75,
+["Calling"] = {
+{
+["isCompleted"] = false,
+["title"] = "雷文德斯的召唤",
+["questID"] = 60434,
+["expiredTime"] = 1743202799,
+["isOnQuest"] = false,
+},
+{
+["isCompleted"] = false,
+["title"] = "稀有资源",
+["questID"] = 60415,
+["expiredTime"] = 1743289199,
+["isOnQuest"] = false,
+},
+{
+["isCompleted"] = false,
+["title"] = "协助炽蓝仙野",
+["questID"] = 60391,
+["expiredTime"] = 1743375599,
+["isOnQuest"] = false,
+},
+["unlocked"] = true,
+},
+["ILe"] = 657.625,
 ["Quests"] = {
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-["Title"] = "世界之魂：世界任务",
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
 [82706] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "地下堡：全球研究",
 ["Link"] = "|cffffff00|Hquest:82706:90|h[地下堡：全球研究]|h|r",
 },
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[80671] = {
-["Expires"] = 1742425199,
-["Title"] = "将军之锋",
-["Link"] = "|cffffff00|Hquest:80671:90|h[将军之锋]|h|r",
-},
-[82505] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82505:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82531] = {
-["Expires"] = 1742425199,
-["Title"] = "特别任务：背后来弹",
-["Link"] = "|cffffff00|Hquest:82531:90|h[特别任务：背后来弹]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
-["Title"] = "剧场巡演",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-},
-[84131] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:84131:90|h[制皮指名服务]|h|r",
-["Title"] = "制皮指名服务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
 [82679] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：追寻历史",
 ["Link"] = "|cffffff00|Hquest:82679:90|h[档案馆：追寻历史]|h|r",
 },
@@ -12843,40 +11943,35 @@ false,
 1948,
 2045,
 2165,
+2570,
 2594,
 },
-["oRace"] = "NightElf",
+["WeeklyResetTime"] = 1743634799,
 ["Zone"] = "多恩诺嘉尔",
 ["SpecializationIDs"] = {
 577,
 581,
 },
 ["Class"] = "DEMONHUNTER",
-["Show"] = "always",
-["ILPvp"] = 647.1875,
-["LClass"] = "恶魔猎手",
+["LastSeen"] = 1743118031,
+["ILPvp"] = 658.6875,
+["lastbossyell"] = "麦卡贡国王: 史诗钥石",
 ["currency"] = {
 [824] = {
 ["totalMax"] = 10000,
 ["amount"] = 3073,
 },
-[515] = {
-["amount"] = 40,
+[2917] = {
+["amount"] = 0,
 },
-[3107] = {
-["totalEarned"] = 89,
-["totalMax"] = 270,
-["amount"] = 89,
+[1979] = {
+["amount"] = 189,
 },
 [2815] = {
-["amount"] = 41747,
+["amount"] = 43888,
 },
-[1813] = {
-["covenant"] = {
-9987,
-},
-["totalMax"] = 200000,
-["amount"] = 9987,
+[3090] = {
+["amount"] = 3209,
 },
 [1904] = {
 ["totalEarned"] = 20,
@@ -12884,22 +11979,28 @@ false,
 ["amount"] = 0,
 },
 [3028] = {
-["relatedItemCount"] = 0,
-["amount"] = 0,
-},
-[2003] = {
-["amount"] = 822,
-},
-[1979] = {
-["amount"] = 189,
+["relatedItemCount"] = 92,
+["amount"] = 3,
 },
 [1314] = {
 ["weeklyMax"] = 20,
 ["totalMax"] = 40,
 ["amount"] = 0,
 },
-[1885] = {
-["amount"] = 152,
+[3107] = {
+["totalEarned"] = 115,
+["totalMax"] = 450,
+["amount"] = 25,
+},
+[3100] = {
+["amount"] = 0,
+},
+[1822] = {
+["covenant"] = {
+80,
+},
+["totalMax"] = 80,
+["amount"] = 80,
 },
 [1889] = {
 ["amount"] = 8,
@@ -12915,32 +12016,33 @@ false,
 ["totalMax"] = 100,
 ["amount"] = 120,
 },
-[3218] = {
-["amount"] = 95,
+[2003] = {
+["amount"] = 822,
 },
 [2533] = {
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
 [3108] = {
-["totalEarned"] = 158,
-["totalMax"] = 270,
-["amount"] = 18,
+["totalEarned"] = 239,
+["totalMax"] = 450,
+["amount"] = 29,
 },
 [3116] = {
 ["totalMax"] = 8,
-["amount"] = 1,
+["amount"] = 0,
 },
 [1767] = {
 ["amount"] = 14061,
 },
 [3132] = {
 ["totalEarned"] = 2,
-["totalMax"] = 2,
-["amount"] = 2,
+["totalMax"] = 4,
+["amount"] = 3,
 },
-[1220] = {
-["amount"] = 2273,
+[2912] = {
+["totalMax"] = 9,
+["amount"] = 9,
 },
 [1275] = {
 ["amount"] = 144,
@@ -12949,19 +12051,19 @@ false,
 ["totalMax"] = 1000,
 ["amount"] = 129,
 },
-[2912] = {
-["totalMax"] = 9,
-["amount"] = 9,
+[1220] = {
+["amount"] = 2273,
 },
 [3109] = {
-["totalEarned"] = 180,
-["totalMax"] = 180,
-["amount"] = 60,
+["totalEarned"] = 235,
+["totalMax"] = 360,
+["amount"] = 10,
 },
-[1533] = {
-["amount"] = 1768,
+[1155] = {
+["totalMax"] = 2000,
+["amount"] = 365,
 },
-[1718] = {
+[3089] = {
 ["amount"] = 0,
 },
 [1299] = {
@@ -12976,37 +12078,39 @@ false,
 ["totalMax"] = 28,
 ["amount"] = 22,
 },
-[3110] = {
-["totalEarned"] = 66,
-["totalMax"] = 180,
-["amount"] = 66,
-},
-[1819] = {
-["amount"] = 113,
-},
 [1508] = {
 ["totalMax"] = 2000,
 ["amount"] = 296,
 },
-[2803] = {
-["amount"] = 5194,
+[1819] = {
+["amount"] = 113,
 },
-[2813] = {
-["totalMax"] = 8,
-["amount"] = 8,
+[3110] = {
+["totalEarned"] = 294,
+["totalMax"] = 360,
+["amount"] = 99,
+},
+[2803] = {
+["amount"] = 6383,
+},
+[1580] = {
+["weeklyMax"] = 2,
+["totalMax"] = 5,
+["amount"] = 0,
 },
 [3008] = {
 ["totalMax"] = 2000,
-["amount"] = 777,
-},
-[1717] = {
-["amount"] = 9,
+["amount"] = 1786,
 },
 [1906] = {
 ["amount"] = 100,
 },
-[3056] = {
-["amount"] = 14007,
+[1717] = {
+["amount"] = 9,
+},
+[1820] = {
+["totalMax"] = 100,
+["amount"] = 100,
 },
 [2914] = {
 ["amount"] = 0,
@@ -13022,32 +12126,30 @@ false,
 ["totalMax"] = 2000,
 ["amount"] = 0,
 },
-[2915] = {
-["amount"] = 0,
-},
-[1816] = {
-["amount"] = 945,
-},
-[1560] = {
-["amount"] = 475,
+[2009] = {
+["amount"] = 2225,
 },
 [1501] = {
 ["amount"] = 6,
 },
-[1820] = {
-["totalMax"] = 100,
-["amount"] = 100,
+[1560] = {
+["amount"] = 475,
 },
-[2009] = {
-["amount"] = 2225,
+[1816] = {
+["amount"] = 945,
+},
+[2915] = {
+["amount"] = 0,
+},
+[3056] = {
+["amount"] = 4457,
 },
 [1828] = {
 ["amount"] = 4765,
 },
-[1580] = {
-["weeklyMax"] = 2,
-["totalMax"] = 5,
-["amount"] = 0,
+[2813] = {
+["totalMax"] = 8,
+["amount"] = 8,
 },
 [1710] = {
 ["amount"] = 56,
@@ -13057,12 +12159,11 @@ false,
 ["totalMax"] = 6,
 ["amount"] = 3,
 },
-[3089] = {
+[1718] = {
 ["amount"] = 0,
 },
-[1155] = {
-["totalMax"] = 2000,
-["amount"] = 365,
+[1533] = {
+["amount"] = 1768,
 },
 [2916] = {
 ["amount"] = 0,
@@ -13073,35 +12174,41 @@ false,
 [2806] = {
 ["amount"] = 0,
 },
-[1822] = {
-["covenant"] = {
-80,
-},
-["totalMax"] = 80,
-["amount"] = 80,
+[1885] = {
+["amount"] = 152,
 },
 [1931] = {
 ["amount"] = 328,
 },
-[3100] = {
-["amount"] = 0,
+[3218] = {
+["amount"] = 95,
 },
-[3090] = {
-["amount"] = 3194,
+[1813] = {
+["covenant"] = {
+9987,
+},
+["totalMax"] = 200000,
+["amount"] = 9987,
 },
 [1754] = {
 ["amount"] = 62,
 },
-[2917] = {
-["amount"] = 0,
+[515] = {
+["amount"] = 40,
 },
 },
-["Skills"] = {
-},
+["DailyResetTime"] = 1743202799,
 ["Warmode"] = false,
-["Order"] = 50,
+["Faction"] = "Alliance",
 ["Level"] = 80,
-["WeeklyResetTime"] = 1742425199,
+["MythicKey"] = {
+["mapID"] = 499,
+["name"] = "圣焰隐修院",
+["link"] = "|cffa335ee|Hkeystone:180653:499:10:160:10:9:0:0|h[钥石：圣焰隐修院 (10)]|h|r",
+["color"] = "ffa335ee",
+["level"] = 10,
+["ResetTime"] = 1743634799,
+},
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -13118,22 +12225,42 @@ false,
 ["boss"] = false,
 },
 },
-["MythicKey"] = {
-["mapID"] = 504,
-["name"] = "暗焰裂口",
-["link"] = "|cffa335ee|Hkeystone:180653:504:7:162:10:0:0:0|h[钥石：暗焰裂口 (7)]|h|r",
-["color"] = "ff0070dd",
-["level"] = 7,
-["ResetTime"] = 1742425199,
+["MythicKeyBest"] = {
+10,
+["threshold"] = {
+1,
+4,
+8,
 },
-["PlayedTotal"] = 3938277,
+["runHistory"] = {
+{
+["completed"] = false,
+["name"] = "麦卡贡行动 - 车间",
+["thisWeek"] = true,
+["mapChallengeModeID"] = 370,
+["level"] = 10,
+["runScore"] = 301,
+["rewardLevel"] = 662,
+},
+{
+["completed"] = false,
+["name"] = "麦卡贡行动 - 车间",
+["thisWeek"] = true,
+["mapChallengeModeID"] = 370,
+["level"] = 10,
+["runScore"] = 305,
+["rewardLevel"] = 662,
+},
+},
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = false,
+["lastCompletedIndex"] = 1,
+},
+["PlayedTotal"] = 4041464,
 ["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1742300261,
-["Money"] = 3898394344,
-["LastSeen"] = 1742302834,
+["lastbossyelltime"] = 1743083200,
 ["MaxXP"] = 100000000,
-["lastboss"] = "斯卡丁巨怪: 史诗钥石",
-["MythicPlusScore"] = 940,
+["IL"] = 658.6875,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -13163,18 +12290,18 @@ false,
 ["show"] = false,
 },
 ["emissary-of-war"] = {
-["show"] = false,
+"2/4 完成史诗地下城",
+["show"] = true,
+["numFulfilled"] = 2,
+["numRequired"] = 4,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "2/4",
+["objectiveType"] = "object",
+["isFinish"] = false,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 5,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["numFulfilled"] = 0,
+["show"] = false,
 },
 ["df-primal-storms-elementals"] = {
 [73998] = {
@@ -13228,11 +12355,17 @@ false,
 },
 },
 ["tww-biergoth-dungeon-quest"] = {
-["show"] = false,
+"0/1 赶走风险投资公司",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 1,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["isFinish"] = false,
 },
 ["great-vault-raid"] = {
-17,
-17,
 ["unlocked"] = true,
 ["rewardWaiting"] = false,
 },
@@ -13298,20 +12431,16 @@ false,
 },
 ["tww-weekly-cache"] = {
 [84738] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84739] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["show"] = true,
 },
@@ -13319,28 +12448,28 @@ false,
 ["show"] = false,
 },
 ["tww-rollin-down-in-the-deeps"] = {
-["show"] = false,
+"0/10 收集怪异蜡团",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 10,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/10",
+["objectiveType"] = "monster",
+["isFinish"] = false,
 },
 ["the-world-awaits"] = {
 ["show"] = false,
 },
-["sl-covenant-assault"] = {
-["show"] = false,
+["tww-services-requested"] = {
+["show"] = true,
+["isComplete"] = true,
 },
 ["sl-replenish-the-reservoir"] = {
 ["show"] = false,
 },
-["tww-gearing-up-for-trouble"] = {
-"0/1 与代言人库尔达斯谈一谈并开始主机觉醒（可选）",
-"0/20 清除敌人波次",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 1,
-["leaderboardCount"] = 2,
-["text"] = "0/1 0/20",
-["objectiveType"] = "monster",
-["numFulfilled"] = 0,
+["sl-covenant-assault"] = {
+["show"] = false,
 },
 ["sl-shaping-fate"] = {
 ["show"] = false,
@@ -13363,21 +12492,20 @@ false,
 ["show"] = false,
 },
 },
-["tww-services-requested"] = {
-["show"] = true,
-["isComplete"] = true,
+["tww-gearing-up-for-trouble"] = {
+["show"] = false,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (75%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
+["numFulfilled"] = 75,
 ["numRequired"] = 100,
+["isComplete"] = false,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "75% 0/1",
 ["objectiveType"] = "progressbar",
-["numFulfilled"] = 20,
+["isFinish"] = false,
 },
 ["tww-archives"] = {
 ["show"] = true,
@@ -13388,10 +12516,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 [70723] = {
@@ -13400,7 +12528,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 },
@@ -13464,13 +12592,39 @@ false,
 ["df-trial-of-elements"] = {
 ["show"] = false,
 },
+["tww-the-call-of-the-worldsoul"] = {
+["show"] = false,
+},
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+},
+["call-to-delves"] = {
+["show"] = false,
+},
 ["tww-siren-isle-weekly"] = {
 [84850] = {
 ["show"] = false,
 },
 [84852] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [83932] = {
 ["show"] = false,
@@ -13479,17 +12633,7 @@ false,
 ["show"] = false,
 },
 [84680] = {
-"8/8 复苏不安之石和不安的碎石",
-"7/8 消灭血色盐潮恐魔",
-"0/1 消灭咸潮畸怪",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 8,
-["leaderboardCount"] = 3,
-["text"] = "7/8 0/1",
-["objectiveType"] = "monster",
-["numFulfilled"] = 7,
+["show"] = false,
 },
 [84248] = {
 ["show"] = false,
@@ -13517,15 +12661,7 @@ false,
 ["show"] = false,
 },
 [84222] = {
-"0/2 消灭海妖岛的稀有敌人",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 2,
-["leaderboardCount"] = 1,
-["text"] = "0/2",
-["objectiveType"] = "monster",
-["numFulfilled"] = 0,
+["show"] = false,
 },
 [84627] = {
 ["show"] = false,
@@ -13534,35 +12670,6 @@ false,
 ["show"] = false,
 },
 [84432] = {
-["show"] = true,
-["isComplete"] = true,
-},
-},
-["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
-},
-["call-to-delves"] = {
-["show"] = false,
-},
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[56064] = {
 ["show"] = false,
 },
 },
@@ -13570,8 +12677,7 @@ false,
 ["show"] = false,
 },
 ["tww-the-theater-trope"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -13649,13 +12755,13 @@ false,
 ["bfa-island"] = {
 "0/36000 在海岛探险中收集36000份艾泽里特",
 ["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
+["numFulfilled"] = 0,
 ["numRequired"] = 36000,
+["isComplete"] = false,
 ["leaderboardCount"] = 1,
 ["text"] = "0/36000",
 ["objectiveType"] = "monster",
-["numFulfilled"] = 0,
+["isFinish"] = false,
 },
 ["df-sparks-of-life"] = {
 ["show"] = false,
@@ -13664,8 +12770,7 @@ false,
 ["show"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["tww-pvp-weekly"] = {
 ["show"] = false,
@@ -13677,9 +12782,6 @@ false,
 ["show"] = false,
 },
 ["great-vault-world"] = {
-11,
-11,
-1,
 ["unlocked"] = true,
 ["rewardWaiting"] = false,
 },
@@ -13687,133 +12789,542 @@ false,
 ["show"] = false,
 },
 },
-["PlayedLevel"] = 291264,
+["lastboss"] = "麦卡贡国王: 史诗钥石",
+["MythicPlusScore"] = 2340,
+["Money"] = 4174244369,
+["PlayedLevel"] = 394451,
+["oRace"] = "NightElf",
+["Order"] = 50,
+["Skills"] = {
+},
+["BGBRating"] = {
+[2] = 0,
+},
+["Show"] = "always",
+},
+["灵眸天启 - 熊猫酒仙"] = {
+["Arena3v3rating"] = 0,
+["isResting"] = true,
+["Emissary"] = {
+},
+["Race"] = "暗夜精灵",
+["BGBRating"] = {
+0,
+},
+["RBGrating"] = 0,
+["SoloShuffleRating"] = {
+0,
+},
+["Show"] = "never",
+["TimewornMythicKey"] = {
+},
+["Faction"] = "Alliance",
+["ILe"] = 44.0625,
+["Quests"] = {
+},
+["Paragon"] = {
+},
+["IL"] = 46.875,
+["LastSeen"] = 1734970230,
+["SpecializationIDs"] = {
+577,
+581,
+},
+["Class"] = "DEMONHUNTER",
+["ILPvp"] = 46.875,
+["currency"] = {
+[824] = {
+["totalMax"] = 10000,
+["amount"] = 2427,
+},
+[2533] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[2912] = {
+["totalMax"] = 9,
+["amount"] = 9,
+},
+[823] = {
+["amount"] = 1507,
+},
+[1101] = {
+["totalMax"] = 100000,
+["amount"] = 50,
+},
+[2796] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[1226] = {
+["amount"] = 121,
+},
+[2813] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+},
+["Zone"] = "暴风城",
+["Warmode"] = false,
+["Calling"] = {
+},
+["Level"] = 40,
+["XP"] = 39069,
+["DailyResetTime"] = 1743202799,
+["MythicKey"] = {
+},
+["RestXP"] = 58604,
+["Arena2v2rating"] = 0,
+["oRace"] = "NightElf",
+["Money"] = 1294473,
+["PlayedTotal"] = 54126,
+["Order"] = 50,
+["WeeklyResetTime"] = 1743634799,
+["MythicPlusScore"] = 0,
+["MaxXP"] = 39070,
+["PlayedLevel"] = 50879,
+["Progress"] = {
+["tww-anniversary-restored-coffer-key"] = {
+["show"] = false,
+},
+["tww-spreading-the-light"] = {
+["show"] = false,
+},
+["df-shipment-of-goods"] = {
+["show"] = true,
+[78427] = {
+["show"] = false,
+},
+[78428] = {
+["show"] = false,
+},
+},
+["df-time-rift"] = {
+["show"] = false,
+},
+["df-aiding-the-accord"] = {
+["show"] = false,
+},
+["tww-the-key-to-success"] = {
+["show"] = false,
+},
+["the-world-awaits"] = {
+["show"] = false,
+},
+["timewalking"] = {
+["show"] = false,
+},
+["bfa-lesser-vision"] = {
+["show"] = false,
+},
+["tww-biergoth-dungeon-quest"] = {
+["show"] = false,
+},
+["great-vault-raid"] = {
+["unlocked"] = false,
+["rewardWaiting"] = false,
+},
+["emissary-of-war"] = {
+["show"] = false,
+},
+["df-grand-hunt"] = {
+["show"] = true,
+[70906] = {
+["show"] = false,
+},
+[71137] = {
+["show"] = false,
+},
+[71136] = {
+["show"] = false,
+},
+},
+["tww-algari-treatise"] = {
+[83727] = {
+["show"] = false,
+},
+[83728] = {
+["show"] = false,
+},
+[83729] = {
+["show"] = false,
+},
+[83730] = {
+["show"] = false,
+},
+[83731] = {
+["show"] = false,
+},
+[83732] = {
+["show"] = false,
+},
+[83733] = {
+["show"] = false,
+},
+[83734] = {
+["show"] = false,
+},
+["show"] = true,
+[83725] = {
+["show"] = false,
+},
+[83726] = {
+["show"] = false,
+},
+[83735] = {
+["show"] = false,
+},
+},
+["df-siege-on-dragonbane-keep"] = {
+["show"] = false,
+},
+["df-blooming-dreamseeds"] = {
+["show"] = false,
+},
+["call-to-battle"] = {
+["show"] = false,
+},
+["df-trial-of-flood"] = {
+["show"] = false,
+},
+["df-services-requested"] = {
+["show"] = false,
+},
+["tww-rollin-down-in-the-deeps"] = {
+["show"] = false,
+},
+["df-fighting-is-its-own-reward"] = {
+["show"] = false,
+},
+["df-researchers-under-fire"] = {
+["show"] = true,
+[75628] = {
+["show"] = false,
+},
+[75629] = {
+["show"] = false,
+},
+[75630] = {
+["show"] = false,
+},
+[75627] = {
+["show"] = false,
+},
+},
+["sl-replenish-the-reservoir"] = {
+["show"] = false,
+},
+["bfa-horrific-vision"] = {
+[57847] = {
+["show"] = false,
+},
+[57848] = {
+["show"] = false,
+},
+[57841] = {
+["show"] = false,
+},
+[57842] = {
+["show"] = false,
+},
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
+["show"] = false,
+},
+["bfa-island"] = {
+["show"] = false,
+},
+["df-a-worthy-ally-loamm-niffen"] = {
+["show"] = false,
+},
+["df-sparks-of-life"] = {
+["show"] = false,
+},
+["sl-covenant-assault"] = {
+["show"] = false,
+},
+["sl-shaping-fate"] = {
+["show"] = false,
+},
+["tww-archives"] = {
+["show"] = false,
+},
+["df-primal-storms-core"] = {
+["show"] = true,
+[70753] = {
+["show"] = false,
+},
+[72686] = {
+["show"] = false,
+},
+[73162] = {
+["show"] = false,
+},
+[70723] = {
+["show"] = false,
+},
+[70752] = {
+["show"] = false,
+},
+[70754] = {
+["show"] = false,
+},
+},
+["tww-brawl-weekly"] = {
+["show"] = false,
+},
+["df-secured-shipment"] = {
+["show"] = false,
+},
+["df-trial-of-elements"] = {
+["show"] = false,
+},
+["df-disciple-of-fyrakk"] = {
+["show"] = false,
+},
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+},
+["call-to-delves"] = {
+["show"] = false,
+},
+["tww-the-call-of-the-worldsoul"] = {
+["show"] = false,
+},
+["tww-weekly-cache"] = {
+[84738] = {
+["show"] = false,
+},
+[84739] = {
+["show"] = false,
+},
+[84736] = {
+["show"] = false,
+},
+[84737] = {
+["show"] = false,
+},
+["show"] = true,
+},
+["tww-the-theater-trope"] = {
+["show"] = false,
+},
+["df-community-feast"] = {
+["show"] = false,
+},
+["df-dreamsurge"] = {
+["show"] = false,
+},
+["df-the-superbloom"] = {
+["show"] = false,
+},
+["tww-special-assignments"] = {
+[81691] = {
+["show"] = false,
+},
+[82787] = {
+["show"] = false,
+},
+[81649] = {
+["show"] = false,
+},
+[82355] = {
+["show"] = false,
+},
+[82852] = {
+["show"] = false,
+},
+[83229] = {
+["show"] = false,
+},
+[82531] = {
+["show"] = false,
+},
+["show"] = true,
+[82414] = {
+["show"] = false,
+},
+},
+["tww-pvp-world"] = {
+["show"] = false,
+},
+["tww-lesser-keyflame"] = {
+[78933] = {
+["show"] = false,
+},
+[78656] = {
+["show"] = false,
+},
+[79216] = {
+["show"] = false,
+},
+[81574] = {
+["show"] = false,
+},
+[79158] = {
+["show"] = false,
+},
+[79346] = {
+["show"] = false,
+},
+[76169] = {
+["show"] = false,
+},
+[76733] = {
+["show"] = false,
+},
+[76394] = {
+["show"] = false,
+},
+[81632] = {
+["show"] = false,
+},
+["show"] = true,
+[78915] = {
+["show"] = false,
+},
+[76600] = {
+["show"] = false,
+},
+[80004] = {
+["show"] = false,
+},
+[80562] = {
+["show"] = false,
+},
+[76997] = {
+["show"] = false,
+},
+[79173] = {
+["show"] = false,
+},
+[78972] = {
+["show"] = false,
+},
+},
+["sl-return-lost-souls"] = {
+["show"] = false,
+},
+["The Severed Threads"] = {
+["show"] = false,
+},
+["sl-patterns-within-patterns"] = {
+["show"] = false,
+},
+["tww-delves"] = {
+["show"] = false,
+},
+["tww-gearing-up-for-trouble"] = {
+["show"] = false,
+},
+["tww-services-requested"] = {
+["show"] = false,
+},
+["tww-pvp-weekly"] = {
+["show"] = false,
+},
+["df-primal-storms-elementals"] = {
+[73998] = {
+["show"] = false,
+},
+[74006] = {
+["show"] = false,
+},
+[74039] = {
+["show"] = false,
+},
+[74016] = {
+["show"] = false,
+},
+[73989] = {
+["show"] = false,
+},
+[73991] = {
+["show"] = false,
+},
+[73993] = {
+["show"] = false,
+},
+[73995] = {
+["show"] = false,
+},
+[73999] = {
+["show"] = false,
+},
+[74005] = {
+["show"] = false,
+},
+[74007] = {
+["show"] = false,
+},
+[74009] = {
+["show"] = false,
+},
+["show"] = true,
+[73986] = {
+["show"] = false,
+},
+[74038] = {
+["show"] = false,
+},
+[74027] = {
+["show"] = false,
+},
+[74022] = {
+["show"] = false,
+},
+},
+["df-the-big-dig-traitors-rest"] = {
+["show"] = false,
+},
+["great-vault-world"] = {
+["unlocked"] = false,
+["rewardWaiting"] = false,
+},
+["df-a-worthy-ally-dream-wardens"] = {
+["show"] = false,
+},
+},
+["LClass"] = "恶魔猎手",
+["Skills"] = {
+},
 ["MythicKeyBest"] = {
-8,
-5,
-2,
 ["threshold"] = {
 1,
 4,
 8,
 },
-["runHistory"] = {
-{
-["completed"] = false,
-["name"] = "驭雷栖巢",
-["thisWeek"] = true,
-["level"] = 8,
-["mapChallengeModeID"] = 500,
-["runScore"] = 256,
-["rewardLevel"] = 649,
+["ResetTime"] = 1743634799,
 },
-{
-["completed"] = true,
-["name"] = "驭雷栖巢",
-["thisWeek"] = true,
-["level"] = 7,
-["mapChallengeModeID"] = 500,
-["runScore"] = 268,
-["rewardLevel"] = 645,
-},
-{
-["completed"] = true,
-["name"] = "驭雷栖巢",
-["thisWeek"] = true,
-["level"] = 7,
-["mapChallengeModeID"] = 500,
-["runScore"] = 261,
-["rewardLevel"] = 645,
-},
-{
-["completed"] = true,
-["name"] = "驭雷栖巢",
-["thisWeek"] = true,
-["level"] = 5,
-["mapChallengeModeID"] = 500,
-["runScore"] = 223,
-["rewardLevel"] = 636,
-},
-{
-["completed"] = true,
-["name"] = "驭雷栖巢",
-["thisWeek"] = true,
-["level"] = 3,
-["mapChallengeModeID"] = 500,
-["runScore"] = 183,
-["rewardLevel"] = 629,
-},
-{
-["completed"] = true,
-["name"] = "暗焰裂口",
-["thisWeek"] = true,
-["level"] = 3,
-["mapChallengeModeID"] = 504,
-["runScore"] = 184,
-["rewardLevel"] = 629,
-},
-{
-["completed"] = true,
-["name"] = "暴富矿区！！",
-["thisWeek"] = true,
-["level"] = 2,
-["mapChallengeModeID"] = 247,
-["runScore"] = 162,
-["rewardLevel"] = 626,
-},
-{
-["completed"] = true,
-["name"] = "伤逝剧场",
-["thisWeek"] = true,
-["level"] = 2,
-["mapChallengeModeID"] = 382,
-["runScore"] = 160,
-["rewardLevel"] = 626,
-},
-{
-["completed"] = true,
-["name"] = "驭雷栖巢",
-["thisWeek"] = true,
-["level"] = 2,
-["mapChallengeModeID"] = 500,
-["runScore"] = 167,
-["rewardLevel"] = 626,
-},
-{
-["level"] = "M",
-["name"] = "史诗 0",
-["rewardLevel"] = 645,
-},
-},
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = false,
-["lastCompletedIndex"] = 3,
-},
-["Calling"] = {
-{
-["isCompleted"] = false,
-["title"] = "玛卓克萨斯的召唤",
-["questID"] = 60430,
-["expiredTime"] = 1742425199,
-["isOnQuest"] = false,
-},
-{
-["isCompleted"] = false,
-["title"] = "雷文德斯的挑战",
-["questID"] = 60450,
-["expiredTime"] = 1742511599,
-["isOnQuest"] = false,
-},
-{
-["isCompleted"] = false,
-["isOnQuest"] = false,
-["expiredTime"] = 1742597999,
-},
-["unlocked"] = true,
-},
-["DailyResetTime"] = 1742425199,
-["Arena3v3rating"] = 0,
-["IL"] = 647.1875,
+["Covenant"] = 0,
 },
 ["故人与为伴 - 自由之风"] = {
 ["Arena3v3rating"] = 0,
@@ -13829,8 +13340,8 @@ false,
 },
 {
 ["questDone"] = 0,
-["isFinish"] = false,
 ["isComplete"] = false,
+["isFinish"] = false,
 },
 {
 ["questDone"] = 0,
@@ -13849,8 +13360,8 @@ false,
 },
 {
 ["questDone"] = 0,
-["isFinish"] = false,
 ["isComplete"] = false,
+["isFinish"] = false,
 },
 {
 ["questDone"] = 0,
@@ -14042,13 +13553,13 @@ false,
 ["df-fighting-is-its-own-reward"] = {
 ["show"] = false,
 },
-["sl-covenant-assault"] = {
+["tww-gearing-up-for-trouble"] = {
 ["show"] = false,
 },
 ["sl-replenish-the-reservoir"] = {
 ["show"] = false,
 },
-["tww-services-requested"] = {
+["sl-covenant-assault"] = {
 ["show"] = false,
 },
 ["The Severed Threads"] = {
@@ -14057,10 +13568,34 @@ false,
 ["df-a-worthy-ally-loamm-niffen"] = {
 ["show"] = false,
 },
-["df-sparks-of-life"] = {
+["bfa-horrific-vision"] = {
+[57847] = {
 ["show"] = false,
 },
-["tww-gearing-up-for-trouble"] = {
+[57848] = {
+["show"] = false,
+},
+[57841] = {
+["show"] = false,
+},
+[57842] = {
+["show"] = false,
+},
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
+["show"] = false,
+},
+["tww-services-requested"] = {
 ["show"] = false,
 },
 ["sl-patterns-within-patterns"] = {
@@ -14230,10 +13765,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 [70723] = {
@@ -14242,7 +13777,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 },
@@ -14260,33 +13795,6 @@ false,
 ["objectiveType"] = "monster",
 ["isFinish"] = false,
 },
-["bfa-horrific-vision"] = {
-[57847] = {
-["show"] = false,
-},
-[57848] = {
-["show"] = false,
-},
-[57841] = {
-["show"] = false,
-},
-[57842] = {
-["show"] = false,
-},
-[57843] = {
-["show"] = false,
-},
-[57844] = {
-["show"] = false,
-},
-[57845] = {
-["show"] = false,
-},
-[57846] = {
-["show"] = false,
-},
-["show"] = false,
-},
 ["df-researchers-under-fire"] = {
 ["show"] = true,
 [75628] = {
@@ -14301,6 +13809,9 @@ false,
 [75627] = {
 ["show"] = false,
 },
+},
+["df-sparks-of-life"] = {
+["show"] = false,
 },
 ["tww-pvp-weekly"] = {
 ["show"] = false,
@@ -14415,10 +13926,10 @@ false,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
 },
 ["Warmode"] = false,
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["Level"] = 50,
 ["XP"] = 24680,
 ["Warfront"] = {
@@ -14451,7 +13962,7 @@ false,
 ["Order"] = 50,
 ["MaxXP"] = 34395,
 ["MythicPlusScore"] = 0,
-["WeeklyResetTime"] = 1742425199,
+["WeeklyResetTime"] = 1743634799,
 ["PlayedLevel"] = 62483,
 ["PlayedTotal"] = 1218895,
 ["oRace"] = "NightElf",
@@ -14461,87 +13972,28 @@ false,
 },
 ["Zone"] = "暴风城",
 },
-["灵眸天启 - 熊猫酒仙"] = {
+["上去逛逛 - 白银之手"] = {
 ["Arena3v3rating"] = 0,
 ["isResting"] = true,
 ["Emissary"] = {
 },
-["Race"] = "暗夜精灵",
-["BGBRating"] = {
-0,
-},
+["Race"] = "人类",
+["LClass"] = "战士",
 ["RBGrating"] = 0,
 ["SoloShuffleRating"] = {
-0,
+[5] = 0,
 },
-["Show"] = "never",
+["Show"] = "saved",
 ["TimewornMythicKey"] = {
 },
 ["Faction"] = "Alliance",
-["ILe"] = 44.0625,
+["ILe"] = 0.5,
 ["Quests"] = {
 },
 ["Paragon"] = {
 },
-["IL"] = 46.875,
-["LastSeen"] = 1734970230,
-["SpecializationIDs"] = {
-577,
-581,
-},
-["Class"] = "DEMONHUNTER",
-["ILPvp"] = 46.875,
-["currency"] = {
-[824] = {
-["totalMax"] = 10000,
-["amount"] = 2427,
-},
-[2533] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[2912] = {
-["totalMax"] = 9,
-["amount"] = 9,
-},
-[823] = {
-["amount"] = 1507,
-},
-[1101] = {
-["totalMax"] = 100000,
-["amount"] = 50,
-},
-[2796] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[1226] = {
-["amount"] = 121,
-},
-[2813] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-},
-["Zone"] = "暴风城",
-["Warmode"] = false,
-["Calling"] = {
-},
-["Level"] = 40,
-["XP"] = 39069,
-["DailyResetTime"] = 1742425199,
-["MythicKey"] = {
-},
-["RestXP"] = 58604,
-["Arena2v2rating"] = 0,
-["oRace"] = "NightElf",
-["Money"] = 1294473,
-["PlayedTotal"] = 54126,
-["Order"] = 50,
-["WeeklyResetTime"] = 1742425199,
-["MythicPlusScore"] = 0,
-["MaxXP"] = 39070,
-["PlayedLevel"] = 50879,
+["oRace"] = "Human",
+["LastSeen"] = 1743033701,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -14567,7 +14019,10 @@ false,
 ["tww-the-key-to-success"] = {
 ["show"] = false,
 },
-["the-world-awaits"] = {
+["df-services-requested"] = {
+["show"] = false,
+},
+["emissary-of-war"] = {
 ["show"] = false,
 },
 ["timewalking"] = {
@@ -14581,22 +14036,6 @@ false,
 },
 ["great-vault-raid"] = {
 ["unlocked"] = false,
-["rewardWaiting"] = false,
-},
-["emissary-of-war"] = {
-["show"] = false,
-},
-["df-grand-hunt"] = {
-["show"] = true,
-[70906] = {
-["show"] = false,
-},
-[71137] = {
-["show"] = false,
-},
-[71136] = {
-["show"] = false,
-},
 },
 ["tww-algari-treatise"] = {
 [83727] = {
@@ -14634,7 +14073,22 @@ false,
 ["show"] = false,
 },
 },
-["df-siege-on-dragonbane-keep"] = {
+["df-grand-hunt"] = {
+["show"] = true,
+[70906] = {
+["show"] = false,
+},
+[71136] = {
+["show"] = false,
+},
+[71137] = {
+["show"] = false,
+},
+},
+["df-a-worthy-ally-dream-wardens"] = {
+["show"] = false,
+},
+["df-the-big-dig-traitors-rest"] = {
 ["show"] = false,
 },
 ["df-blooming-dreamseeds"] = {
@@ -14643,16 +14097,16 @@ false,
 ["call-to-battle"] = {
 ["show"] = false,
 },
-["df-trial-of-flood"] = {
-["show"] = false,
+["great-vault-world"] = {
+["unlocked"] = false,
 },
-["df-services-requested"] = {
+["df-fighting-is-its-own-reward"] = {
 ["show"] = false,
 },
 ["tww-rollin-down-in-the-deeps"] = {
 ["show"] = false,
 },
-["df-fighting-is-its-own-reward"] = {
+["df-secured-shipment"] = {
 ["show"] = false,
 },
 ["bfa-horrific-vision"] = {
@@ -14685,10 +14139,10 @@ false,
 ["sl-replenish-the-reservoir"] = {
 ["show"] = false,
 },
-["df-sparks-of-life"] = {
+["The Severed Threads"] = {
 ["show"] = false,
 },
-["bfa-island"] = {
+["sl-patterns-within-patterns"] = {
 ["show"] = false,
 },
 ["df-a-worthy-ally-loamm-niffen"] = {
@@ -14709,54 +14163,138 @@ false,
 ["show"] = false,
 },
 },
-["tww-services-requested"] = {
+["sl-covenant-assault"] = {
 ["show"] = false,
 },
-["sl-shaping-fate"] = {
+["tww-delves"] = {
 ["show"] = false,
 },
 ["tww-archives"] = {
 ["show"] = false,
 },
-["df-primal-storms-core"] = {
-["show"] = true,
-[70753] = {
+["tww-services-requested"] = {
 ["show"] = false,
-},
-[73162] = {
-["show"] = false,
-},
-[70754] = {
-["show"] = false,
-},
-[70723] = {
-["show"] = false,
-},
-[70752] = {
-["show"] = false,
-},
-[72686] = {
-["show"] = false,
-},
 },
 ["tww-brawl-weekly"] = {
 ["show"] = false,
 },
-["df-secured-shipment"] = {
+["tww-lesser-keyflame"] = {
+[78933] = {
 ["show"] = false,
+},
+[78656] = {
+["show"] = false,
+},
+[79216] = {
+["show"] = false,
+},
+[81574] = {
+["show"] = false,
+},
+[79158] = {
+["show"] = false,
+},
+[79346] = {
+["show"] = false,
+},
+[76169] = {
+["show"] = false,
+},
+[76733] = {
+["show"] = false,
+},
+[76394] = {
+["show"] = false,
+},
+[78972] = {
+["show"] = false,
+},
+["show"] = true,
+[78915] = {
+["show"] = false,
+},
+[79173] = {
+["show"] = false,
+},
+[80004] = {
+["show"] = false,
+},
+[76997] = {
+["show"] = false,
+},
+[80562] = {
+["show"] = false,
+},
+[76600] = {
+["show"] = false,
+},
+[81632] = {
+["show"] = false,
+},
 },
 ["df-trial-of-elements"] = {
 ["show"] = false,
 },
-["df-disciple-of-fyrakk"] = {
+["tww-siren-isle-weekly"] = {
+[84850] = {
 ["show"] = false,
+},
+[84852] = {
+["show"] = false,
+},
+[83932] = {
+["show"] = false,
+},
+[84430] = {
+["show"] = false,
+},
+[84680] = {
+["show"] = false,
+},
+[84248] = {
+["show"] = false,
+},
+[85589] = {
+["show"] = false,
+},
+[84851] = {
+["show"] = false,
+},
+[84299] = {
+["show"] = false,
+},
+[83827] = {
+["show"] = false,
+},
+["show"] = false,
+[84619] = {
+["show"] = false,
+},
+[83753] = {
+["show"] = false,
+},
+[84001] = {
+["show"] = false,
+},
+[84222] = {
+["show"] = false,
+},
+[84627] = {
+["show"] = false,
+},
+[85051] = {
+["show"] = false,
+},
+[84432] = {
+["show"] = false,
+},
 },
 ["bfa-nzoth-assault"] = {
 ["show"] = false,
 [55350] = {
 ["show"] = false,
 },
-[57728] = {
+[56064] = {
 ["show"] = false,
 },
 [56308] = {
@@ -14768,7 +14306,7 @@ false,
 [57008] = {
 ["show"] = false,
 },
-[56064] = {
+[57728] = {
 ["show"] = false,
 },
 },
@@ -14824,87 +14362,54 @@ false,
 [83229] = {
 ["show"] = false,
 },
-[82531] = {
+[82414] = {
 ["show"] = false,
 },
 ["show"] = true,
-[82414] = {
+[82531] = {
 ["show"] = false,
 },
 },
 ["tww-pvp-world"] = {
 ["show"] = false,
 },
-["tww-lesser-keyflame"] = {
-[78933] = {
+["df-disciple-of-fyrakk"] = {
 ["show"] = false,
-},
-[78656] = {
-["show"] = false,
-},
-[79216] = {
-["show"] = false,
-},
-[81574] = {
-["show"] = false,
-},
-[79158] = {
-["show"] = false,
-},
-[79346] = {
-["show"] = false,
-},
-[76169] = {
-["show"] = false,
-},
-[76733] = {
-["show"] = false,
-},
-[76394] = {
-["show"] = false,
-},
-[81632] = {
-["show"] = false,
-},
-["show"] = true,
-[78915] = {
-["show"] = false,
-},
-[76600] = {
-["show"] = false,
-},
-[80004] = {
-["show"] = false,
-},
-[80562] = {
-["show"] = false,
-},
-[76997] = {
-["show"] = false,
-},
-[79173] = {
-["show"] = false,
-},
-[78972] = {
-["show"] = false,
-},
 },
 ["sl-return-lost-souls"] = {
 ["show"] = false,
 },
-["The Severed Threads"] = {
+["df-primal-storms-core"] = {
+["show"] = true,
+[70753] = {
 ["show"] = false,
 },
-["sl-patterns-within-patterns"] = {
+[72686] = {
 ["show"] = false,
 },
-["tww-delves"] = {
+[73162] = {
 ["show"] = false,
 },
-["sl-covenant-assault"] = {
+[70723] = {
+["show"] = false,
+},
+[70752] = {
+["show"] = false,
+},
+[70754] = {
+["show"] = false,
+},
+},
+["sl-shaping-fate"] = {
 ["show"] = false,
 },
 ["tww-gearing-up-for-trouble"] = {
+["show"] = false,
+},
+["df-sparks-of-life"] = {
+["show"] = false,
+},
+["bfa-island"] = {
 ["show"] = false,
 },
 ["tww-pvp-weekly"] = {
@@ -14951,172 +14456,115 @@ false,
 [73986] = {
 ["show"] = false,
 },
-[74038] = {
+[74022] = {
 ["show"] = false,
 },
 [74027] = {
 ["show"] = false,
 },
-[74022] = {
+[74038] = {
 ["show"] = false,
 },
 },
-["df-the-big-dig-traitors-rest"] = {
+["df-trial-of-flood"] = {
 ["show"] = false,
 },
-["great-vault-world"] = {
-["unlocked"] = false,
-["rewardWaiting"] = false,
+["df-siege-on-dragonbane-keep"] = {
+["show"] = false,
 },
-["df-a-worthy-ally-dream-wardens"] = {
+["the-world-awaits"] = {
 ["show"] = false,
 },
 },
-["LClass"] = "恶魔猎手",
-["Skills"] = {
+["Class"] = "WARRIOR",
+["ILPvp"] = 0.5,
+["currency"] = {
+[2813] = {
+["totalMax"] = 8,
+["amount"] = 8,
 },
+[2912] = {
+["totalMax"] = 9,
+["amount"] = 9,
+},
+[3116] = {
+["totalMax"] = 8,
+["amount"] = 2,
+},
+[2796] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[2533] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+},
+["Warmode"] = false,
+["Covenant"] = 0,
+["Level"] = 1,
+["XP"] = 25,
+["MaxXP"] = 250,
+["MythicKey"] = {
+},
+["PlayedTotal"] = 236,
+["Arena2v2rating"] = 0,
+["DailyResetTime"] = 1743202799,
+["Money"] = 0,
 ["MythicKeyBest"] = {
 ["threshold"] = {
 1,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = false,
 },
-["Covenant"] = 0,
+["BGBRating"] = {
+[5] = 0,
+},
+["Order"] = 50,
+["MythicPlusScore"] = 0,
+["SpecializationIDs"] = {
+71,
+72,
+73,
+},
+["PlayedLevel"] = 236,
+["IL"] = 0.5,
+["WeeklyResetTime"] = 1743634799,
+["Skills"] = {
+},
+["Calling"] = {
+},
+["Zone"] = "暴风城",
 },
 ["终末序曲 - 熊猫酒仙"] = {
-["lastbossyell"] = "传令官布雷西雅",
+["Arena3v3rating"] = 0,
 ["isResting"] = true,
 ["Emissary"] = {
 },
 ["Race"] = "龙希尔",
-["BGBRating"] = {
-0,
-},
+["LClass"] = "唤魔师",
 ["RBGrating"] = 0,
 ["SoloShuffleRating"] = {
 0,
 [3] = 0,
 },
-["lastbosstime"] = 1741425422,
+["lastbosstime"] = 1743087092,
 ["Show"] = "always",
 ["TimewornMythicKey"] = {
 },
 ["Faction"] = "Alliance",
-["ILe"] = 598.9375,
+["ILe"] = 610.75,
 ["Quests"] = {
 [82678] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：第一个圆盘",
 ["Link"] = "|cffffff00|Hquest:82678:90|h[档案馆：第一个圆盘]|h|r",
 },
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82505] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82505:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
-["Title"] = "剧场巡演",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-["Title"] = "世界之魂：世界任务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-},
 [84127] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Zone"] = {
 ["mapType"] = 3,
 ["mapID"] = 2339,
@@ -15130,17 +14578,34 @@ false,
 },
 ["Paragon"] = {
 },
-["IL"] = 610.125,
-["LastSeen"] = 1742259564,
+["oRace"] = "Dracthyr",
+["Zone"] = "议会金库",
 ["SpecializationIDs"] = {
 1467,
 1468,
 1473,
 },
 ["Class"] = "EVOKER",
-["oRace"] = "Dracthyr",
-["ILPvp"] = 610.125,
-["Order"] = 50,
+["WeeklyResetTime"] = 1743634799,
+["ILPvp"] = 614,
+["Calling"] = {
+{
+["isCompleted"] = true,
+["isOnQuest"] = false,
+["expiredTime"] = 1743202799,
+},
+{
+["isCompleted"] = true,
+["isOnQuest"] = false,
+["expiredTime"] = 1743289199,
+},
+{
+["isCompleted"] = true,
+["isOnQuest"] = false,
+["expiredTime"] = 1743375599,
+},
+["unlocked"] = true,
+},
 ["currency"] = {
 [2245] = {
 ["totalMax"] = 2000,
@@ -15154,16 +14619,16 @@ false,
 },
 [2813] = {
 ["totalMax"] = 8,
-["amount"] = 7,
+["amount"] = 8,
 },
 [2815] = {
-["amount"] = 11235,
+["amount"] = 11559,
 },
 [2912] = {
 ["totalMax"] = 9,
 ["amount"] = 9,
 },
-[2914] = {
+[3100] = {
 ["amount"] = 0,
 },
 [2796] = {
@@ -15171,19 +14636,20 @@ false,
 ["amount"] = 8,
 },
 [3108] = {
-["totalEarned"] = 31,
-["totalMax"] = 270,
-["amount"] = 56,
+["totalEarned"] = 85,
+["totalMax"] = 450,
+["amount"] = 125,
 },
 [515] = {
 ["amount"] = 37,
 },
-[3116] = {
-["totalMax"] = 8,
-["amount"] = 1,
+[3023] = {
+["totalEarned"] = 15,
+["totalMax"] = 28,
+["amount"] = 15,
 },
 [3056] = {
-["amount"] = 3928,
+["amount"] = 958,
 },
 [3089] = {
 ["amount"] = 0,
@@ -15192,22 +14658,20 @@ false,
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
-[3023] = {
-["totalEarned"] = 15,
-["totalMax"] = 28,
-["amount"] = 15,
+[3028] = {
+["relatedItemCount"] = 25,
+["amount"] = 6,
 },
-[3132] = {
-["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
-},
-[3008] = {
-["totalMax"] = 2000,
-["amount"] = 394,
+[2914] = {
+["amount"] = 0,
 },
 [2915] = {
 ["amount"] = 0,
+},
+[3132] = {
+["totalEarned"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
 },
 [1166] = {
 ["amount"] = 0,
@@ -15216,77 +14680,24 @@ false,
 ["amount"] = 27,
 },
 [3107] = {
-["totalEarned"] = 14,
-["totalMax"] = 270,
-["amount"] = 14,
+["totalEarned"] = 50,
+["totalMax"] = 450,
+["amount"] = 50,
 },
-[3100] = {
-["amount"] = 0,
+[3116] = {
+["totalMax"] = 8,
+["amount"] = 2,
 },
-[3028] = {
-["relatedItemCount"] = 0,
-["amount"] = 3,
+[3008] = {
+["totalMax"] = 2000,
+["amount"] = 968,
 },
 },
 ["Skills"] = {
 },
 ["Warmode"] = false,
-["Calling"] = {
-{
-["isCompleted"] = true,
-["isOnQuest"] = false,
-["expiredTime"] = 1742165999,
-},
-{
-["isCompleted"] = true,
-["isOnQuest"] = false,
-["expiredTime"] = 1742252399,
-},
-{
-["isCompleted"] = false,
-["isOnQuest"] = false,
-["expiredTime"] = 1742338799,
-},
-},
+["LastSeen"] = 1743120062,
 ["Level"] = 80,
-["Zone"] = "多恩诺嘉尔",
-["Warfront"] = {
-{
-["scenario"] = {
-false,
-false,
-},
-["boss"] = false,
-},
-{
-["scenario"] = {
-false,
-false,
-},
-["boss"] = false,
-},
-},
-["MythicKeyBest"] = {
-["threshold"] = {
-1,
-4,
-8,
-},
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = false,
-},
-["PlayedTotal"] = 134862,
-["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1742259371,
-["MaxXP"] = 100000000,
-["MythicKey"] = {
-},
-["Money"] = 3805787528,
-["MythicPlusScore"] = 0,
-["lastboss"] = "nil",
-["Arena3v3rating"] = 0,
-["PlayedLevel"] = 63041,
-["Covenant"] = 0,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -15309,13 +14720,19 @@ false,
 ["df-aiding-the-accord"] = {
 ["show"] = false,
 },
-["great-vault-world"] = {
-["unlocked"] = true,
-["rewardWaiting"] = false,
+["tww-biergoth-dungeon-quest"] = {
+"0/1 赶走风险投资公司",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 1,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["isFinish"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["tww-lesser-keyflame"] = {
 [78933] = {
@@ -15372,21 +14789,14 @@ false,
 },
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 5,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["isFinish"] = false,
+["show"] = false,
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
 },
-["df-the-superbloom"] = {
-["show"] = false,
+["great-vault-world"] = {
+["unlocked"] = true,
+["rewardWaiting"] = false,
 },
 ["great-vault-raid"] = {
 ["unlocked"] = true,
@@ -15476,15 +14886,50 @@ false,
 ["tww-rollin-down-in-the-deeps"] = {
 "0/10 收集怪异蜡团",
 ["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 10,
+["isFinish"] = false,
 ["isComplete"] = false,
+["numRequired"] = 10,
 ["leaderboardCount"] = 1,
 ["text"] = "0/10",
 ["objectiveType"] = "monster",
-["isFinish"] = false,
+["numFulfilled"] = 0,
+},
+["df-researchers-under-fire"] = {
+["show"] = true,
+[75628] = {
+["show"] = false,
+},
+[75629] = {
+["show"] = false,
+},
+[75630] = {
+["show"] = false,
+},
+[75627] = {
+["show"] = false,
+},
 },
 ["df-sparks-of-life"] = {
+["show"] = false,
+},
+["sl-replenish-the-reservoir"] = {
+["show"] = false,
+},
+["sl-covenant-assault"] = {
+["show"] = false,
+},
+["bfa-island"] = {
+"0/36000 在海岛探险中收集36000份艾泽里特",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 36000,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/36000",
+["objectiveType"] = "monster",
+["isFinish"] = false,
+},
+["df-a-worthy-ally-loamm-niffen"] = {
 ["show"] = false,
 },
 ["bfa-horrific-vision"] = {
@@ -15514,44 +14959,9 @@ false,
 },
 ["show"] = false,
 },
-["sl-replenish-the-reservoir"] = {
-["show"] = false,
-},
 ["tww-services-requested"] = {
 ["show"] = true,
 ["isComplete"] = true,
-},
-["bfa-island"] = {
-"0/36000 在海岛探险中收集36000份艾泽里特",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 36000,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/36000",
-["objectiveType"] = "monster",
-["isFinish"] = false,
-},
-["df-a-worthy-ally-loamm-niffen"] = {
-["show"] = false,
-},
-["df-researchers-under-fire"] = {
-["show"] = true,
-[75628] = {
-["show"] = false,
-},
-[75629] = {
-["show"] = false,
-},
-[75630] = {
-["show"] = false,
-},
-[75627] = {
-["show"] = false,
-},
-},
-["tww-gearing-up-for-trouble"] = {
-["show"] = false,
 },
 ["tww-delves"] = {
 "0/3 完成任意地心之战地下堡",
@@ -15569,16 +14979,16 @@ false,
 ["isComplete"] = true,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
 ["isFinish"] = false,
 ["isComplete"] = false,
 ["numRequired"] = 100,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 },
 ["tww-brawl-weekly"] = {
 ["show"] = false,
@@ -15588,27 +14998,6 @@ false,
 },
 ["df-trial-of-elements"] = {
 ["show"] = false,
-},
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[56064] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
 },
 ["tww-siren-isle-weekly"] = {
 [84850] = {
@@ -15664,19 +15053,46 @@ false,
 ["show"] = false,
 },
 },
+["tww-the-call-of-the-worldsoul"] = {
+"2/6 完成卡兹阿加世界任务",
+["show"] = true,
+["numFulfilled"] = 2,
+["numRequired"] = 6,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "2/6",
+["objectiveType"] = "object",
+["isFinish"] = false,
+},
 ["call-to-delves"] = {
 ["show"] = false,
 },
-["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
 },
 ["sl-patterns-within-patterns"] = {
 ["show"] = false,
 },
 ["tww-the-theater-trope"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -15728,10 +15144,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 [70723] = {
@@ -15740,21 +15156,29 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 },
 ["sl-shaping-fate"] = {
 ["show"] = false,
 },
-["sl-covenant-assault"] = {
+["tww-gearing-up-for-trouble"] = {
 ["show"] = false,
 },
 ["df-services-requested"] = {
 ["show"] = false,
 },
 ["emissary-of-war"] = {
-["show"] = false,
+"0/4 完成史诗地下城",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 4,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/4",
+["objectiveType"] = "object",
+["isFinish"] = false,
 },
 ["tww-pvp-weekly"] = {
 ["show"] = false,
@@ -15767,8 +15191,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -15814,34 +15237,64 @@ false,
 ["show"] = false,
 },
 },
-["tww-biergoth-dungeon-quest"] = {
+["df-the-superbloom"] = {
 ["show"] = false,
 },
 },
-["DailyResetTime"] = 1742425199,
-["WeeklyResetTime"] = 1742425199,
-["LClass"] = "唤魔师",
+["Warfront"] = {
+{
+["scenario"] = {
+false,
+false,
+},
+["boss"] = false,
+},
+{
+["scenario"] = {
+false,
+false,
+},
+["boss"] = false,
+},
+},
+["MythicKey"] = {
+},
+["PlayedTotal"] = 149005,
+["Arena2v2rating"] = 0,
+["lastbossyelltime"] = 1743087391,
+["MaxXP"] = 100000000,
+["MythicKeyBest"] = {
+["threshold"] = {
+1,
+4,
+8,
+},
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = false,
+},
+["BGBRating"] = {
+0,
+},
+["lastboss"] = "nil",
+["MythicPlusScore"] = 0,
+["Money"] = 3930992077,
+["PlayedLevel"] = 77184,
+["Covenant"] = 0,
+["IL"] = 614,
+["DailyResetTime"] = 1743202799,
+["Order"] = 50,
+["lastbossyell"] = "传令官布雷西雅",
 },
 ["踏月剑歌 - 熊猫酒仙"] = {
-["lastbossyell"] = "杰·马奎尔",
+["Arena3v3rating"] = 0,
 ["isResting"] = true,
 ["Emissary"] = {
 [6] = {
 ["unlocked"] = true,
 ["days"] = {
 {
-["isFinish"] = false,
-["questDone"] = 0,
-["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
-["itemLvl"] = 45,
-["quality"] = 3,
-},
-},
-{
-["questReward"] = {
-["itemName"] = "至高岭贡品",
+["itemName"] = "肯瑞托宝箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
@@ -15851,136 +15304,52 @@ false,
 },
 {
 ["questReward"] = {
-["itemName"] = "守望者战地包",
+["itemName"] = "瓦拉加尔储物箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
 ["questDone"] = 0,
-["isFinish"] = false,
 ["isComplete"] = false,
+["isFinish"] = false,
+},
+{
+["isFinish"] = false,
+["questDone"] = 0,
+["isComplete"] = false,
+["questReward"] = {
+["itemName"] = "镀金的大箱子",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
 },
 },
 },
 },
 ["Race"] = "熊猫人 (联盟)",
-["LClass"] = "萨满祭司",
+["BGBRating"] = {
+[2] = 0,
+[3] = 0,
+},
 ["RBGrating"] = 0,
 ["SoloShuffleRating"] = {
 0,
 0,
 0,
 },
-["lastbosstime"] = 1741404452,
+["lastbosstime"] = 1742489528,
 ["Show"] = "always",
 ["TimewornMythicKey"] = {
 },
 ["Faction"] = "Alliance",
-["ILe"] = 635.5,
+["ILe"] = 636.6875,
 ["Quests"] = {
 [82678] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：第一个圆盘",
 ["Link"] = "|cffffff00|Hquest:82678:90|h[档案馆：第一个圆盘]|h|r",
 },
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-["Title"] = "世界之魂：世界任务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82487] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82487:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82706] = {
-["Expires"] = 1742425199,
-["Title"] = "地下堡：全球研究",
-["Link"] = "|cffffff00|Hquest:82706:90|h[地下堡：全球研究]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
 [84133] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Zone"] = {
 ["mapType"] = 3,
 ["mapID"] = 2339,
@@ -15991,30 +15360,12 @@ false,
 ["Title"] = "炼金指名服务",
 ["Link"] = "|cffffff00|Hquest:84133:90|h[炼金指名服务]|h|r",
 },
-[83240] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-["Title"] = "剧场巡演",
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
-},
 },
 ["Paragon"] = {
 2594,
 },
-["IL"] = 642,
-["Zone"] = "多恩诺嘉尔",
-["SpecializationIDs"] = {
-262,
-263,
-264,
-},
-["Class"] = "SHAMAN",
+["IL"] = 643,
+["LastSeen"] = 1743117506,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -16047,15 +15398,7 @@ false,
 ["show"] = false,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 5,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["numFulfilled"] = 0,
+["show"] = false,
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
@@ -16105,8 +15448,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -16127,6 +15469,12 @@ false,
 ["df-time-rift"] = {
 ["show"] = false,
 },
+["df-sparks-of-life"] = {
+["show"] = false,
+},
+["sl-replenish-the-reservoir"] = {
+["show"] = false,
+},
 ["df-researchers-under-fire"] = {
 ["show"] = true,
 [75628] = {
@@ -16142,7 +15490,18 @@ false,
 ["show"] = false,
 },
 },
-["sl-replenish-the-reservoir"] = {
+["bfa-island"] = {
+"0/36000 在海岛探险中收集36000份艾泽里特",
+["show"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 36000,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/36000",
+["objectiveType"] = "monster",
+["isFinish"] = false,
+},
+["df-a-worthy-ally-loamm-niffen"] = {
 ["show"] = false,
 },
 ["bfa-horrific-vision"] = {
@@ -16172,23 +15531,6 @@ false,
 },
 ["show"] = false,
 },
-["bfa-island"] = {
-"0/36000 在海岛探险中收集36000份艾泽里特",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 36000,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/36000",
-["objectiveType"] = "monster",
-["isFinish"] = false,
-},
-["df-a-worthy-ally-loamm-niffen"] = {
-["show"] = false,
-},
-["df-sparks-of-life"] = {
-["show"] = false,
-},
 ["tww-services-requested"] = {
 ["show"] = true,
 ["isComplete"] = true,
@@ -16198,10 +15540,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 [70723] = {
@@ -16210,7 +15552,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 },
@@ -16219,14 +15561,14 @@ false,
 ["isComplete"] = true,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 ["numRequired"] = 100,
 ["isComplete"] = false,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
 ["isFinish"] = false,
 },
@@ -16237,15 +15579,42 @@ false,
 "0/1 与代言人库尔达斯谈一谈并开始主机觉醒（可选）",
 "0/20 清除敌人波次",
 ["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 1,
+["isFinish"] = false,
 ["isComplete"] = false,
+["numRequired"] = 1,
 ["leaderboardCount"] = 2,
 ["text"] = "0/1 0/20",
 ["objectiveType"] = "monster",
-["isFinish"] = false,
+["numFulfilled"] = 0,
 },
 ["df-trial-of-elements"] = {
+["show"] = false,
+},
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
+},
+["tww-the-call-of-the-worldsoul"] = {
+["show"] = false,
+},
+["call-to-delves"] = {
 ["show"] = false,
 },
 ["tww-siren-isle-weekly"] = {
@@ -16302,40 +15671,11 @@ false,
 ["show"] = false,
 },
 },
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[56064] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
-},
-["call-to-delves"] = {
-["show"] = false,
-},
-["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
-},
 ["sl-patterns-within-patterns"] = {
 ["show"] = false,
 },
 ["tww-the-theater-trope"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -16344,8 +15684,7 @@ false,
 ["show"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["tww-special-assignments"] = {
 [81691] = {
@@ -16432,8 +15771,15 @@ false,
 ["show"] = false,
 },
 ["tww-delves"] = {
+"0/3 完成任意地心之战地下堡",
 ["show"] = true,
-["isComplete"] = true,
+["numFulfilled"] = 0,
+["numRequired"] = 3,
+["isComplete"] = false,
+["leaderboardCount"] = 1,
+["text"] = "0/3",
+["objectiveType"] = "object",
+["isFinish"] = false,
 },
 ["sl-shaping-fate"] = {
 ["show"] = false,
@@ -16548,23 +15894,30 @@ false,
 },
 },
 },
-["ILPvp"] = 642,
-["Arena3v3rating"] = 0,
+["Class"] = "SHAMAN",
+["SpecializationIDs"] = {
+262,
+263,
+264,
+},
+["ILPvp"] = 643,
+["Covenant"] = 2,
 ["currency"] = {
-[2917] = {
-["amount"] = 0,
+[824] = {
+["totalMax"] = 10000,
+["amount"] = 9866,
 },
 [515] = {
 ["amount"] = 55,
 },
 [3028] = {
-["relatedItemCount"] = 0,
-["amount"] = 2,
+["relatedItemCount"] = 25,
+["amount"] = 5,
 },
 [3107] = {
-["totalEarned"] = 45,
-["totalMax"] = 270,
-["amount"] = 60,
+["totalEarned"] = 61,
+["totalMax"] = 450,
+["amount"] = 76,
 },
 [1101] = {
 ["totalMax"] = 100000,
@@ -16590,15 +15943,15 @@ false,
 },
 [3116] = {
 ["totalMax"] = 8,
-["amount"] = 1,
+["amount"] = 2,
 },
 [1767] = {
 ["amount"] = 981,
 },
 [3132] = {
 ["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
 },
 [738] = {
 ["amount"] = 17,
@@ -16615,37 +15968,39 @@ false,
 },
 [3109] = {
 ["totalEarned"] = 90,
-["totalMax"] = 180,
+["totalMax"] = 360,
 ["amount"] = 0,
 },
-[994] = {
+[752] = {
 ["totalMax"] = 20,
-["amount"] = 10,
+["amount"] = 1,
 },
 [1299] = {
 ["totalMax"] = 5000,
 ["amount"] = 485,
 },
-[824] = {
-["totalMax"] = 10000,
-["amount"] = 9866,
+[1885] = {
+["amount"] = 48,
 },
 [3023] = {
 ["totalEarned"] = 22,
 ["totalMax"] = 28,
 ["amount"] = 22,
 },
-[3090] = {
-["amount"] = 177,
+[1813] = {
+["covenant"] = {
+[2] = 3585,
+},
+["totalMax"] = 200000,
+["amount"] = 3585,
 },
 [697] = {
 ["totalMax"] = 20,
 ["amount"] = 15,
 },
-[3110] = {
-["totalEarned"] = 6,
-["totalMax"] = 180,
-["amount"] = 6,
+[1508] = {
+["totalMax"] = 2000,
+["amount"] = 76,
 },
 [2803] = {
 ["amount"] = 1856,
@@ -16655,16 +16010,19 @@ false,
 },
 [3008] = {
 ["totalMax"] = 2000,
-["amount"] = 1380,
+["amount"] = 1770,
 },
-[2815] = {
-["amount"] = 14448,
+[3110] = {
+["totalEarned"] = 6,
+["totalMax"] = 360,
+["amount"] = 6,
 },
-[823] = {
-["amount"] = 11497,
+[776] = {
+["totalMax"] = 20,
+["amount"] = 0,
 },
-[777] = {
-["amount"] = 32287,
+[3056] = {
+["amount"] = 11531,
 },
 [2914] = {
 ["amount"] = 0,
@@ -16673,23 +16031,23 @@ false,
 ["totalMax"] = 8,
 ["amount"] = 8,
 },
-[3056] = {
-["amount"] = 11501,
-},
-[3108] = {
-["totalEarned"] = 164,
-["totalMax"] = 270,
-["amount"] = 239,
-},
-[2915] = {
+[1166] = {
 ["amount"] = 0,
+},
+[2533] = {
+["totalMax"] = 8,
+["amount"] = 8,
 },
 [2912] = {
 ["totalMax"] = 9,
 ["amount"] = 9,
 },
-[1533] = {
-["amount"] = 307,
+[2915] = {
+["amount"] = 0,
+},
+[1155] = {
+["totalMax"] = 400,
+["amount"] = 62,
 },
 [1816] = {
 ["amount"] = 330,
@@ -16698,19 +16056,15 @@ false,
 ["totalMax"] = 100,
 ["amount"] = 100,
 },
-[1822] = {
-["covenant"] = {
-[2] = 26,
-},
-["totalMax"] = 80,
-["amount"] = 26,
-},
 [402] = {
 ["amount"] = 1,
 },
+[1828] = {
+["amount"] = 320,
+},
 [2813] = {
 ["totalMax"] = 8,
-["amount"] = 6,
+["amount"] = 7,
 },
 [1191] = {
 ["amount"] = 0,
@@ -16720,12 +16074,15 @@ false,
 ["totalMax"] = 6,
 ["amount"] = 6,
 },
-[1828] = {
-["amount"] = 320,
+[1822] = {
+["covenant"] = {
+[2] = 26,
 },
-[1155] = {
-["totalMax"] = 400,
-["amount"] = 62,
+["totalMax"] = 80,
+["amount"] = 26,
+},
+[1533] = {
+["amount"] = 307,
 },
 [2916] = {
 ["amount"] = 0,
@@ -16733,41 +16090,36 @@ false,
 [1226] = {
 ["amount"] = 1821,
 },
-[2533] = {
-["totalMax"] = 8,
-["amount"] = 8,
+[3108] = {
+["totalEarned"] = 200,
+["totalMax"] = 450,
+["amount"] = 290,
 },
-[776] = {
-["totalMax"] = 20,
+[777] = {
+["amount"] = 32287,
+},
+[823] = {
+["amount"] = 11497,
+},
+[2815] = {
+["amount"] = 14853,
+},
+[3090] = {
+["amount"] = 177,
+},
+[2917] = {
 ["amount"] = 0,
 },
-[1166] = {
-["amount"] = 0,
-},
-[1508] = {
-["totalMax"] = 2000,
-["amount"] = 76,
-},
-[1813] = {
-["covenant"] = {
-[2] = 3585,
-},
-["totalMax"] = 200000,
-["amount"] = 3585,
-},
-[1885] = {
-["amount"] = 48,
-},
-[752] = {
+[994] = {
 ["totalMax"] = 20,
-["amount"] = 1,
+["amount"] = 10,
 },
 },
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["Warmode"] = false,
-["Order"] = 2,
+["LClass"] = "萨满祭司",
 ["Level"] = 80,
-["LastSeen"] = 1742342974,
+["lastbossyell"] = "卡洛·磨油",
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -16784,105 +16136,92 @@ false,
 ["boss"] = false,
 },
 },
-["MythicKey"] = {
-["mapID"] = 247,
-["name"] = "暴富矿区！！",
-["link"] = "|cffa335ee|Hkeystone:180653:247:5:162:0:0:0:0|h[钥石：暴富矿区！！ (5)]|h|r",
-["color"] = "ff1eff00",
-["level"] = 5,
-["ResetTime"] = 1742425199,
-},
-["PlayedTotal"] = 1906404,
-["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1741421967,
-["MaxXP"] = 100000000,
-["Money"] = 4649839692,
-["Covenant"] = 2,
-["MythicPlusScore"] = 590,
-["lastboss"] = "泽笛手: 地下堡",
 ["MythicKeyBest"] = {
 ["threshold"] = {
 1,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = false,
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = true,
 },
-["PlayedLevel"] = 378580,
+["PlayedTotal"] = 1913281,
+["Arena2v2rating"] = 0,
+["lastbossyelltime"] = 1743003067,
+["MaxXP"] = 100000000,
+["MythicKey"] = {
+},
+["Zone"] = "多恩诺嘉尔",
+["lastboss"] = "nil",
+["MythicPlusScore"] = 588,
+["Money"] = 4920841966,
+["PlayedLevel"] = 385457,
+["oRace"] = "Pandaren",
+["Order"] = 2,
+["Skills"] = {
+},
+["WeeklyResetTime"] = 1743634799,
 ["Calling"] = {
 {
 ["isCompleted"] = false,
-["title"] = "玛卓克萨斯的召唤",
-["questID"] = 60431,
-["expiredTime"] = 1742425199,
+["title"] = "家园的麻烦",
+["questID"] = 60432,
+["expiredTime"] = 1743202799,
 ["isOnQuest"] = false,
 },
 {
 ["isCompleted"] = false,
-["title"] = "雷文德斯的挑战",
-["questID"] = 60448,
-["expiredTime"] = 1742511599,
+["title"] = "稀有资源",
+["questID"] = 60417,
+["expiredTime"] = 1743289199,
 ["isOnQuest"] = false,
 },
 {
 ["isCompleted"] = false,
-["title"] = "协助玛卓克萨斯",
-["questID"] = 60397,
-["expiredTime"] = 1742597999,
+["title"] = "协助炽蓝仙野",
+["questID"] = 60389,
+["expiredTime"] = 1743375599,
 ["isOnQuest"] = false,
 },
 ["unlocked"] = true,
 },
-["oRace"] = "Pandaren",
-["Skills"] = {
-["2216"] = {
-["Expires"] = 1742352916,
-["Title"] = "炼金术: 卡兹阿加转化",
-},
-},
-["WeeklyResetTime"] = 1742425199,
-["BGBRating"] = {
-[2] = 0,
-[3] = 0,
-},
 },
 ["再睡一夏 - 自由之风"] = {
-["lastbossyell"] = "传令官布雷西雅",
+["lastbossyell"] = "被误导的市民",
 ["isResting"] = true,
 ["Emissary"] = {
 [6] = {
 ["unlocked"] = true,
 ["days"] = {
 {
-["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
-["itemLvl"] = 45,
-["quality"] = 3,
-},
-["questDone"] = 0,
-["isFinish"] = false,
-["isComplete"] = false,
-},
-{
 ["isFinish"] = false,
 ["questDone"] = 0,
 ["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "至高岭贡品",
+["itemName"] = "肯瑞托宝箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
 },
 {
-["isFinish"] = false,
-["questDone"] = 0,
-["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "守望者战地包",
+["itemName"] = "瓦拉加尔储物箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
+["questDone"] = 0,
+["isComplete"] = false,
+["isFinish"] = false,
+},
+{
+["questReward"] = {
+["itemName"] = "镀金的大箱子",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
+["questDone"] = 0,
+["isFinish"] = false,
+["isComplete"] = false,
 },
 },
 },
@@ -16890,119 +16229,52 @@ false,
 ["Race"] = "虚空精灵",
 ["BGBRating"] = {
 [2] = 0,
+[3] = 0,
 },
 ["RBGrating"] = 0,
 ["SoloShuffleRating"] = {
 [2] = 0,
+[3] = 0,
 },
-["lastbosstime"] = 1741418764,
-["Show"] = "always",
+["lastbosstime"] = 1742657612,
+["Covenant"] = 3,
 ["TimewornMythicKey"] = {
 },
-["Faction"] = "Alliance",
-["ILe"] = 603.4375,
+["Calling"] = {
+{
+["isCompleted"] = false,
+["title"] = "雷文德斯的召唤",
+["questID"] = 60421,
+["expiredTime"] = 1743202799,
+["isOnQuest"] = false,
+},
+{
+["isCompleted"] = false,
+["title"] = "稀有资源",
+["questID"] = 60414,
+["expiredTime"] = 1743289199,
+["isOnQuest"] = false,
+},
+{
+["isCompleted"] = false,
+["title"] = "协助炽蓝仙野",
+["questID"] = 60381,
+["expiredTime"] = 1743375599,
+["isOnQuest"] = false,
+},
+["unlocked"] = true,
+},
+["ILe"] = 618.5625,
 ["Quests"] = {
 [82678] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
 ["Title"] = "档案馆：第一个圆盘",
 ["Link"] = "|cffffff00|Hquest:82678:90|h[档案馆：第一个圆盘]|h|r",
 },
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-["Title"] = "世界之魂：世界任务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82487] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82487:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
-["Title"] = "剧场巡演",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-},
 [84131] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
+["Link"] = "|cffffff00|Hquest:84131:90|h[制皮指名服务]|h|r",
+["Title"] = "制皮指名服务",
 ["Zone"] = {
 ["mapType"] = 3,
 ["mapID"] = 2339,
@@ -17010,172 +16282,12 @@ false,
 ["parentMapID"] = 2248,
 ["flags"] = 1048580,
 },
-["Title"] = "制皮指名服务",
-["Link"] = "|cffffff00|Hquest:84131:90|h[制皮指名服务]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
 },
 },
 ["Paragon"] = {
 },
-["IL"] = 613.875,
-["LastSeen"] = 1742343314,
-["SpecializationIDs"] = {
-253,
-254,
-255,
-},
-["Class"] = "HUNTER",
-["oRace"] = "VoidElf",
-["ILPvp"] = 613.875,
-["Covenant"] = 3,
-["currency"] = {
-[2815] = {
-["amount"] = 16803,
-},
-[3028] = {
-["relatedItemCount"] = 0,
-["amount"] = 3,
-},
-[3107] = {
-["totalEarned"] = 14,
-["totalMax"] = 270,
-["amount"] = 14,
-},
-[1810] = {
-["covenant"] = {
-[3] = 53,
-},
-["totalMax"] = 100,
-["amount"] = 53,
-},
-[3100] = {
-["amount"] = 0,
-},
-[1885] = {
-["amount"] = 4,
-},
-[3116] = {
-["totalMax"] = 8,
-["amount"] = 1,
-},
-[1767] = {
-["amount"] = 2069,
-},
-[3132] = {
-["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
-},
-[2912] = {
-["totalMax"] = 9,
-["amount"] = 9,
-},
-[3023] = {
-["totalEarned"] = 22,
-["totalMax"] = 28,
-["amount"] = 22,
-},
-[2803] = {
-["amount"] = 0,
-},
-[3008] = {
-["totalMax"] = 2000,
-["amount"] = 428,
-},
-[2914] = {
-["amount"] = 0,
-},
-[1792] = {
-["totalMax"] = 15000,
-["amount"] = 0,
-},
-[1166] = {
-["amount"] = 0,
-},
-[3090] = {
-["amount"] = 105,
-},
-[1816] = {
-["amount"] = 376,
-},
-[2915] = {
-["amount"] = 0,
-},
-[1822] = {
-["covenant"] = {
-[3] = 30,
-},
-["totalMax"] = 80,
-["amount"] = 30,
-},
-[1828] = {
-["amount"] = 1305,
-},
-[2813] = {
-["totalMax"] = 8,
-["amount"] = 7,
-},
-[1889] = {
-["amount"] = 7,
-},
-[1820] = {
-["totalMax"] = 100,
-["amount"] = 12,
-},
-[3089] = {
-["amount"] = 0,
-},
-[1155] = {
-["totalMax"] = 1000,
-["amount"] = 198,
-},
-[2916] = {
-["amount"] = 0,
-},
-[2796] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[1220] = {
-["amount"] = 4678,
-},
-[2533] = {
-["totalMax"] = 8,
-["amount"] = 8,
-},
-[3056] = {
-["amount"] = 2756,
-},
-[515] = {
-["amount"] = 47,
-},
-[1813] = {
-["covenant"] = {
-[3] = 743,
-},
-["totalMax"] = 200000,
-["amount"] = 743,
-},
-[1754] = {
-["amount"] = 5,
-},
-[3108] = {
-["totalEarned"] = 41,
-["totalMax"] = 270,
-["amount"] = 66,
-},
-},
-["DailyResetTime"] = 1742425199,
-["Warmode"] = false,
+["WeeklyResetTime"] = 1743634799,
+["LastSeen"] = 1743118744,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -17205,18 +16317,18 @@ false,
 ["show"] = false,
 },
 ["emissary-of-war"] = {
-["show"] = false,
-},
-["timewalking"] = {
-"0/5 完成时空漫游地下城",
+"0/4 完成史诗地下城",
 ["show"] = true,
 ["isFinish"] = false,
 ["isComplete"] = false,
-["numRequired"] = 5,
+["numRequired"] = 4,
 ["leaderboardCount"] = 1,
-["text"] = "0/5",
+["text"] = "0/4",
 ["objectiveType"] = "object",
 ["numFulfilled"] = 0,
+},
+["timewalking"] = {
+["show"] = false,
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
@@ -17297,8 +16409,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -17312,8 +16423,8 @@ false,
 "10/10 收集怪异蜡团",
 ["show"] = true,
 ["isFinish"] = true,
-["isComplete"] = false,
 ["leaderboardCount"] = 1,
+["isComplete"] = false,
 },
 ["df-the-superbloom"] = {
 ["show"] = false,
@@ -17385,33 +16496,45 @@ false,
 ["df-a-worthy-ally-loamm-niffen"] = {
 ["show"] = false,
 },
-["df-researchers-under-fire"] = {
-["show"] = true,
-[75628] = {
+["bfa-horrific-vision"] = {
+[57847] = {
 ["show"] = false,
 },
-[75629] = {
+[57848] = {
 ["show"] = false,
 },
-[75630] = {
+[57841] = {
 ["show"] = false,
 },
-[75627] = {
+[57842] = {
 ["show"] = false,
 },
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
+["show"] = false,
 },
 ["sl-covenant-assault"] = {
 ["show"] = false,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 ["numRequired"] = 100,
 ["isComplete"] = false,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
 ["isFinish"] = false,
 },
@@ -17424,10 +16547,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 [70723] = {
@@ -17436,7 +16559,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 },
@@ -17448,10 +16571,6 @@ false,
 },
 ["df-trial-of-elements"] = {
 ["show"] = false,
-},
-["tww-the-call-of-the-worldsoul"] = {
-["show"] = true,
-["isComplete"] = true,
 },
 ["tww-siren-isle-weekly"] = {
 [84850] = {
@@ -17507,9 +16626,6 @@ false,
 ["show"] = false,
 },
 },
-["call-to-delves"] = {
-["show"] = false,
-},
 ["bfa-nzoth-assault"] = {
 ["show"] = false,
 [55350] = {
@@ -17531,12 +16647,34 @@ false,
 ["show"] = false,
 },
 },
+["call-to-delves"] = {
+["show"] = false,
+},
+["tww-the-call-of-the-worldsoul"] = {
+"0/6 完成卡兹阿加世界任务",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 6,
+["leaderboardCount"] = 1,
+["text"] = "0/6",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
+},
 ["sl-patterns-within-patterns"] = {
 ["show"] = false,
 },
 ["tww-the-theater-trope"] = {
+"64/50 赢得观众的认可",
+"0/1 完成一场剧场巡演",
 ["show"] = true,
-["isComplete"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 1,
+["leaderboardCount"] = 2,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -17545,8 +16683,7 @@ false,
 ["show"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["tww-special-assignments"] = {
 [81691] = {
@@ -17606,35 +16743,23 @@ false,
 ["objectiveType"] = "monster",
 ["isFinish"] = false,
 },
-["bfa-horrific-vision"] = {
-[57847] = {
-["show"] = false,
-},
-[57848] = {
-["show"] = false,
-},
-[57841] = {
-["show"] = false,
-},
-[57842] = {
-["show"] = false,
-},
-[57843] = {
-["show"] = false,
-},
-[57844] = {
-["show"] = false,
-},
-[57845] = {
-["show"] = false,
-},
-[57846] = {
-["show"] = false,
-},
-["show"] = false,
-},
 ["df-sparks-of-life"] = {
 ["show"] = false,
+},
+["df-researchers-under-fire"] = {
+["show"] = true,
+[75628] = {
+["show"] = false,
+},
+[75629] = {
+["show"] = false,
+},
+[75630] = {
+["show"] = false,
+},
+[75627] = {
+["show"] = false,
+},
 },
 ["df-primal-storms-elementals"] = {
 [73998] = {
@@ -17691,7 +16816,15 @@ false,
 ["show"] = false,
 },
 ["tww-biergoth-dungeon-quest"] = {
-["show"] = false,
+"0/1 赶走风险投资公司",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 1,
+["leaderboardCount"] = 1,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
 },
 ["df-trial-of-flood"] = {
 ["show"] = false,
@@ -17703,31 +16836,152 @@ false,
 ["show"] = false,
 },
 },
+["Class"] = "HUNTER",
+["Faction"] = "Alliance",
+["ILPvp"] = 619.375,
+["Arena3v3rating"] = 0,
+["currency"] = {
+[515] = {
+["amount"] = 47,
+},
+[3028] = {
+["relatedItemCount"] = 50,
+["amount"] = 6,
+},
+[3107] = {
+["totalEarned"] = 40,
+["totalMax"] = 450,
+["amount"] = 40,
+},
+[1810] = {
+["covenant"] = {
+[3] = 53,
+},
+["totalMax"] = 100,
+["amount"] = 53,
+},
+[3100] = {
+["amount"] = 0,
+},
+[1885] = {
+["amount"] = 4,
+},
+[1889] = {
+["amount"] = 7,
+},
+[1767] = {
+["amount"] = 2069,
+},
+[3132] = {
+["totalEarned"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
+},
+[1220] = {
+["amount"] = 4678,
+},
+[3023] = {
+["totalEarned"] = 22,
+["totalMax"] = 28,
+["amount"] = 22,
+},
+[2803] = {
+["amount"] = 0,
+},
+[3008] = {
+["totalMax"] = 2000,
+["amount"] = 909,
+},
+[2914] = {
+["amount"] = 0,
+},
+[2796] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[3056] = {
+["amount"] = 119,
+},
+[1822] = {
+["covenant"] = {
+[3] = 30,
+},
+["totalMax"] = 80,
+["amount"] = 30,
+},
+[1816] = {
+["amount"] = 376,
+},
+[1820] = {
+["totalMax"] = 100,
+["amount"] = 12,
+},
+[3116] = {
+["totalMax"] = 8,
+["amount"] = 2,
+},
+[1828] = {
+["amount"] = 1305,
+},
+[2813] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[3090] = {
+["amount"] = 105,
+},
+[2915] = {
+["amount"] = 0,
+},
+[3089] = {
+["amount"] = 0,
+},
+[1155] = {
+["totalMax"] = 1000,
+["amount"] = 198,
+},
+[2916] = {
+["amount"] = 0,
+},
+[1166] = {
+["amount"] = 0,
+},
+[2912] = {
+["totalMax"] = 9,
+["amount"] = 9,
+},
+[2533] = {
+["totalMax"] = 8,
+["amount"] = 8,
+},
+[1792] = {
+["totalMax"] = 15000,
+["amount"] = 0,
+},
+[2815] = {
+["amount"] = 17295,
+},
+[1813] = {
+["covenant"] = {
+[3] = 743,
+},
+["totalMax"] = 200000,
+["amount"] = 743,
+},
+[1754] = {
+["amount"] = 5,
+},
+[3108] = {
+["totalEarned"] = 80,
+["totalMax"] = 450,
+["amount"] = 120,
+},
+},
+["DailyResetTime"] = 1743202799,
+["Warmode"] = false,
+["Order"] = 50,
 ["Level"] = 80,
-["Calling"] = {
-{
-["isCompleted"] = false,
-["title"] = "玛卓克萨斯的召唤",
-["questID"] = 60420,
-["expiredTime"] = 1742425199,
-["isOnQuest"] = false,
-},
-{
-["isCompleted"] = false,
-["title"] = "雷文德斯的挑战",
-["questID"] = 60435,
-["expiredTime"] = 1742511599,
-["isOnQuest"] = false,
-},
-{
-["isCompleted"] = false,
-["title"] = "协助玛卓克萨斯",
-["questID"] = 60383,
-["expiredTime"] = 1742597999,
-["isOnQuest"] = false,
-},
-["unlocked"] = true,
-},
+["Show"] = "always",
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -17750,26 +17004,30 @@ false,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
 ["rewardWaiting"] = false,
 },
-["PlayedTotal"] = 284945,
+["PlayedTotal"] = 293935,
 ["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1742230572,
-["Money"] = 3257873078,
-["Arena3v3rating"] = 0,
+["lastbossyelltime"] = 1743005014,
+["Money"] = 3565282721,
+["Zone"] = "多恩诺嘉尔",
+["MaxXP"] = 100000000,
+["MythicPlusScore"] = 0,
+["lastboss"] = "nil",
 ["MythicKey"] = {
 },
-["MythicPlusScore"] = 0,
-["lastboss"] = "地精教父",
-["MaxXP"] = 100000000,
-["PlayedLevel"] = 81864,
-["LClass"] = "猎人",
-["WeeklyResetTime"] = 1742425199,
+["PlayedLevel"] = 90854,
+["SpecializationIDs"] = {
+253,
+254,
+255,
+},
+["oRace"] = "VoidElf",
 ["Skills"] = {
 },
-["Order"] = 50,
-["Zone"] = "多恩诺嘉尔",
+["IL"] = 619.375,
+["LClass"] = "猎人",
 },
 ["依山观天澜 - 自由之风"] = {
 ["lastbossyell"] = "传令官布雷西雅",
@@ -17779,26 +17037,31 @@ false,
 ["unlocked"] = true,
 ["days"] = {
 {
-["isFinish"] = false,
-["questDone"] = 0,
-["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "陈旧的克罗库储物箱",
+["itemName"] = "肯瑞托宝箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
+["questDone"] = 0,
+["isFinish"] = false,
+["isComplete"] = false,
 },
 {
-["isFinish"] = false,
-["questDone"] = 0,
-["isComplete"] = false,
 ["questReward"] = {
-["itemName"] = "至高岭贡品",
+["itemName"] = "瓦拉加尔储物箱",
 ["itemLvl"] = 45,
 ["quality"] = 3,
 },
+["questDone"] = 0,
+["isComplete"] = false,
+["isFinish"] = false,
 },
 {
+["questReward"] = {
+["itemName"] = "镀金的大箱子",
+["itemLvl"] = 45,
+["quality"] = 3,
+},
 ["questDone"] = 0,
 ["isFinish"] = false,
 ["isComplete"] = false,
@@ -17809,25 +17072,27 @@ false,
 ["unlocked"] = true,
 ["days"] = {
 {
-["isFinish"] = false,
-["questDone"] = 0,
-["isComplete"] = false,
 ["questReward"] = {
+["quantity"] = 600,
 ["currencyID"] = 1553,
-["quantity"] = 3600,
 },
+["questDone"] = 0,
+["isFinish"] = false,
+["isComplete"] = false,
 },
 {
-["isFinish"] = false,
+["questReward"] = {
+["money"] = 2000000,
+},
 ["questDone"] = 0,
 ["isComplete"] = false,
-["questReward"] = {
-["itemName"] = "库尔提拉斯武器箱",
-["itemLvl"] = 99,
-["quality"] = 4,
-},
+["isFinish"] = false,
 },
 {
+["questReward"] = {
+["quantity"] = 600,
+["currencyID"] = 1553,
+},
 ["questDone"] = 0,
 ["isFinish"] = false,
 ["isComplete"] = false,
@@ -17844,119 +17109,17 @@ false,
 [3] = 0,
 [2] = 0,
 },
-["lastbosstime"] = 1741793316,
-["Show"] = "always",
+["lastbosstime"] = 1742721042,
+["Covenant"] = 2,
 ["TimewornMythicKey"] = {
 },
 ["Faction"] = "Alliance",
-["ILe"] = 617.125,
+["ILe"] = 618,
 ["Quests"] = {
-[82496] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：千丝之城",
-["Link"] = "|cffffff00|Hquest:82496:90|h[世界之魂：千丝之城]|h|r",
-},
-[82500] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：驭雷栖巢",
-["Link"] = "|cffffff00|Hquest:82500:90|h[世界之魂：驭雷栖巢]|h|r",
-},
-[82659] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：尼鲁巴尔王宫",
-["Link"] = "|cffffff00|Hquest:82659:90|h[世界之魂：尼鲁巴尔王宫]|h|r",
-},
-[82506] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：暗焰裂口",
-["Link"] = "|cffffff00|Hquest:82506:90|h[世界之魂：暗焰裂口]|h|r",
-},
-[82512] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：世界首领",
-["Link"] = "|cffffff00|Hquest:82512:90|h[世界之魂：世界首领]|h|r",
-},
-[82452] = {
-["Expires"] = 1742425199,
-["Link"] = "|cffffff00|Hquest:82452:90|h[世界之魂：世界任务]|h|r",
-["Title"] = "世界之魂：世界任务",
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2339,
-["name"] = "多恩诺嘉尔",
-["parentMapID"] = 2248,
-["flags"] = 1048580,
-},
-},
-[82516] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：缔结契约",
-["Link"] = "|cffffff00|Hquest:82516:90|h[世界之魂：缔结契约]|h|r",
-},
-[82487] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：矶石宝库",
-["Link"] = "|cffffff00|Hquest:82487:90|h[世界之魂：矶石宝库]|h|r",
-},
-[82491] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：艾拉-卡拉，回响之城",
-["Link"] = "|cffffff00|Hquest:82491:90|h[世界之魂：艾拉-卡拉，回响之城]|h|r",
-},
-[82493] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：破晨号",
-["Link"] = "|cffffff00|Hquest:82493:90|h[世界之魂：破晨号]|h|r",
-},
-[82495] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：燧酿酒庄",
-["Link"] = "|cffffff00|Hquest:82495:90|h[世界之魂：燧酿酒庄]|h|r",
-},
-[82499] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：圣焰隐修院",
-["Link"] = "|cffffff00|Hquest:82499:90|h[世界之魂：圣焰隐修院]|h|r",
-},
-[82511] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：觉醒主机",
-["Link"] = "|cffffff00|Hquest:82511:90|h[世界之魂：觉醒主机]|h|r",
-},
-[82482] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：嗅探",
-["Link"] = "|cffffff00|Hquest:82482:90|h[世界之魂：嗅探]|h|r",
-},
-[82453] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：返场加演！",
-["Link"] = "|cffffff00|Hquest:82453:90|h[世界之魂：返场加演！]|h|r",
-},
-[82483] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂：散布圣光",
-["Link"] = "|cffffff00|Hquest:82483:90|h[世界之魂：散布圣光]|h|r",
-},
-[82449] = {
-["Expires"] = 1742425199,
-["Title"] = "世界之魂的呼唤",
-["Link"] = "|cffffff00|Hquest:82449:90|h[世界之魂的呼唤]|h|r",
-},
-[83240] = {
-["Expires"] = 1742425199,
-["Zone"] = {
-["mapType"] = 3,
-["mapID"] = 2328,
-["name"] = "榭台",
-["parentMapID"] = 2248,
-["flags"] = 524292,
-},
-["Title"] = "剧场巡演",
-["Link"] = "|cffffff00|Hquest:83240:90|h[剧场巡演]|h|r",
-},
 [84127] = {
-["Expires"] = 1742425199,
+["Expires"] = 1743634799,
+["Link"] = "|cffffff00|Hquest:84127:90|h[锻造指名服务]|h|r",
+["Title"] = "锻造指名服务",
 ["Zone"] = {
 ["mapType"] = 3,
 ["mapID"] = 2339,
@@ -17964,8 +17127,6 @@ false,
 ["parentMapID"] = 2248,
 ["flags"] = 1048580,
 },
-["Title"] = "锻造指名服务",
-["Link"] = "|cffffff00|Hquest:84127:90|h[锻造指名服务]|h|r",
 },
 },
 ["Paragon"] = {
@@ -17974,10 +17135,9 @@ false,
 1900,
 1948,
 2045,
-2570,
 },
-["WeeklyResetTime"] = 1742425199,
-["Zone"] = "多恩诺嘉尔",
+["IL"] = 622.25,
+["LastSeen"] = 1743119808,
 ["Progress"] = {
 ["tww-anniversary-restored-coffer-key"] = {
 ["show"] = false,
@@ -18007,18 +17167,18 @@ false,
 ["show"] = false,
 },
 ["emissary-of-war"] = {
-["show"] = false,
+"0/4 完成史诗地下城",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 4,
+["leaderboardCount"] = 1,
+["text"] = "0/4",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
 },
 ["timewalking"] = {
-"0/5 完成时空漫游地下城",
-["show"] = true,
-["numFulfilled"] = 0,
-["numRequired"] = 5,
-["isComplete"] = false,
-["leaderboardCount"] = 1,
-["text"] = "0/5",
-["objectiveType"] = "object",
-["isFinish"] = false,
+["show"] = false,
 },
 ["bfa-lesser-vision"] = {
 ["show"] = false,
@@ -18110,8 +17270,7 @@ false,
 ["show"] = false,
 },
 ["tww-the-key-to-success"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["tww-rollin-down-in-the-deeps"] = {
 "0/10 收集怪异蜡团",
@@ -18128,7 +17287,15 @@ false,
 ["show"] = false,
 },
 ["tww-biergoth-dungeon-quest"] = {
-["show"] = false,
+"0/1 赶走风险投资公司",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 1,
+["leaderboardCount"] = 1,
+["text"] = "0/1",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
 },
 ["sl-replenish-the-reservoir"] = {
 ["show"] = false,
@@ -18189,27 +17356,18 @@ false,
 },
 ["show"] = false,
 },
-["tww-gearing-up-for-trouble"] = {
-"0/1 与代言人库尔达斯谈一谈并开始主机觉醒（可选）",
-"0/20 清除敌人波次",
-["show"] = true,
-["isFinish"] = false,
-["isComplete"] = false,
-["numRequired"] = 1,
-["leaderboardCount"] = 2,
-["text"] = "0/1 0/20",
-["objectiveType"] = "monster",
-["numFulfilled"] = 0,
+["sl-covenant-assault"] = {
+["show"] = false,
 },
 ["df-primal-storms-core"] = {
 ["show"] = true,
 [70753] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 [70723] = {
@@ -18218,7 +17376,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 },
@@ -18234,14 +17392,14 @@ false,
 ["isFinish"] = false,
 },
 ["The Severed Threads"] = {
-"在艾基-卡赫特完成活动 (20%)",
+"在艾基-卡赫特完成活动 (60%)",
 "0/1 查看供应商亚马丝的契约物品（可选）",
 ["show"] = true,
-["numFulfilled"] = 20,
+["numFulfilled"] = 60,
 ["numRequired"] = 100,
 ["isComplete"] = false,
 ["leaderboardCount"] = 2,
-["text"] = "20% 0/1",
+["text"] = "60% 0/1",
 ["objectiveType"] = "progressbar",
 ["isFinish"] = false,
 },
@@ -18305,33 +17463,16 @@ false,
 ["df-trial-of-elements"] = {
 ["show"] = false,
 },
-["bfa-nzoth-assault"] = {
-["show"] = false,
-[55350] = {
-["show"] = false,
-},
-[57728] = {
-["show"] = false,
-},
-[56308] = {
-["show"] = false,
-},
-[57157] = {
-["show"] = false,
-},
-[57008] = {
-["show"] = false,
-},
-[56064] = {
-["show"] = false,
-},
-},
 ["tww-the-call-of-the-worldsoul"] = {
+"0/6 完成卡兹阿加世界任务",
 ["show"] = true,
-["isComplete"] = true,
-},
-["call-to-delves"] = {
-["show"] = false,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 6,
+["leaderboardCount"] = 1,
+["text"] = "0/6",
+["objectiveType"] = "object",
+["numFulfilled"] = 0,
 },
 ["tww-siren-isle-weekly"] = {
 [84850] = {
@@ -18387,12 +17528,35 @@ false,
 ["show"] = false,
 },
 },
+["call-to-delves"] = {
+["show"] = false,
+},
+["bfa-nzoth-assault"] = {
+["show"] = false,
+[55350] = {
+["show"] = false,
+},
+[57728] = {
+["show"] = false,
+},
+[56308] = {
+["show"] = false,
+},
+[57157] = {
+["show"] = false,
+},
+[57008] = {
+["show"] = false,
+},
+[56064] = {
+["show"] = false,
+},
+},
 ["df-sparks-of-life"] = {
 ["show"] = false,
 },
 ["tww-the-theater-trope"] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 ["df-community-feast"] = {
 ["show"] = false,
@@ -18453,12 +17617,21 @@ false,
 ["sl-shaping-fate"] = {
 ["show"] = false,
 },
-["sl-covenant-assault"] = {
-["show"] = false,
-},
 ["tww-services-requested"] = {
 ["show"] = true,
 ["isComplete"] = true,
+},
+["tww-gearing-up-for-trouble"] = {
+"0/1 与代言人库尔达斯谈一谈并开始主机觉醒（可选）",
+"0/20 清除敌人波次",
+["show"] = true,
+["isFinish"] = false,
+["isComplete"] = false,
+["numRequired"] = 1,
+["leaderboardCount"] = 2,
+["text"] = "0/1 0/20",
+["objectiveType"] = "monster",
+["numFulfilled"] = 0,
 },
 ["df-siege-on-dragonbane-keep"] = {
 ["show"] = false,
@@ -18474,8 +17647,7 @@ false,
 ["show"] = false,
 },
 [84736] = {
-["show"] = true,
-["isComplete"] = true,
+["show"] = false,
 },
 [84737] = {
 ["show"] = false,
@@ -18526,36 +17698,33 @@ false,
 },
 },
 ["Class"] = "WARRIOR",
-["Covenant"] = 2,
-["ILPvp"] = 622.125,
 ["Arena3v3rating"] = 0,
+["ILPvp"] = 622.25,
+["Show"] = "always",
 ["currency"] = {
-[824] = {
-["totalMax"] = 10000,
-["amount"] = 1591,
-},
 [2917] = {
 ["amount"] = 0,
+},
+[1191] = {
+["amount"] = 0,
+},
+[515] = {
+["amount"] = 32,
 },
 [2122] = {
 ["amount"] = 1,
 },
 [2815] = {
-["amount"] = 14729,
-},
-[515] = {
-["amount"] = 32,
+["amount"] = 16664,
 },
 [3028] = {
-["relatedItemCount"] = 0,
-["amount"] = 3,
+["relatedItemCount"] = 25,
+["amount"] = 6,
 },
-[1822] = {
-["covenant"] = {
-[2] = 37,
-},
-["totalMax"] = 80,
-["amount"] = 37,
+[3107] = {
+["totalEarned"] = 38,
+["totalMax"] = 450,
+["amount"] = 38,
 },
 [777] = {
 ["amount"] = 7251,
@@ -18564,15 +17733,17 @@ false,
 ["totalMax"] = 100000,
 ["amount"] = 160,
 },
-[1889] = {
+[2533] = {
+["totalMax"] = 8,
 ["amount"] = 8,
 },
-[1149] = {
-["totalMax"] = 5000,
-["amount"] = 150,
+[1342] = {
+["totalMax"] = 1000,
+["amount"] = 89,
 },
-[1220] = {
-["amount"] = 33112,
+[2912] = {
+["totalMax"] = 9,
+["amount"] = 9,
 },
 [1810] = {
 ["covenant"] = {
@@ -18587,22 +17758,24 @@ false,
 [3100] = {
 ["amount"] = 0,
 },
-[1129] = {
-["weeklyMax"] = 3,
-["totalMax"] = 20,
-["amount"] = 12,
+[1822] = {
+["covenant"] = {
+[2] = 37,
+},
+["totalMax"] = 80,
+["amount"] = 37,
 },
 [3116] = {
 ["totalMax"] = 8,
-["amount"] = 1,
+["amount"] = 2,
 },
 [1767] = {
 ["amount"] = 10416,
 },
 [3132] = {
 ["totalEarned"] = 1,
-["totalMax"] = 2,
-["amount"] = 1,
+["totalMax"] = 4,
+["amount"] = 2,
 },
 [738] = {
 ["amount"] = 61,
@@ -18614,17 +17787,18 @@ false,
 ["totalMax"] = 20,
 ["amount"] = 0,
 },
-[2912] = {
-["totalMax"] = 9,
-["amount"] = 9,
+[1220] = {
+["amount"] = 33112,
 },
 [3108] = {
-["totalEarned"] = 34,
-["totalMax"] = 270,
-["amount"] = 59,
+["totalEarned"] = 68,
+["totalMax"] = 450,
+["amount"] = 108,
 },
-[1885] = {
-["amount"] = 214,
+[1129] = {
+["weeklyMax"] = 3,
+["totalMax"] = 20,
+["amount"] = 12,
 },
 [1533] = {
 ["amount"] = 1525,
@@ -18660,10 +17834,10 @@ false,
 },
 [3008] = {
 ["totalMax"] = 2000,
-["amount"] = 416,
+["amount"] = 889,
 },
 [3056] = {
-["amount"] = 10112,
+["amount"] = 10142,
 },
 [2813] = {
 ["totalMax"] = 8,
@@ -18689,8 +17863,8 @@ false,
 [1828] = {
 ["amount"] = 795,
 },
-[2915] = {
-["amount"] = 0,
+[1816] = {
+["amount"] = 2988,
 },
 [1560] = {
 ["amount"] = 88,
@@ -18702,8 +17876,8 @@ false,
 ["totalMax"] = 100,
 ["amount"] = 100,
 },
-[1816] = {
-["amount"] = 2988,
+[2915] = {
+["amount"] = 0,
 },
 [402] = {
 ["amount"] = 1,
@@ -18737,18 +17911,15 @@ false,
 [2806] = {
 ["amount"] = 0,
 },
-[1342] = {
-["totalMax"] = 1000,
-["amount"] = 89,
+[1149] = {
+["totalMax"] = 5000,
+["amount"] = 150,
 },
-[2533] = {
-["totalMax"] = 8,
+[1889] = {
 ["amount"] = 8,
 },
-[3107] = {
-["totalEarned"] = 16,
-["totalMax"] = 270,
-["amount"] = 16,
+[1885] = {
+["amount"] = 214,
 },
 [1813] = {
 ["covenant"] = {
@@ -18760,8 +17931,9 @@ false,
 [1754] = {
 ["amount"] = 17,
 },
-[1191] = {
-["amount"] = 0,
+[824] = {
+["totalMax"] = 10000,
+["amount"] = 1591,
 },
 },
 ["Skills"] = {
@@ -18770,27 +17942,29 @@ false,
 ["Calling"] = {
 {
 ["isCompleted"] = false,
-["title"] = "玛卓克萨斯的召唤",
-["questID"] = 60431,
-["expiredTime"] = 1742425199,
+["title"] = "家园的麻烦",
+["questID"] = 60432,
+["expiredTime"] = 1743202799,
 ["isOnQuest"] = false,
 },
 {
 ["isCompleted"] = false,
-["title"] = "雷文德斯的挑战",
-["questID"] = 60448,
-["expiredTime"] = 1742511599,
+["title"] = "稀有资源",
+["questID"] = 60417,
+["expiredTime"] = 1743289199,
 ["isOnQuest"] = false,
 },
 {
 ["isCompleted"] = false,
+["title"] = "协助炽蓝仙野",
+["questID"] = 60389,
+["expiredTime"] = 1743375599,
 ["isOnQuest"] = false,
-["expiredTime"] = 1742597999,
 },
 ["unlocked"] = true,
 },
 ["Level"] = 80,
-["IL"] = 622.125,
+["Zone"] = "议会金库",
 ["Warfront"] = {
 {
 ["scenario"] = {
@@ -18807,35 +17981,35 @@ false,
 ["boss"] = false,
 },
 },
-["MythicKey"] = {
-},
-["PlayedTotal"] = 5256070,
-["Arena2v2rating"] = 0,
-["lastbossyelltime"] = 1741524994,
-["Money"] = 11323937782,
-["MaxXP"] = 100000000,
-["LastSeen"] = 1742259919,
-["lastboss"] = "nil",
-["MythicPlusScore"] = 0,
 ["MythicKeyBest"] = {
 ["threshold"] = {
 1,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
-["rewardWaiting"] = false,
+["ResetTime"] = 1743634799,
+["rewardWaiting"] = true,
 },
-["PlayedLevel"] = 246340,
-["LClass"] = "战士",
-["oRace"] = "Human",
-["DailyResetTime"] = 1742425199,
+["PlayedTotal"] = 5262858,
+["Arena2v2rating"] = 0,
+["lastbossyelltime"] = 1743119791,
+["Money"] = 1742554284,
+["WeeklyResetTime"] = 1743634799,
+["MythicKey"] = {
+},
+["lastboss"] = "nil",
+["MythicPlusScore"] = 0,
+["MaxXP"] = 100000000,
+["PlayedLevel"] = 253128,
 ["Order"] = 50,
+["LClass"] = "战士",
+["DailyResetTime"] = 1743202799,
 ["SpecializationIDs"] = {
 71,
 72,
 73,
 },
+["oRace"] = "Human",
 },
 ["二帆不虚 - 熊猫酒仙"] = {
 ["Arena3v3rating"] = 0,
@@ -18934,7 +18108,7 @@ false,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
 },
 ["Level"] = 40,
 ["XP"] = 0,
@@ -19108,13 +18282,13 @@ false,
 ["df-fighting-is-its-own-reward"] = {
 ["show"] = false,
 },
-["tww-gearing-up-for-trouble"] = {
+["tww-services-requested"] = {
 ["show"] = false,
 },
 ["sl-replenish-the-reservoir"] = {
 ["show"] = false,
 },
-["sl-covenant-assault"] = {
+["tww-gearing-up-for-trouble"] = {
 ["show"] = false,
 },
 ["tww-delves"] = {
@@ -19123,34 +18297,22 @@ false,
 ["df-a-worthy-ally-loamm-niffen"] = {
 ["show"] = false,
 },
-["bfa-horrific-vision"] = {
-[57847] = {
+["df-researchers-under-fire"] = {
+["show"] = true,
+[75628] = {
 ["show"] = false,
 },
-[57848] = {
+[75629] = {
 ["show"] = false,
 },
-[57841] = {
+[75630] = {
 ["show"] = false,
 },
-[57842] = {
+[75627] = {
 ["show"] = false,
 },
-[57843] = {
-["show"] = false,
 },
-[57844] = {
-["show"] = false,
-},
-[57845] = {
-["show"] = false,
-},
-[57846] = {
-["show"] = false,
-},
-["show"] = false,
-},
-["tww-services-requested"] = {
+["sl-covenant-assault"] = {
 ["show"] = false,
 },
 ["sl-patterns-within-patterns"] = {
@@ -19320,10 +18482,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 [70723] = {
@@ -19332,7 +18494,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
 },
@@ -19342,22 +18504,34 @@ false,
 ["sl-shaping-fate"] = {
 ["show"] = false,
 },
-["df-researchers-under-fire"] = {
-["show"] = true,
-[75628] = {
-["show"] = false,
-},
-[75629] = {
-["show"] = false,
-},
-[75630] = {
-["show"] = false,
-},
-[75627] = {
-["show"] = false,
-},
-},
 ["df-sparks-of-life"] = {
+["show"] = false,
+},
+["bfa-horrific-vision"] = {
+[57847] = {
+["show"] = false,
+},
+[57848] = {
+["show"] = false,
+},
+[57841] = {
+["show"] = false,
+},
+[57842] = {
+["show"] = false,
+},
+[57843] = {
+["show"] = false,
+},
+[57844] = {
+["show"] = false,
+},
+[57845] = {
+["show"] = false,
+},
+[57846] = {
+["show"] = false,
+},
 ["show"] = false,
 },
 ["tww-pvp-weekly"] = {
@@ -19379,11 +18553,11 @@ false,
 ["Order"] = 50,
 ["MaxXP"] = 39070,
 ["MythicPlusScore"] = 0,
-["WeeklyResetTime"] = 1742425199,
+["WeeklyResetTime"] = 1743634799,
 ["PlayedLevel"] = 12826,
 ["PlayedTotal"] = 367528,
 ["oRace"] = "Draenei",
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["Calling"] = {
 },
 ["Zone"] = "暴风城",
@@ -19450,7 +18624,7 @@ false,
 4,
 8,
 },
-["ResetTime"] = 1742425199,
+["ResetTime"] = 1743634799,
 },
 ["RestXP"] = 10254,
 ["Arena2v2rating"] = 0,
@@ -19618,13 +18792,13 @@ false,
 ["df-fighting-is-its-own-reward"] = {
 ["show"] = false,
 },
-["tww-services-requested"] = {
+["sl-covenant-assault"] = {
 ["show"] = false,
 },
 ["sl-replenish-the-reservoir"] = {
 ["show"] = false,
 },
-["tww-gearing-up-for-trouble"] = {
+["tww-services-requested"] = {
 ["show"] = false,
 },
 ["The Severed Threads"] = {
@@ -19633,22 +18807,10 @@ false,
 ["df-a-worthy-ally-loamm-niffen"] = {
 ["show"] = false,
 },
-["df-researchers-under-fire"] = {
-["show"] = true,
-[75628] = {
+["df-sparks-of-life"] = {
 ["show"] = false,
 },
-[75629] = {
-["show"] = false,
-},
-[75630] = {
-["show"] = false,
-},
-[75627] = {
-["show"] = false,
-},
-},
-["sl-covenant-assault"] = {
+["tww-gearing-up-for-trouble"] = {
 ["show"] = false,
 },
 ["sl-patterns-within-patterns"] = {
@@ -19818,10 +18980,10 @@ false,
 [70753] = {
 ["show"] = false,
 },
-[70754] = {
+[73162] = {
 ["show"] = false,
 },
-[72686] = {
+[70754] = {
 ["show"] = false,
 },
 [70723] = {
@@ -19830,7 +18992,7 @@ false,
 [70752] = {
 ["show"] = false,
 },
-[73162] = {
+[72686] = {
 ["show"] = false,
 },
 },
@@ -19838,9 +19000,6 @@ false,
 ["show"] = false,
 },
 ["bfa-island"] = {
-["show"] = false,
-},
-["df-sparks-of-life"] = {
 ["show"] = false,
 },
 ["bfa-horrific-vision"] = {
@@ -19870,6 +19029,21 @@ false,
 },
 ["show"] = false,
 },
+["df-researchers-under-fire"] = {
+["show"] = true,
+[75628] = {
+["show"] = false,
+},
+[75629] = {
+["show"] = false,
+},
+[75630] = {
+["show"] = false,
+},
+[75627] = {
+["show"] = false,
+},
+},
 ["tww-pvp-weekly"] = {
 ["show"] = false,
 },
@@ -19889,11 +19063,11 @@ false,
 ["Order"] = 50,
 ["MaxXP"] = 39070,
 ["MythicPlusScore"] = 0,
-["WeeklyResetTime"] = 1742425199,
+["WeeklyResetTime"] = 1743634799,
 ["PlayedLevel"] = 2366,
 ["PlayedTotal"] = 4703,
 ["oRace"] = "BloodElf",
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["Calling"] = {
 },
 ["Zone"] = "奥格瑞玛",
@@ -19903,7 +19077,7 @@ false,
 ["Cache"] = {
 [43179] = "达拉然肯瑞托",
 [50601] = "风暴之末",
-[42170] = "织梦者",
+[56120] = "破镣者",
 [50603] = "沃顿奈",
 [48639] = "圣光军团",
 [50562] = "艾泽拉斯的勇士",
@@ -19915,40 +19089,40 @@ false,
 [50599] = "普罗德摩尔海军部",
 [50600] = "灰烬骑士团",
 [56119] = "波涛之刃剑鱼人",
-[50602] = "塔兰吉远征队",
+[42170] = "织梦者",
 [42233] = "高岭诸族",
-[50604] = "始祖龟求知者",
+[42234] = "瓦拉加尔",
 [50605] = "联盟战事",
 [50606] = "部落战事",
-[42234] = "瓦拉加尔",
-[56120] = "破镣者",
 [42420] = "法罗迪斯宫廷",
+[50602] = "塔兰吉远征队",
+[50604] = "始祖龟求知者",
 },
 ["Expansion"] = {
 [6] = {
 {
 ["questID"] = {
-["Horde"] = 48642,
-["Alliance"] = 48642,
+["Horde"] = 43179,
+["Alliance"] = 43179,
 },
-["questNeed"] = 4,
-["expiredTime"] = 1742425271,
-},
-{
-["questID"] = {
-["Horde"] = 42233,
-["Alliance"] = 42233,
-},
-["questNeed"] = 4,
-["expiredTime"] = 1742511671,
+["questNeed"] = 3,
+["expiredTime"] = 1743202898,
 },
 {
 ["questID"] = {
-["Horde"] = 42422,
-["Alliance"] = 42422,
+["Horde"] = 42234,
+["Alliance"] = 42234,
 },
 ["questNeed"] = 4,
-["expiredTime"] = 1742598071,
+["expiredTime"] = 1743289298,
+},
+{
+["questID"] = {
+["Horde"] = 48639,
+["Alliance"] = 48639,
+},
+["questNeed"] = 4,
+["expiredTime"] = 1743375698,
 },
 {
 ["questID"] = {
@@ -19962,43 +19136,33 @@ false,
 [7] = {
 {
 ["questID"] = {
-["Horde"] = 50562,
-["Alliance"] = 50562,
+["Horde"] = 50598,
+["Alliance"] = 50599,
 },
 ["questNeed"] = 4,
-["expiredTime"] = 1742425237,
+["expiredTime"] = 1743202844,
 },
 {
 ["questID"] = {
-["Horde"] = 50603,
-["Alliance"] = 50600,
+["Horde"] = 50602,
+["Alliance"] = 50601,
 },
 ["questNeed"] = 4,
-["expiredTime"] = 1742511637,
+["expiredTime"] = 1743289244,
 },
 {
 ["questID"] = {
-["Horde"] = 50606,
-["Alliance"] = 50605,
+["Horde"] = 56120,
+["Alliance"] = 56119,
 },
 ["questNeed"] = 4,
-["expiredTime"] = 1742598037,
+["expiredTime"] = 1743375644,
 },
 },
 },
 },
-["DailyResetTime"] = 1742425199,
+["DailyResetTime"] = 1743202799,
 ["Quests"] = {
-[80592] = {
-["Expires"] = 1742425199,
-["Title"] = "订立契约",
-["Link"] = "|cffffff00|Hquest:80592:90|h[订立契约]|h|r",
-},
-[84370] = {
-["Expires"] = 1742425199,
-["Title"] = "成功之匙",
-["Link"] = "|cffffff00|Hquest:84370:90|h[成功之匙]|h|r",
-},
 },
 ["Indicators"] = {
 ["R2ClassColor"] = true,
@@ -20053,8 +19217,8 @@ false,
 0,
 0,
 },
+["R7Indicator"] = "BLANK",
 ["R2Text"] = "KILLED/TOTAL",
-["R8Text"] = "KILLED/TOTALM",
 ["D3Color"] = {
 1,
 0,
@@ -20066,12 +19230,12 @@ false,
 0.6,
 0,
 },
+["R1Indicator"] = "BLANK",
 ["R2Color"] = {
 0.6,
 0,
 0,
 },
-["R6Text"] = "KILLED/TOTAL",
 ["R3Indicator"] = "BLANK",
 ["R7ClassColor"] = true,
 ["R3Text"] = "KILLED/TOTALH",
@@ -20085,9 +19249,9 @@ false,
 ["R3ClassColor"] = true,
 ["R5Indicator"] = "BLANK",
 ["R5ClassColor"] = true,
-["R1Indicator"] = "BLANK",
+["R6Text"] = "KILLED/TOTAL",
 ["R8Indicator"] = "BLANK",
-["R7Indicator"] = "BLANK",
+["R8Text"] = "KILLED/TOTALM",
 ["D1Color"] = {
 0,
 0.6,
